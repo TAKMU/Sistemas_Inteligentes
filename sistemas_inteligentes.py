@@ -1,49 +1,30 @@
 
 import pandas as pd
+import numpy as np
 import random
-PRODUCTS = {
+PRODUCTS = pd.DataFrame({
     'Names' : ["Dubalin", "Chocolate", "Sabritas", "Gansitos", "Bubaloo", "Panditas"],
     'Weight' : [.6, 1, .1, .6, .4, .2, .3],
     'Buy_Price': [60, 100, 50, 200, 600, 500, 400],
     'Sale_Price' : [70, 400, 140, 320, 650, 600, 580],
     'Total' : [1, 1, 1, 1, 1, 1, 1, 1]
-    }
+    })
 
 def init_population(n):
-    """Return a population of n random solutions. Each solution is 
-    a list of 8 elements, with each element being the quantity of each product.
-    """
-    print([random.sample(range(1, 6), 7) for i in range(n)])
-    return ([random.sample(range(1, 6), 7) for i in range(n)])
-
+    new_population = np.random.randint(low=1, high=6, size=(n, 7))
+    print(new_population)
+    return new_population
 
 def fitness(candidate):
-    """Return number of unique outcomes. Iterate through all
-    possible pairs of poisonous barrels and the twelve slots.
-    For each poisonous pair generate the outcome as a list
-    e.g. [0,1,2,3], where the indexes are the orchids and
-    numbers they day that orchid died (3 indicates that it
-    did not die). Calculate the number of unique outcomes by
-    adding outcomes o a set and return 66 - the length of
-    that set. For a perfect solution there are 66 unique
-    outcomes, thus return 0.
-    """
-    outcomes = set()
-    values = []
-    for quantity, i in enumerate(candidate): # Iterate through all poisonous barrels
-        quantity * PRODUCTS[i][3]
-        
-        for o in range(4): # Orchid
-            dead_orchid = False
-            for d in range(3): # Day
-                if not dead_orchid and any([p in candidate[o][d]
-                                            for p in poisoned]):
-                    dead_orchid = True
-                    died_on.append(d)
-                elif not dead_orchid and d==2:
-                    died_on.append(3) # Add the "survive" token 3.
-        outcomes.add(tuple(died_on))
-    return 66 - len(outcomes)
+    result_weight = (PRODUCTS['Weight'] * candidate).sum()
+    result_buy = (PRODUCTS['Buy_Price'] * candidate).sum()
+    result_sale = (PRODUCTS['Sale_Price'] * candidate).sum()
+    print(result_weight, result_buy, result_sale)
+    if result_weight > 20:
+        return 0
+    if result_buy > 1000:
+        return 0
+    return result_sale - result_buy
 def evaluation(population):
     """Return a population sorted by fitness."""
     return sorted(population, key= lambda x:fitness(x))
