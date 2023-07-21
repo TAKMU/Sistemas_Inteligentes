@@ -94,10 +94,10 @@ for i in range(n_generations):
     parents = selection(ranking, per_selection)
     children = crossover(parents)
     children = mutation(children)
-    pop = np.empty((n_pop, n_product), dtype=int)
-    pop[:children.shape[0]] = children
-    pop[children.shape[0]:] = parents[:n_pop-children.shape[0]]
-    pop = evaluation(pop)
+    new_pop = np.empty((n_pop, n_product), dtype=int)
+    new_pop[:children.shape[0]] = children
+    new_pop[children.shape[0]:] = pop[:(n_pop-children.shape[0])]
+    pop = evaluation(new_pop)
 
 
 solution = evaluation(pop)[0]
