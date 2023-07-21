@@ -3,19 +3,27 @@ import pandas as pd
 import numpy as np
 import random
 PRODUCTS = pd.DataFrame({
-    'Names' : ["Dubalin", "Chocolate", "Sabritas", "Gansitos", "Bubaloo", "Panditas"],
+    'Names' : ["Dubalin", "Chocolate", "Sabritas", "Gansitos", "Bubaloo", "Panditas", "Kranky"],
     'Weight' : [.6, 1, .1, .6, .4, .2, .3],
-    'Buy_Price': [60, 100, 50, 200, 600, 500, 400],
-    'Sale_Price' : [70, 400, 140, 320, 650, 600, 580],
-    'Total' : [1, 1, 1, 1, 1, 1, 1, 1]
+    'Buy_Price': [60, 30, 80, 66, 34, 76, 33],
+    'Sale_Price' : [70, 80, 140, 100, 320, 43, 124]
     })
 
 def init_population(n):
+    """Return a population of n random solutions. Each solution is 
+    a nx7 list, with each row representing the quantity of the products to buy.
+    """
     new_population = np.random.randint(low=1, high=6, size=(n, 7))
-    print(new_population)
+    # print(new_population)
     return new_population
 
 def fitness(candidate):
+    """Return the score of the fit of the solution to the problem, considering 
+    the earnings. It also considers the restrictions:
+    - weight <= 20
+    - spending <= 1000
+    If the solution doesn't comply with the conditions, it will give a fitness of 0
+    """
     result_weight = (PRODUCTS['Weight'] * candidate).sum()
     result_buy = (PRODUCTS['Buy_Price'] * candidate).sum()
     result_sale = (PRODUCTS['Sale_Price'] * candidate).sum()
@@ -25,9 +33,11 @@ def fitness(candidate):
     if result_buy > 1000:
         return 0
     return result_sale - result_buy
+
 def evaluation(population):
     """Return a population sorted by fitness."""
     return sorted(population, key= lambda x:fitness(x))
+
 def selection(population):
     """Return top half of population."""
     return population[:len(population)//2]
