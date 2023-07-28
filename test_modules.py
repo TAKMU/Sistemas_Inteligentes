@@ -35,10 +35,12 @@ def fitness(candidate):
     result_weight = (PRODUCTS['Weight'] * candidate).sum()
     result_buy = (PRODUCTS['Buy_Price'] * candidate).sum()
     result_sale = (PRODUCTS['Sale_Price'] * candidate).sum()
-    if result_weight > 15:
-        return (15 - result_weight) * 66.67
-    if result_buy > 1000:
-        return 1500 - result_buy
+    if result_weight > 15 or result_buy > 1000:
+        return 0
+    #if result_weight > 15:
+    #    return (15 - result_weight) * 66.67
+    #if result_buy > 1000:
+    #    return 1500 - result_buy
     return result_sale - result_buy
 
 def evaluation(population):
@@ -109,15 +111,15 @@ print(PRODUCTS)
 
 
 
-n_p = 10
-n_g = 100
+n_p = 50
+n_g = 500
 p_mutate = 0.1
 per_selection = 0.50
-for i in range(1, 51):
+for i in range(1, 21):
     n_pop = n_p * i
-    for j in range(1, 11):
+    for j in range(1, 3):
         n_generations = n_g * j
-        with open('results.txt', 'a') as f:
+        with open('results_2.txt', 'a') as f:
             f.write("================== \n")
             f.write("population size: {0} \n generations: {1} \n mutation %: {2} \n selection %: {3} \n". format(n_pop, n_generations, p_mutate, per_selection))
         sol1 = []
@@ -127,11 +129,11 @@ for i in range(1, 51):
             solution = gen_algorithm()
             et = time.time()
             elapsed_time = et - st
-            with open('results.txt', 'a') as f:
+            with open('results_2.txt', 'a') as f:
                 f.write('Execution time: ' + str(elapsed_time) + ' seconds\n')
             sol1.append(solution)
             ran1.append(fitness(solution))
-        with open('results.txt', 'a') as f:
+        with open('results_2.txt', 'a') as f:
             f.write("Ganancias \n")
             for score in ran1:
                 f.write(str(score) + "\n")
