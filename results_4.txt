@@ -1,0 +1,50 @@
+================== 
+population size: 50 
+ generations: 100 
+ mutation %: 0.1 
+ selection %: 0.5 
+Execution time: 1.615025520324707 seconds
+Solution: [1 6 2 3 3 1 6]
+Score: 1486 MXN
+Execution time: 1.603064775466919 seconds
+Solution: [1 5 2 2 3 1 7]
+Score: 1493 MXN
+Execution time: 1.5602624416351318 seconds
+Solution: [1 3 2 1 5 1 6]
+Score: 1540 MXN
+Execution time: 1.5220084190368652 seconds
+Solution: [2 3 2 2 4 1 7]
+Score: 1539 MXN
+Execution time: 1.614999532699585 seconds
+Solution: [1 1 5 1 4 1 7]
+Score: 1575 MXN
+Execution time: 1.6260008811950684 seconds
+Solution: [1 2 2 1 4 1 7]
+Score: 1445 MXN
+Execution time: 1.6879985332489014 seconds
+Solution: [1 6 2 1 4 3 5]
+Score: 1463 MXN
+Execution time: 1.5859999656677246 seconds
+Solution: [1 2 3 2 5 2 5]
+Score: 1493 MXN
+Execution time: 1.5159986019134521 seconds
+Solution: [1 5 2 2 4 2 6]
+Score: 1538 MXN
+Execution time: 1.536010503768921 seconds
+Solution: [1 4 4 1 4 1 6]
+Score: 1574 MXN
+Ganancias 
+1486
+1493
+1540
+1539
+1575
+1445
+1463
+1493
+1538
+1574
+Mejor Solución 
+[1 1 5 1 4 1 7]
+Max Ganancia 
+1575

@@ -32,22 +32,6 @@ def init_population(n):
 def fitness(candidate):
     """Give the score of the 
     """
-    """
-    result_weight = (PRODUCTS['Weight'] * candidate).sum()
-    result_buy = (PRODUCTS['Buy_Price'] * candidate).sum()
-    result_sale = (PRODUCTS['Sale_Price'] * candidate).sum()
-    if result_weight > 15:
-        return (15 - result_weight) * 66.67
-    if result_buy > 1000:
-        return 1500 - result_buy
-    return result_sale - result_buy
-    """
-
-    """
-    buy_limit 1000
-    buy_result 10000
-
-    """
 
 
 
@@ -117,6 +101,16 @@ def mutation(population):
     mutated_population = mutate(population)
     return mutated_population
 
+def is_solution(candidate):
+    weight_limit = 15
+    buy_limit = 1000
+    result_weight = (PRODUCTS['Weight'] * candidate).sum()
+    result_buy = (PRODUCTS['Buy_Price'] * candidate).sum()
+    if result_weight > weight_limit or result_buy > buy_limit:
+        return False
+    else: 
+        return True
+
 def gen_algorithm():
     pop = init_population(n_pop)
     ranking = evaluation(pop)
@@ -129,22 +123,27 @@ def gen_algorithm():
         new_pop[:children.shape[0]] = children
         new_pop[children.shape[0]:] = pop[:(n_pop-children.shape[0])]
         pop = evaluation(new_pop)
+    r_sol = []
+    for com in pop:
+        is_sol = is_solution(com)
+        if is_sol:
+            r_sol.append(com)
+    pop = np.array(r_sol)
     solution = evaluation(pop)[0]
     return solution
 
 print(PRODUCTS)
 
 
-
 n_p = 50
 n_g = 100
-p_mutate = 0.1
-per_selection = 0.50
-for i in range(1, 21):
+p_mutate = 0.3
+per_selection = 0.7
+for i in range(10, 12):
     n_pop = n_p * i
-    for j in range(1, 11):
+    for j in range(10, 16):
         n_generations = n_g * j
-        with open('results_3.txt', 'a') as f:
+        with open('results_q.txt', 'a') as f:
             f.write("================== \n")
             f.write("population size: {0} \n generations: {1} \n mutation %: {2} \n selection %: {3} \n". format(n_pop, n_generations, p_mutate, per_selection))
         sol1 = []
@@ -154,17 +153,11 @@ for i in range(1, 21):
             solution = gen_algorithm()
             et = time.time()
             elapsed_time = et - st
-            product_n = 0
-            for i in solution:
-                product_n += i
-            with open('results_3.txt', 'a') as f:
+            with open('results_q.txt', 'a') as f:
                 f.write('Execution time: ' + str(elapsed_time) + ' seconds\n')
-                f.write('Solution: ' + str(solution) + '\n')
-                f.write('Score: ' + str(fitness(solution)) + ' MXN\n')
-                f.write('Products: ' + str(product_n) + ' items\n')
             sol1.append(solution)
             ran1.append(fitness(solution))
-        with open('results_3.txt', 'a') as f:
+        with open('results_q.txt', 'a') as f:
             f.write("Ganancias \n")
             for score in ran1:
                 f.write(str(score) + "\n")
@@ -174,40 +167,3 @@ for i in range(1, 21):
             f.write(str(max(ran1)) + "\n")
 
 
-n_pop = 500
-n_generations = 1000
-p_m = 0.1
-p_s = 0.1
-for i in range(1, 11):
-    p_mutate = p_m * i
-    for j in range(1, 11):
-        per_selection = p_s * i
-        with open('results_3.txt', 'a') as f:
-            f.write("================== \n")
-            f.write("population size: {0} \n generations: {1} \n mutation %: {2} \n selection %: {3} \n". format(n_pop, n_generations, p_mutate, per_selection))
-        sol1 = []
-        ran1 = []
-        item1 = []
-        for k in range(10):
-            st = time.time()
-            solution = gen_algorithm()
-            et = time.time()
-            elapsed_time = et - st
-            with open('results_3.txt', 'a') as f:
-                f.write('Execution time: ' + str(elapsed_time) + ' seconds\n')
-            sol1.append(solution)
-            ran1.append(fitness(solution))
-        with open('results_3.txt', 'a') as f:
-            f.write("Ganancias \n")
-            for score in ran1:
-                f.write(str(score) + "\n")
-            f.write("Cantidad de objetos \n")
-            for item in item1:
-                f.write(str(item) + "\n")
-            f.write("Combinaciones \n")
-            for sol in sol1:
-                f.write(str(sol) + "\n")
-            f.write("Mejor Solución \n")
-            f.write(str(sol1[ran1.index(max(ran1))]) + "\n")
-            f.write("Max Ganancia \n")
-            f.write(str(max(ran1)) + "\n")

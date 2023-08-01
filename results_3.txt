@@ -1,0 +1,8059 @@
+================== 
+population size: 50 
+ generations: 100 
+ mutation %: 0.1 
+ selection %: 0.5 
+Execution time: 1.6657922267913818 seconds
+Solution: [1 6 4 1 4 1 5]
+Score: 1575.242 MXN
+Products: 22 items
+Execution time: 1.5822367668151855 seconds
+Solution: [1 2 4 2 4 1 7]
+Score: 1559.79 MXN
+Products: 21 items
+Execution time: 1.5801444053649902 seconds
+Solution: [1 1 4 1 5 2 7]
+Score: 1573.28 MXN
+Products: 21 items
+Execution time: 1.5978302955627441 seconds
+Solution: [2 3 2 1 5 1 6]
+Score: 1469.0 MXN
+Products: 20 items
+Execution time: 1.5421323776245117 seconds
+Solution: [1 6 3 1 4 2 6]
+Score: 1529.328 MXN
+Products: 23 items
+Execution time: 1.5110204219818115 seconds
+Solution: [1 1 3 4 4 1 6]
+Score: 1456.12 MXN
+Products: 20 items
+Execution time: 1.5184955596923828 seconds
+Solution: [3 6 1 1 4 2 6]
+Score: 1397.0533333333335 MXN
+Products: 23 items
+Execution time: 1.538438081741333 seconds
+Solution: [1 4 2 3 3 1 7]
+Score: 1477 MXN
+Products: 21 items
+Execution time: 1.5186641216278076 seconds
+Solution: [1 3 1 3 4 2 7]
+Score: 1503 MXN
+Products: 21 items
+Execution time: 1.527888298034668 seconds
+Solution: [2 5 2 3 3 1 7]
+Score: 1441.762 MXN
+Products: 23 items
+Ganancias 
+1575.242
+1559.79
+1573.28
+1469.0
+1529.328
+1456.12
+1397.0533333333335
+1477
+1503
+1441.762
+Mejor Soluci�n 
+[1 6 4 1 4 1 5]
+Max Ganancia 
+1575.242
+================== 
+population size: 50 
+ generations: 200 
+ mutation %: 0.1 
+ selection %: 0.5 
+Execution time: 3.0340640544891357 seconds
+Solution: [1 4 3 1 5 2 5]
+Score: 1491.48 MXN
+Products: 21 items
+Execution time: 3.0625832080841064 seconds
+Solution: [1 5 2 2 4 1 7]
+Score: 1629 MXN
+Products: 22 items
+Execution time: 2.9832987785339355 seconds
+Solution: [1 4 2 4 3 1 7]
+Score: 1478.188 MXN
+Products: 22 items
+Execution time: 3.0490686893463135 seconds
+Solution: [1 5 4 1 3 1 7]
+Score: 1566.08 MXN
+Products: 22 items
+Execution time: 2.9890007972717285 seconds
+Solution: [1 3 1 2 4 1 7]
+Score: 1469 MXN
+Products: 19 items
+Execution time: 2.966750144958496 seconds
+Solution: [1 2 4 1 5 1 6]
+Score: 1610 MXN
+Products: 20 items
+Execution time: 3.0196659564971924 seconds
+Solution: [2 2 2 2 4 2 7]
+Score: 1489 MXN
+Products: 21 items
+Execution time: 2.9994990825653076 seconds
+Solution: [2 2 3 2 4 1 7]
+Score: 1549 MXN
+Products: 21 items
+Execution time: 2.9916579723358154 seconds
+Solution: [1 6 1 1 4 3 6]
+Score: 1494 MXN
+Products: 22 items
+Execution time: 3.009420394897461 seconds
+Solution: [1 2 5 1 4 1 6]
+Score: 1534 MXN
+Products: 20 items
+Ganancias 
+1491.48
+1629
+1478.188
+1566.08
+1469
+1610
+1489
+1549
+1494
+1534
+Mejor Soluci�n 
+[1 5 2 2 4 1 7]
+Max Ganancia 
+1629
+================== 
+population size: 50 
+ generations: 300 
+ mutation %: 0.1 
+ selection %: 0.5 
+Execution time: 4.50303840637207 seconds
+Solution: [1 5 1 1 4 1 7]
+Score: 1535 MXN
+Products: 20 items
+Execution time: 4.505724668502808 seconds
+Solution: [1 2 3 2 5 1 6]
+Score: 1567.2000000000003 MXN
+Products: 20 items
+Execution time: 4.503388166427612 seconds
+Solution: [1 5 1 2 4 2 7]
+Score: 1569 MXN
+Products: 22 items
+Execution time: 4.792865991592407 seconds
+Solution: [1 1 5 1 5 1 6]
+Score: 1620 MXN
+Products: 20 items
+Execution time: 4.471774101257324 seconds
+Solution: [1 5 1 1 5 1 7]
+Score: 1487.373333333333 MXN
+Products: 21 items
+Execution time: 4.851638317108154 seconds
+Solution: [1 4 1 1 5 1 6]
+Score: 1484.0 MXN
+Products: 19 items
+Execution time: 4.543286561965942 seconds
+Solution: [1 1 3 2 5 2 6]
+Score: 1534 MXN
+Products: 20 items
+Execution time: 4.511554718017578 seconds
+Solution: [1 4 2 1 4 2 7]
+Score: 1545 MXN
+Products: 21 items
+Execution time: 4.505852699279785 seconds
+Solution: [1 4 4 1 5 1 6]
+Score: 1574.0000000000005 MXN
+Products: 22 items
+Execution time: 4.497791767120361 seconds
+Solution: [1 7 2 1 4 1 6]
+Score: 1604 MXN
+Products: 22 items
+Ganancias 
+1535
+1567.2000000000003
+1569
+1620
+1487.373333333333
+1484.0
+1534
+1545
+1574.0000000000005
+1604
+Mejor Soluci�n 
+[1 1 5 1 5 1 6]
+Max Ganancia 
+1620
+================== 
+population size: 50 
+ generations: 400 
+ mutation %: 0.1 
+ selection %: 0.5 
+Execution time: 5.961223840713501 seconds
+Solution: [2 5 2 1 4 1 6]
+Score: 1514 MXN
+Products: 21 items
+Execution time: 6.073938846588135 seconds
+Solution: [1 1 1 3 5 1 6]
+Score: 1448 MXN
+Products: 18 items
+Execution time: 6.0286126136779785 seconds
+Solution: [1 2 1 1 5 1 7]
+Score: 1521 MXN
+Products: 18 items
+Execution time: 5.970427751541138 seconds
+Solution: [1 5 3 2 4 1 6]
+Score: 1598 MXN
+Products: 22 items
+Execution time: 5.926404237747192 seconds
+Solution: [1 3 2 3 4 1 7]
+Score: 1563 MXN
+Products: 21 items
+Execution time: 5.942101240158081 seconds
+Solution: [1 7 1 1 4 1 5]
+Score: 1453 MXN
+Products: 20 items
+Execution time: 5.954306125640869 seconds
+Solution: [1 4 4 1 5 1 4]
+Score: 1528 MXN
+Products: 20 items
+Execution time: 6.272920370101929 seconds
+Solution: [2 4 3 1 3 1 7]
+Score: 1479 MXN
+Products: 21 items
+Execution time: 5.984607696533203 seconds
+Solution: [1 4 4 1 4 1 7]
+Score: 1640.934 MXN
+Products: 22 items
+Execution time: 6.004068851470947 seconds
+Solution: [1 3 5 1 5 1 5]
+Score: 1557.288 MXN
+Products: 21 items
+Ganancias 
+1514
+1448
+1521
+1598
+1563
+1453
+1528
+1479
+1640.934
+1557.288
+Mejor Soluci�n 
+[1 4 4 1 4 1 7]
+Max Ganancia 
+1640.934
+================== 
+population size: 50 
+ generations: 500 
+ mutation %: 0.1 
+ selection %: 0.5 
+Execution time: 7.4302659034729 seconds
+Solution: [1 4 2 1 4 1 7]
+Score: 1545 MXN
+Products: 20 items
+Execution time: 7.535884141921997 seconds
+Solution: [1 5 4 1 4 1 6]
+Score: 1608.22 MXN
+Products: 22 items
+Execution time: 7.428138494491577 seconds
+Solution: [1 7 2 2 4 1 7]
+Score: 1569.5166666666669 MXN
+Products: 24 items
+Execution time: 7.499362945556641 seconds
+Solution: [1 6 3 1 4 2 5]
+Score: 1523 MXN
+Products: 22 items
+Execution time: 7.415939807891846 seconds
+Solution: [1 6 2 2 4 1 6]
+Score: 1588 MXN
+Products: 22 items
+Execution time: 7.371037244796753 seconds
+Solution: [1 7 2 1 4 2 6]
+Score: 1586.7600000000004 MXN
+Products: 23 items
+Execution time: 7.661112308502197 seconds
+Solution: [1 2 3 2 5 1 7]
+Score: 1604.4933333333336 MXN
+Products: 21 items
+Execution time: 7.622041702270508 seconds
+Solution: [1 5 1 2 4 1 7]
+Score: 1569 MXN
+Products: 21 items
+Execution time: 7.449501037597656 seconds
+Solution: [2 5 2 2 4 1 6]
+Score: 1531.1999999999998 MXN
+Products: 22 items
+Execution time: 7.440867900848389 seconds
+Solution: [1 1 2 2 5 2 7]
+Score: 1565 MXN
+Products: 20 items
+Ganancias 
+1545
+1608.22
+1569.5166666666669
+1523
+1588
+1586.7600000000004
+1604.4933333333336
+1569
+1531.1999999999998
+1565
+Mejor Soluci�n 
+[1 5 4 1 4 1 6]
+Max Ganancia 
+1608.22
+================== 
+population size: 50 
+ generations: 600 
+ mutation %: 0.1 
+ selection %: 0.5 
+Execution time: 8.91344165802002 seconds
+Solution: [1 1 4 2 5 1 6]
+Score: 1594 MXN
+Products: 20 items
+Execution time: 8.93642282485962 seconds
+Solution: [1 1 5 1 5 1 6]
+Score: 1620 MXN
+Products: 20 items
+Execution time: 9.012243032455444 seconds
+Solution: [1 5 1 4 3 1 7]
+Score: 1501 MXN
+Products: 22 items
+Execution time: 8.949113607406616 seconds
+Solution: [1 1 5 1 5 1 6]
+Score: 1620 MXN
+Products: 20 items
+Execution time: 9.178503036499023 seconds
+Solution: [3 4 3 1 4 1 6]
+Score: 1493.2 MXN
+Products: 22 items
+Execution time: 9.042820453643799 seconds
+Solution: [2 1 4 1 5 1 7]
+Score: 1626.238 MXN
+Products: 21 items
+Execution time: 9.434491395950317 seconds
+Solution: [1 3 4 1 4 1 7]
+Score: 1615 MXN
+Products: 21 items
+Execution time: 9.042528867721558 seconds
+Solution: [1 5 1 3 4 2 7]
+Score: 1497.73 MXN
+Products: 23 items
+Execution time: 9.132323026657104 seconds
+Solution: [1 3 3 1 5 1 6]
+Score: 1600 MXN
+Products: 20 items
+Execution time: 8.98319935798645 seconds
+Solution: [1 6 1 2 3 1 7]
+Score: 1483 MXN
+Products: 21 items
+Ganancias 
+1594
+1620
+1501
+1620
+1493.2
+1626.238
+1615
+1497.73
+1600
+1483
+Mejor Soluci�n 
+[2 1 4 1 5 1 7]
+Max Ganancia 
+1626.238
+================== 
+population size: 50 
+ generations: 700 
+ mutation %: 0.1 
+ selection %: 0.5 
+Execution time: 10.435394763946533 seconds
+Solution: [1 2 1 1 5 2 7]
+Score: 1521 MXN
+Products: 19 items
+Execution time: 10.634589433670044 seconds
+Solution: [1 1 2 3 5 1 7]
+Score: 1531.6933333333336 MXN
+Products: 20 items
+Execution time: 10.228852987289429 seconds
+Solution: [1 6 3 1 4 1 7]
+Score: 1705 MXN
+Products: 23 items
+Execution time: 10.458178758621216 seconds
+Solution: [1 6 3 1 4 1 6]
+Score: 1614 MXN
+Products: 22 items
+Execution time: 10.372208833694458 seconds
+Solution: [1 1 3 1 5 2 7]
+Score: 1591 MXN
+Products: 20 items
+Execution time: 10.373867511749268 seconds
+Solution: [1 1 5 1 4 1 7]
+Score: 1575 MXN
+Products: 20 items
+Execution time: 10.397963762283325 seconds
+Solution: [1 1 3 2 5 1 7]
+Score: 1625 MXN
+Products: 20 items
+Execution time: 10.485994815826416 seconds
+Solution: [2 1 4 1 5 1 6]
+Score: 1570 MXN
+Products: 20 items
+Execution time: 10.66495966911316 seconds
+Solution: [1 6 4 1 4 1 5]
+Score: 1575.242 MXN
+Products: 22 items
+Execution time: 10.422304391860962 seconds
+Solution: [1 3 3 1 4 2 7]
+Score: 1555 MXN
+Products: 21 items
+Ganancias 
+1521
+1531.6933333333336
+1705
+1614
+1591
+1575
+1625
+1570
+1575.242
+1555
+Mejor Soluci�n 
+[1 6 3 1 4 1 7]
+Max Ganancia 
+1705
+================== 
+population size: 50 
+ generations: 800 
+ mutation %: 0.1 
+ selection %: 0.5 
+Execution time: 11.88950777053833 seconds
+Solution: [1 6 3 2 4 1 6]
+Score: 1571.4599999999998 MXN
+Products: 23 items
+Execution time: 11.915781736373901 seconds
+Solution: [1 6 1 1 4 2 7]
+Score: 1585 MXN
+Products: 22 items
+Execution time: 11.855164289474487 seconds
+Solution: [1 6 1 1 4 1 7]
+Score: 1585 MXN
+Products: 21 items
+Execution time: 12.116090297698975 seconds
+Solution: [2 4 1 1 4 1 7]
+Score: 1495 MXN
+Products: 20 items
+Execution time: 11.911649227142334 seconds
+Solution: [1 1 2 3 5 2 7]
+Score: 1492.4 MXN
+Products: 21 items
+Execution time: 11.94787049293518 seconds
+Solution: [2 1 2 1 5 3 7]
+Score: 1494.3233333333335 MXN
+Products: 21 items
+Execution time: 11.777946949005127 seconds
+Solution: [2 4 1 2 4 1 7]
+Score: 1529 MXN
+Products: 21 items
+Execution time: 11.938479661941528 seconds
+Solution: [1 6 2 1 4 1 7]
+Score: 1645 MXN
+Products: 22 items
+Execution time: 11.796518564224243 seconds
+Solution: [1 3 2 1 5 2 7]
+Score: 1562.7333333333333 MXN
+Products: 21 items
+Execution time: 12.157792806625366 seconds
+Solution: [1 4 3 1 5 2 6]
+Score: 1510.1173333333334 MXN
+Products: 22 items
+Ganancias 
+1571.4599999999998
+1585
+1585
+1495
+1492.4
+1494.3233333333335
+1529
+1645
+1562.7333333333333
+1510.1173333333334
+Mejor Soluci�n 
+[1 6 2 1 4 1 7]
+Max Ganancia 
+1645
+================== 
+population size: 50 
+ generations: 900 
+ mutation %: 0.1 
+ selection %: 0.5 
+Execution time: 13.280456304550171 seconds
+Solution: [1 3 2 1 5 1 7]
+Score: 1597.88 MXN
+Products: 20 items
+Execution time: 13.45304799079895 seconds
+Solution: [2 4 3 1 4 1 7]
+Score: 1615 MXN
+Products: 22 items
+Execution time: 13.28061819076538 seconds
+Solution: [1 1 4 1 5 1 7]
+Score: 1651 MXN
+Products: 20 items
+Execution time: 13.35592532157898 seconds
+Solution: [1 7 2 3 3 1 6]
+Score: 1525.84 MXN
+Products: 23 items
+Execution time: 13.556689500808716 seconds
+Solution: [1 5 2 1 5 1 7]
+Score: 1519.48 MXN
+Products: 22 items
+Execution time: 13.259316682815552 seconds
+Solution: [1 6 3 2 4 1 6]
+Score: 1571.4599999999998 MXN
+Products: 23 items
+Execution time: 13.340399742126465 seconds
+Solution: [1 6 3 2 4 1 5]
+Score: 1557 MXN
+Products: 22 items
+Execution time: 13.33748197555542 seconds
+Solution: [1 2 4 1 5 1 7]
+Score: 1701 MXN
+Products: 21 items
+Execution time: 13.436026334762573 seconds
+Solution: [3 4 1 3 3 1 7]
+Score: 1437 MXN
+Products: 22 items
+Execution time: 13.656008958816528 seconds
+Solution: [2 6 3 1 4 1 5]
+Score: 1533 MXN
+Products: 22 items
+Ganancias 
+1597.88
+1615
+1651
+1525.84
+1519.48
+1571.4599999999998
+1557
+1701
+1437
+1533
+Mejor Soluci�n 
+[1 2 4 1 5 1 7]
+Max Ganancia 
+1701
+================== 
+population size: 50 
+ generations: 1000 
+ mutation %: 0.1 
+ selection %: 0.5 
+Execution time: 14.913586139678955 seconds
+Solution: [2 5 2 2 3 1 7]
+Score: 1503 MXN
+Products: 22 items
+Execution time: 14.90311598777771 seconds
+Solution: [2 5 2 1 4 1 6]
+Score: 1514 MXN
+Products: 21 items
+Execution time: 14.742544412612915 seconds
+Solution: [1 1 3 1 5 2 7]
+Score: 1591 MXN
+Products: 20 items
+Execution time: 15.213454723358154 seconds
+Solution: [2 4 2 2 4 1 7]
+Score: 1589 MXN
+Products: 22 items
+Execution time: 14.878700017929077 seconds
+Solution: [1 6 3 2 4 1 5]
+Score: 1557 MXN
+Products: 22 items
+Execution time: 14.847283601760864 seconds
+Solution: [2 1 4 1 5 1 7]
+Score: 1626.238 MXN
+Products: 21 items
+Execution time: 14.803722858428955 seconds
+Solution: [1 6 3 2 4 1 5]
+Score: 1557 MXN
+Products: 22 items
+Execution time: 14.830729484558105 seconds
+Solution: [1 4 3 1 5 1 7]
+Score: 1596.7866666666669 MXN
+Products: 22 items
+Execution time: 15.07357144355774 seconds
+Solution: [2 2 4 1 5 1 6]
+Score: 1558.6333333333334 MXN
+Products: 21 items
+Execution time: 14.887239694595337 seconds
+Solution: [2 6 3 1 4 1 5]
+Score: 1533 MXN
+Products: 22 items
+Ganancias 
+1503
+1514
+1591
+1589
+1557
+1626.238
+1557
+1596.7866666666669
+1558.6333333333334
+1533
+Mejor Soluci�n 
+[2 1 4 1 5 1 7]
+Max Ganancia 
+1626.238
+================== 
+population size: 100 
+ generations: 100 
+ mutation %: 0.1 
+ selection %: 0.5 
+Execution time: 2.9977118968963623 seconds
+Solution: [1 3 4 1 5 1 5]
+Score: 1569 MXN
+Products: 20 items
+Execution time: 3.014491319656372 seconds
+Solution: [2 6 2 1 4 1 7]
+Score: 1602.5200000000002 MXN
+Products: 23 items
+Execution time: 3.0042569637298584 seconds
+Solution: [1 5 2 2 4 2 7]
+Score: 1573.35 MXN
+Products: 23 items
+Execution time: 3.0191776752471924 seconds
+Solution: [1 5 4 1 4 1 6]
+Score: 1608.22 MXN
+Products: 22 items
+Execution time: 2.9887640476226807 seconds
+Solution: [1 2 2 1 5 2 7]
+Score: 1581 MXN
+Products: 20 items
+Execution time: 3.014943838119507 seconds
+Solution: [1 2 2 4 4 1 7]
+Score: 1547 MXN
+Products: 21 items
+Execution time: 3.0154080390930176 seconds
+Solution: [1 3 4 2 5 1 4]
+Score: 1495.386666666667 MXN
+Products: 20 items
+Execution time: 3.0301337242126465 seconds
+Solution: [2 1 4 1 5 1 6]
+Score: 1570 MXN
+Products: 20 items
+Execution time: 3.0137624740600586 seconds
+Solution: [1 3 4 1 5 1 6]
+Score: 1642.4000000000003 MXN
+Products: 21 items
+Execution time: 3.0743825435638428 seconds
+Solution: [1 3 4 1 4 1 7]
+Score: 1615 MXN
+Products: 21 items
+Ganancias 
+1569
+1602.5200000000002
+1573.35
+1608.22
+1581
+1547
+1495.386666666667
+1570
+1642.4000000000003
+1615
+Mejor Soluci�n 
+[1 3 4 1 5 1 6]
+Max Ganancia 
+1642.4000000000003
+================== 
+population size: 100 
+ generations: 200 
+ mutation %: 0.1 
+ selection %: 0.5 
+Execution time: 6.0206968784332275 seconds
+Solution: [1 6 3 2 4 1 5]
+Score: 1557 MXN
+Products: 22 items
+Execution time: 6.265550136566162 seconds
+Solution: [1 6 4 1 4 1 5]
+Score: 1575.242 MXN
+Products: 22 items
+Execution time: 5.970194578170776 seconds
+Solution: [2 1 3 1 5 1 6]
+Score: 1510 MXN
+Products: 19 items
+Execution time: 6.006432056427002 seconds
+Solution: [1 6 1 3 3 1 7]
+Score: 1517 MXN
+Products: 22 items
+Execution time: 6.141284227371216 seconds
+Solution: [1 3 4 1 5 1 6]
+Score: 1642.4000000000003 MXN
+Products: 21 items
+Execution time: 6.084796190261841 seconds
+Solution: [1 2 5 1 5 1 5]
+Score: 1579 MXN
+Products: 20 items
+Execution time: 5.982594013214111 seconds
+Solution: [1 3 4 1 5 1 5]
+Score: 1569 MXN
+Products: 20 items
+Execution time: 5.962867259979248 seconds
+Solution: [1 5 2 1 4 1 7]
+Score: 1595 MXN
+Products: 21 items
+Execution time: 5.956489562988281 seconds
+Solution: [1 5 2 2 4 1 7]
+Score: 1629 MXN
+Products: 22 items
+Execution time: 6.023180246353149 seconds
+Solution: [1 6 1 2 4 2 5]
+Score: 1437 MXN
+Products: 21 items
+Ganancias 
+1557
+1575.242
+1510
+1517
+1642.4000000000003
+1579
+1569
+1595
+1629
+1437
+Mejor Soluci�n 
+[1 3 4 1 5 1 6]
+Max Ganancia 
+1642.4000000000003
+================== 
+population size: 100 
+ generations: 300 
+ mutation %: 0.1 
+ selection %: 0.5 
+Execution time: 8.896294116973877 seconds
+Solution: [1 6 2 2 4 1 7]
+Score: 1625.92 MXN
+Products: 23 items
+Execution time: 9.282524824142456 seconds
+Solution: [1 1 4 2 4 1 7]
+Score: 1549 MXN
+Products: 20 items
+Execution time: 8.860186338424683 seconds
+Solution: [1 4 3 2 4 1 7]
+Score: 1639 MXN
+Products: 22 items
+Execution time: 8.904025793075562 seconds
+Solution: [1 3 5 1 5 1 5]
+Score: 1557.288 MXN
+Products: 21 items
+Execution time: 8.86459994316101 seconds
+Solution: [1 5 1 3 4 1 6]
+Score: 1512 MXN
+Products: 21 items
+Execution time: 9.067478895187378 seconds
+Solution: [1 1 5 1 5 1 6]
+Score: 1620 MXN
+Products: 20 items
+Execution time: 8.937613248825073 seconds
+Solution: [1 5 3 2 4 1 6]
+Score: 1598 MXN
+Products: 22 items
+Execution time: 9.086013793945312 seconds
+Solution: [1 5 4 1 4 1 6]
+Score: 1608.22 MXN
+Products: 22 items
+Execution time: 8.99491024017334 seconds
+Solution: [1 3 3 1 5 1 7]
+Score: 1638.5200000000002 MXN
+Products: 21 items
+Execution time: 9.104242324829102 seconds
+Solution: [1 3 4 1 5 1 6]
+Score: 1642.4000000000003 MXN
+Products: 21 items
+Ganancias 
+1625.92
+1549
+1639
+1557.288
+1512
+1620
+1598
+1608.22
+1638.5200000000002
+1642.4000000000003
+Mejor Soluci�n 
+[1 3 4 1 5 1 6]
+Max Ganancia 
+1642.4000000000003
+================== 
+population size: 100 
+ generations: 400 
+ mutation %: 0.1 
+ selection %: 0.5 
+Execution time: 11.883371591567993 seconds
+Solution: [1 2 5 1 4 1 7]
+Score: 1548.034 MXN
+Products: 21 items
+Execution time: 11.878553867340088 seconds
+Solution: [1 4 3 1 5 1 6]
+Score: 1564.0 MXN
+Products: 21 items
+Execution time: 11.923107862472534 seconds
+Solution: [2 5 1 1 4 3 7]
+Score: 1499.844 MXN
+Products: 23 items
+Execution time: 11.871904373168945 seconds
+Solution: [2 2 2 1 5 1 7]
+Score: 1541.5200000000002 MXN
+Products: 20 items
+Execution time: 12.27146053314209 seconds
+Solution: [1 6 4 1 4 1 5]
+Score: 1575.242 MXN
+Products: 22 items
+Execution time: 11.992921352386475 seconds
+Solution: [2 1 4 1 5 1 6]
+Score: 1570 MXN
+Products: 20 items
+Execution time: 11.767927885055542 seconds
+Solution: [1 5 4 1 4 1 6]
+Score: 1608.22 MXN
+Products: 22 items
+Execution time: 11.817330837249756 seconds
+Solution: [1 1 5 1 5 1 6]
+Score: 1620 MXN
+Products: 20 items
+Execution time: 11.808940172195435 seconds
+Solution: [1 2 3 3 4 1 7]
+Score: 1570.426 MXN
+Products: 21 items
+Execution time: 11.862269639968872 seconds
+Solution: [2 1 3 1 5 2 7]
+Score: 1560.1100000000001 MXN
+Products: 21 items
+Ganancias 
+1548.034
+1564.0
+1499.844
+1541.5200000000002
+1575.242
+1570
+1608.22
+1620
+1570.426
+1560.1100000000001
+Mejor Soluci�n 
+[1 1 5 1 5 1 6]
+Max Ganancia 
+1620
+================== 
+population size: 100 
+ generations: 500 
+ mutation %: 0.1 
+ selection %: 0.5 
+Execution time: 15.065781354904175 seconds
+Solution: [1 2 3 1 5 2 7]
+Score: 1641 MXN
+Products: 21 items
+Execution time: 14.790399312973022 seconds
+Solution: [1 6 2 2 4 1 6]
+Score: 1588 MXN
+Products: 22 items
+Execution time: 14.772280216217041 seconds
+Solution: [1 5 1 3 4 1 6]
+Score: 1512 MXN
+Products: 21 items
+Execution time: 14.909762144088745 seconds
+Solution: [1 3 3 2 5 1 7]
+Score: 1561.56 MXN
+Products: 22 items
+Execution time: 15.088447093963623 seconds
+Solution: [1 1 4 1 5 1 6]
+Score: 1560 MXN
+Products: 19 items
+Execution time: 14.782656192779541 seconds
+Solution: [1 5 2 1 4 2 7]
+Score: 1595 MXN
+Products: 22 items
+Execution time: 14.789029598236084 seconds
+Solution: [1 1 4 2 4 1 7]
+Score: 1549 MXN
+Products: 20 items
+Execution time: 14.849130868911743 seconds
+Solution: [2 2 4 1 4 1 7]
+Score: 1551.744 MXN
+Products: 21 items
+Execution time: 14.727452993392944 seconds
+Solution: [2 5 2 2 4 1 6]
+Score: 1531.1999999999998 MXN
+Products: 22 items
+Execution time: 15.201909065246582 seconds
+Solution: [1 3 3 1 5 2 6]
+Score: 1565.6533333333334 MXN
+Products: 21 items
+Ganancias 
+1641
+1588
+1512
+1561.56
+1560
+1595
+1549
+1551.744
+1531.1999999999998
+1565.6533333333334
+Mejor Soluci�n 
+[1 2 3 1 5 2 7]
+Max Ganancia 
+1641
+================== 
+population size: 100 
+ generations: 600 
+ mutation %: 0.1 
+ selection %: 0.5 
+Execution time: 17.78636384010315 seconds
+Solution: [1 2 5 1 5 1 6]
+Score: 1589.0 MXN
+Products: 21 items
+Execution time: 17.79092526435852 seconds
+Solution: [1 1 4 2 5 1 6]
+Score: 1594 MXN
+Products: 20 items
+Execution time: 17.747601747512817 seconds
+Solution: [1 6 2 1 4 2 7]
+Score: 1645 MXN
+Products: 23 items
+Execution time: 18.416452646255493 seconds
+Solution: [1 2 3 1 5 1 7]
+Score: 1641 MXN
+Products: 20 items
+Execution time: 17.831471920013428 seconds
+Solution: [1 1 4 2 5 1 6]
+Score: 1594 MXN
+Products: 20 items
+Execution time: 17.763549089431763 seconds
+Solution: [1 7 3 1 4 1 6]
+Score: 1664 MXN
+Products: 23 items
+Execution time: 18.033820867538452 seconds
+Solution: [2 1 4 1 5 1 7]
+Score: 1626.238 MXN
+Products: 21 items
+Execution time: 17.71072483062744 seconds
+Solution: [1 1 2 3 5 1 7]
+Score: 1531.6933333333336 MXN
+Products: 20 items
+Execution time: 17.70457172393799 seconds
+Solution: [1 1 3 2 5 1 7]
+Score: 1625 MXN
+Products: 20 items
+Execution time: 17.82220220565796 seconds
+Solution: [1 6 1 1 4 1 7]
+Score: 1585 MXN
+Products: 21 items
+Ganancias 
+1589.0
+1594
+1645
+1641
+1594
+1664
+1626.238
+1531.6933333333336
+1625
+1585
+Mejor Soluci�n 
+[1 7 3 1 4 1 6]
+Max Ganancia 
+1664
+================== 
+population size: 100 
+ generations: 700 
+ mutation %: 0.1 
+ selection %: 0.5 
+Execution time: 20.852639198303223 seconds
+Solution: [1 2 2 1 5 1 7]
+Score: 1581 MXN
+Products: 19 items
+Execution time: 20.787997484207153 seconds
+Solution: [1 4 3 1 4 1 7]
+Score: 1605 MXN
+Products: 21 items
+Execution time: 20.56694006919861 seconds
+Solution: [1 2 3 2 5 1 7]
+Score: 1604.4933333333336 MXN
+Products: 21 items
+Execution time: 21.118566036224365 seconds
+Solution: [1 5 3 2 4 1 6]
+Score: 1598 MXN
+Products: 22 items
+Execution time: 20.6167209148407 seconds
+Solution: [1 3 2 3 4 1 7]
+Score: 1563 MXN
+Products: 21 items
+Execution time: 20.819206714630127 seconds
+Solution: [1 5 2 2 4 1 7]
+Score: 1629 MXN
+Products: 22 items
+Execution time: 20.908445119857788 seconds
+Solution: [1 2 3 1 5 1 6]
+Score: 1550 MXN
+Products: 19 items
+Execution time: 20.773942947387695 seconds
+Solution: [1 7 1 3 3 1 7]
+Score: 1567 MXN
+Products: 23 items
+Execution time: 20.609662771224976 seconds
+Solution: [2 7 2 2 3 1 6]
+Score: 1512 MXN
+Products: 23 items
+Execution time: 21.093219995498657 seconds
+Solution: [1 2 5 1 5 1 5]
+Score: 1579 MXN
+Products: 20 items
+Ganancias 
+1581
+1605
+1604.4933333333336
+1598
+1563
+1629
+1550
+1567
+1512
+1579
+Mejor Soluci�n 
+[1 5 2 2 4 1 7]
+Max Ganancia 
+1629
+================== 
+population size: 100 
+ generations: 800 
+ mutation %: 0.1 
+ selection %: 0.5 
+Execution time: 23.630978107452393 seconds
+Solution: [1 3 4 1 5 1 7]
+Score: 1641.3613333333335 MXN
+Products: 22 items
+Execution time: 23.757210731506348 seconds
+Solution: [1 7 2 1 4 1 6]
+Score: 1604 MXN
+Products: 22 items
+Execution time: 24.03886890411377 seconds
+Solution: [1 5 4 1 4 1 6]
+Score: 1608.22 MXN
+Products: 22 items
+Execution time: 23.561315536499023 seconds
+Solution: [1 3 2 1 5 1 7]
+Score: 1597.88 MXN
+Products: 20 items
+Execution time: 23.43271565437317 seconds
+Solution: [1 2 5 1 5 1 5]
+Score: 1579 MXN
+Products: 20 items
+Execution time: 24.063838005065918 seconds
+Solution: [1 6 3 1 3 1 7]
+Score: 1569 MXN
+Products: 22 items
+Execution time: 23.51178240776062 seconds
+Solution: [1 7 3 1 4 1 6]
+Score: 1664 MXN
+Products: 23 items
+Execution time: 23.625418663024902 seconds
+Solution: [1 3 4 1 5 1 6]
+Score: 1642.4000000000003 MXN
+Products: 21 items
+Execution time: 23.81277108192444 seconds
+Solution: [1 7 2 2 3 1 7]
+Score: 1593 MXN
+Products: 23 items
+Execution time: 23.71630048751831 seconds
+Solution: [2 6 2 1 4 1 7]
+Score: 1602.5200000000002 MXN
+Products: 23 items
+Ganancias 
+1641.3613333333335
+1604
+1608.22
+1597.88
+1579
+1569
+1664
+1642.4000000000003
+1593
+1602.5200000000002
+Mejor Soluci�n 
+[1 7 3 1 4 1 6]
+Max Ganancia 
+1664
+================== 
+population size: 100 
+ generations: 900 
+ mutation %: 0.1 
+ selection %: 0.5 
+Execution time: 26.690359830856323 seconds
+Solution: [1 6 2 1 4 1 7]
+Score: 1645 MXN
+Products: 22 items
+Execution time: 26.663845539093018 seconds
+Solution: [1 3 3 1 5 2 7]
+Score: 1576.7 MXN
+Products: 22 items
+Execution time: 26.513192653656006 seconds
+Solution: [1 7 2 2 3 1 7]
+Score: 1593 MXN
+Products: 23 items
+Execution time: 27.054322719573975 seconds
+Solution: [1 6 3 1 4 1 7]
+Score: 1705 MXN
+Products: 23 items
+Execution time: 26.542041540145874 seconds
+Solution: [2 1 4 1 5 1 7]
+Score: 1626.238 MXN
+Products: 21 items
+Execution time: 26.870049715042114 seconds
+Solution: [1 1 4 2 5 1 6]
+Score: 1594 MXN
+Products: 20 items
+Execution time: 26.49774694442749 seconds
+Solution: [2 7 2 1 3 1 7]
+Score: 1569 MXN
+Products: 23 items
+Execution time: 26.45086908340454 seconds
+Solution: [1 7 1 1 4 1 7]
+Score: 1618.3733333333337 MXN
+Products: 22 items
+Execution time: 26.686580657958984 seconds
+Solution: [1 6 2 1 4 1 7]
+Score: 1645 MXN
+Products: 22 items
+Execution time: 26.64174175262451 seconds
+Solution: [1 7 1 1 4 2 6]
+Score: 1544 MXN
+Products: 22 items
+Ganancias 
+1645
+1576.7
+1593
+1705
+1626.238
+1594
+1569
+1618.3733333333337
+1645
+1544
+Mejor Soluci�n 
+[1 6 3 1 4 1 7]
+Max Ganancia 
+1705
+================== 
+population size: 100 
+ generations: 1000 
+ mutation %: 0.1 
+ selection %: 0.5 
+Execution time: 29.657302618026733 seconds
+Solution: [1 6 2 1 4 2 7]
+Score: 1645 MXN
+Products: 23 items
+Execution time: 29.593377590179443 seconds
+Solution: [1 2 2 2 5 2 6]
+Score: 1491.2533333333336 MXN
+Products: 20 items
+Execution time: 29.592435836791992 seconds
+Solution: [1 6 3 1 4 1 6]
+Score: 1614 MXN
+Products: 22 items
+Execution time: 29.657403230667114 seconds
+Solution: [1 3 4 1 4 1 7]
+Score: 1615 MXN
+Products: 21 items
+Execution time: 29.39194631576538 seconds
+Solution: [1 3 3 2 5 1 6]
+Score: 1529.9999999999998 MXN
+Products: 21 items
+Execution time: 30.062073230743408 seconds
+Solution: [1 1 2 2 5 1 7]
+Score: 1565 MXN
+Products: 19 items
+Execution time: 29.40856146812439 seconds
+Solution: [1 3 4 1 5 1 7]
+Score: 1641.3613333333335 MXN
+Products: 22 items
+Execution time: 30.057154178619385 seconds
+Solution: [1 6 3 1 4 1 7]
+Score: 1705 MXN
+Products: 23 items
+Execution time: 29.436479330062866 seconds
+Solution: [1 3 4 1 5 1 6]
+Score: 1642.4000000000003 MXN
+Products: 21 items
+Execution time: 29.906394720077515 seconds
+Solution: [2 3 3 2 4 1 7]
+Score: 1533.4 MXN
+Products: 22 items
+Ganancias 
+1645
+1491.2533333333336
+1614
+1615
+1529.9999999999998
+1565
+1641.3613333333335
+1705
+1642.4000000000003
+1533.4
+Mejor Soluci�n 
+[1 6 3 1 4 1 7]
+Max Ganancia 
+1705
+================== 
+population size: 150 
+ generations: 100 
+ mutation %: 0.1 
+ selection %: 0.5 
+Execution time: 4.502076625823975 seconds
+Solution: [2 5 1 1 4 1 7]
+Score: 1545 MXN
+Products: 21 items
+Execution time: 4.554325580596924 seconds
+Solution: [2 1 3 1 5 1 7]
+Score: 1601 MXN
+Products: 20 items
+Execution time: 4.489189386367798 seconds
+Solution: [1 4 3 1 5 1 7]
+Score: 1596.7866666666669 MXN
+Products: 22 items
+Execution time: 4.525014877319336 seconds
+Solution: [1 3 4 2 5 1 4]
+Score: 1495.386666666667 MXN
+Products: 20 items
+Execution time: 4.466429948806763 seconds
+Solution: [1 6 2 1 4 2 6]
+Score: 1554 MXN
+Products: 22 items
+Execution time: 4.5192344188690186 seconds
+Solution: [1 4 3 1 4 1 7]
+Score: 1605 MXN
+Products: 21 items
+Execution time: 4.510321140289307 seconds
+Solution: [1 3 3 1 5 1 6]
+Score: 1600 MXN
+Products: 20 items
+Execution time: 4.50997257232666 seconds
+Solution: [1 1 4 2 5 1 6]
+Score: 1594 MXN
+Products: 20 items
+Execution time: 4.498394012451172 seconds
+Solution: [1 1 4 2 5 1 6]
+Score: 1594 MXN
+Products: 20 items
+Execution time: 4.508864641189575 seconds
+Solution: [1 2 3 1 5 2 7]
+Score: 1641 MXN
+Products: 21 items
+Ganancias 
+1545
+1601
+1596.7866666666669
+1495.386666666667
+1554
+1605
+1600
+1594
+1594
+1641
+Mejor Soluci�n 
+[1 2 3 1 5 2 7]
+Max Ganancia 
+1641
+================== 
+population size: 150 
+ generations: 200 
+ mutation %: 0.1 
+ selection %: 0.5 
+Execution time: 8.913049221038818 seconds
+Solution: [1 6 1 1 4 1 7]
+Score: 1585 MXN
+Products: 21 items
+Execution time: 9.165165901184082 seconds
+Solution: [1 1 4 2 5 1 6]
+Score: 1594 MXN
+Products: 20 items
+Execution time: 8.902367353439331 seconds
+Solution: [1 4 4 1 4 1 7]
+Score: 1640.934 MXN
+Products: 22 items
+Execution time: 8.897830486297607 seconds
+Solution: [1 2 5 1 5 1 5]
+Score: 1579 MXN
+Products: 20 items
+Execution time: 8.849905252456665 seconds
+Solution: [1 3 4 1 5 1 6]
+Score: 1642.4000000000003 MXN
+Products: 21 items
+Execution time: 8.904937505722046 seconds
+Solution: [1 6 2 1 4 2 7]
+Score: 1645 MXN
+Products: 23 items
+Execution time: 8.911548614501953 seconds
+Solution: [1 3 4 1 5 1 6]
+Score: 1642.4000000000003 MXN
+Products: 21 items
+Execution time: 8.891982078552246 seconds
+Solution: [1 6 2 2 4 1 7]
+Score: 1625.92 MXN
+Products: 23 items
+Execution time: 9.159987449645996 seconds
+Solution: [1 4 4 1 5 1 5]
+Score: 1567.0800000000002 MXN
+Products: 21 items
+Execution time: 8.991261959075928 seconds
+Solution: [1 4 3 1 5 1 7]
+Score: 1596.7866666666669 MXN
+Products: 22 items
+Ganancias 
+1585
+1594
+1640.934
+1579
+1642.4000000000003
+1645
+1642.4000000000003
+1625.92
+1567.0800000000002
+1596.7866666666669
+Mejor Soluci�n 
+[1 6 2 1 4 2 7]
+Max Ganancia 
+1645
+================== 
+population size: 150 
+ generations: 300 
+ mutation %: 0.1 
+ selection %: 0.5 
+Execution time: 13.35753321647644 seconds
+Solution: [2 2 4 1 4 1 7]
+Score: 1551.744 MXN
+Products: 21 items
+Execution time: 13.315312385559082 seconds
+Solution: [1 1 4 2 5 1 6]
+Score: 1594 MXN
+Products: 20 items
+Execution time: 13.352985858917236 seconds
+Solution: [2 5 2 1 4 2 7]
+Score: 1565.7 MXN
+Products: 23 items
+Execution time: 13.565857648849487 seconds
+Solution: [1 1 3 2 5 1 6]
+Score: 1534 MXN
+Products: 19 items
+Execution time: 13.485674381256104 seconds
+Solution: [1 6 3 1 4 1 6]
+Score: 1614 MXN
+Products: 22 items
+Execution time: 13.327612400054932 seconds
+Solution: [1 3 4 1 4 1 7]
+Score: 1615 MXN
+Products: 21 items
+Execution time: 13.358970880508423 seconds
+Solution: [1 6 2 1 4 1 7]
+Score: 1645 MXN
+Products: 22 items
+Execution time: 13.424812078475952 seconds
+Solution: [2 5 1 1 4 2 7]
+Score: 1545 MXN
+Products: 22 items
+Execution time: 13.506146430969238 seconds
+Solution: [1 3 3 2 5 1 6]
+Score: 1529.9999999999998 MXN
+Products: 21 items
+Execution time: 13.593371152877808 seconds
+Solution: [1 6 3 1 4 1 6]
+Score: 1614 MXN
+Products: 22 items
+Ganancias 
+1551.744
+1594
+1565.7
+1534
+1614
+1615
+1645
+1545
+1529.9999999999998
+1614
+Mejor Soluci�n 
+[1 6 2 1 4 1 7]
+Max Ganancia 
+1645
+================== 
+population size: 150 
+ generations: 400 
+ mutation %: 0.1 
+ selection %: 0.5 
+Execution time: 17.680801391601562 seconds
+Solution: [1 6 2 2 4 1 6]
+Score: 1588 MXN
+Products: 22 items
+Execution time: 17.868025064468384 seconds
+Solution: [2 6 3 1 4 1 5]
+Score: 1533 MXN
+Products: 22 items
+Execution time: 17.88403820991516 seconds
+Solution: [1 6 2 1 4 2 7]
+Score: 1645 MXN
+Products: 23 items
+Execution time: 17.81425142288208 seconds
+Solution: [2 3 3 2 4 1 7]
+Score: 1533.4 MXN
+Products: 22 items
+Execution time: 17.795129776000977 seconds
+Solution: [1 3 3 1 5 1 7]
+Score: 1638.5200000000002 MXN
+Products: 21 items
+Execution time: 17.67773199081421 seconds
+Solution: [1 3 2 3 4 1 7]
+Score: 1563 MXN
+Products: 21 items
+Execution time: 17.960164785385132 seconds
+Solution: [1 2 5 1 5 1 5]
+Score: 1579 MXN
+Products: 20 items
+Execution time: 17.70065712928772 seconds
+Solution: [1 2 3 1 5 1 6]
+Score: 1550 MXN
+Products: 19 items
+Execution time: 17.75428795814514 seconds
+Solution: [1 2 4 2 5 1 6]
+Score: 1565.9733333333334 MXN
+Products: 21 items
+Execution time: 17.776389122009277 seconds
+Solution: [1 5 4 1 4 1 7]
+Score: 1607.594 MXN
+Products: 23 items
+Ganancias 
+1588
+1533
+1645
+1533.4
+1638.5200000000002
+1563
+1579
+1550
+1565.9733333333334
+1607.594
+Mejor Soluci�n 
+[1 6 2 1 4 2 7]
+Max Ganancia 
+1645
+================== 
+population size: 150 
+ generations: 500 
+ mutation %: 0.1 
+ selection %: 0.5 
+Execution time: 22.37232518196106 seconds
+Solution: [1 6 1 4 3 1 7]
+Score: 1551 MXN
+Products: 23 items
+Execution time: 22.396222829818726 seconds
+Solution: [1 4 3 1 5 1 7]
+Score: 1596.7866666666669 MXN
+Products: 22 items
+Execution time: 22.186973571777344 seconds
+Solution: [1 3 4 1 5 1 6]
+Score: 1642.4000000000003 MXN
+Products: 21 items
+Execution time: 22.436100959777832 seconds
+Solution: [1 7 3 1 4 1 5]
+Score: 1573 MXN
+Products: 22 items
+Execution time: 22.131737232208252 seconds
+Solution: [1 1 4 2 5 1 7]
+Score: 1633.624 MXN
+Products: 21 items
+Execution time: 22.16670322418213 seconds
+Solution: [1 6 1 1 4 1 7]
+Score: 1585 MXN
+Products: 21 items
+Execution time: 22.232837200164795 seconds
+Solution: [1 1 4 1 5 1 6]
+Score: 1560 MXN
+Products: 19 items
+Execution time: 22.29599094390869 seconds
+Solution: [1 4 3 1 5 1 7]
+Score: 1596.7866666666669 MXN
+Products: 22 items
+Execution time: 22.084754705429077 seconds
+Solution: [1 4 1 3 4 1 7]
+Score: 1553 MXN
+Products: 21 items
+Execution time: 22.733009815216064 seconds
+Solution: [1 2 5 1 5 1 6]
+Score: 1589.0 MXN
+Products: 21 items
+Ganancias 
+1551
+1596.7866666666669
+1642.4000000000003
+1573
+1633.624
+1585
+1560
+1596.7866666666669
+1553
+1589.0
+Mejor Soluci�n 
+[1 3 4 1 5 1 6]
+Max Ganancia 
+1642.4000000000003
+================== 
+population size: 150 
+ generations: 600 
+ mutation %: 0.1 
+ selection %: 0.5 
+Execution time: 26.573479652404785 seconds
+Solution: [1 1 4 2 5 1 6]
+Score: 1594 MXN
+Products: 20 items
+Execution time: 26.95372223854065 seconds
+Solution: [1 5 3 1 4 1 7]
+Score: 1655 MXN
+Products: 22 items
+Execution time: 26.489190340042114 seconds
+Solution: [1 2 2 1 5 1 7]
+Score: 1581 MXN
+Products: 19 items
+Execution time: 26.700445890426636 seconds
+Solution: [1 1 5 1 5 1 7]
+Score: 1620.448 MXN
+Products: 21 items
+Execution time: 26.705824375152588 seconds
+Solution: [1 2 5 1 5 1 5]
+Score: 1579 MXN
+Products: 20 items
+Execution time: 26.51458978652954 seconds
+Solution: [1 1 4 2 5 1 6]
+Score: 1594 MXN
+Products: 20 items
+Execution time: 26.745405197143555 seconds
+Solution: [1 3 3 1 5 1 7]
+Score: 1638.5200000000002 MXN
+Products: 21 items
+Execution time: 26.56786799430847 seconds
+Solution: [1 7 3 1 4 1 6]
+Score: 1664 MXN
+Products: 23 items
+Execution time: 26.513409852981567 seconds
+Solution: [1 1 2 2 5 2 7]
+Score: 1565 MXN
+Products: 20 items
+Execution time: 27.010653257369995 seconds
+Solution: [1 4 2 3 4 1 7]
+Score: 1613 MXN
+Products: 22 items
+Ganancias 
+1594
+1655
+1581
+1620.448
+1579
+1594
+1638.5200000000002
+1664
+1565
+1613
+Mejor Soluci�n 
+[1 7 3 1 4 1 6]
+Max Ganancia 
+1664
+================== 
+population size: 150 
+ generations: 700 
+ mutation %: 0.1 
+ selection %: 0.5 
+Execution time: 30.909680604934692 seconds
+Solution: [1 3 4 1 5 1 6]
+Score: 1642.4000000000003 MXN
+Products: 21 items
+Execution time: 31.325838327407837 seconds
+Solution: [1 5 2 2 4 1 7]
+Score: 1629 MXN
+Products: 22 items
+Execution time: 30.986079454421997 seconds
+Solution: [2 5 2 1 4 2 7]
+Score: 1565.7 MXN
+Products: 23 items
+Execution time: 31.339700937271118 seconds
+Solution: [1 6 4 1 4 1 5]
+Score: 1575.242 MXN
+Products: 22 items
+Execution time: 31.001697301864624 seconds
+Solution: [1 3 4 1 5 1 6]
+Score: 1642.4000000000003 MXN
+Products: 21 items
+Execution time: 31.239568948745728 seconds
+Solution: [1 1 4 2 5 1 6]
+Score: 1594 MXN
+Products: 20 items
+Execution time: 30.954061269760132 seconds
+Solution: [1 6 2 1 4 1 7]
+Score: 1645 MXN
+Products: 22 items
+Execution time: 31.32395601272583 seconds
+Solution: [1 6 2 1 4 2 6]
+Score: 1554 MXN
+Products: 22 items
+Execution time: 31.08823800086975 seconds
+Solution: [1 2 3 1 5 2 7]
+Score: 1641 MXN
+Products: 21 items
+Execution time: 31.324407815933228 seconds
+Solution: [1 2 4 2 5 1 6]
+Score: 1565.9733333333334 MXN
+Products: 21 items
+Ganancias 
+1642.4000000000003
+1629
+1565.7
+1575.242
+1642.4000000000003
+1594
+1645
+1554
+1641
+1565.9733333333334
+Mejor Soluci�n 
+[1 6 2 1 4 1 7]
+Max Ganancia 
+1645
+================== 
+population size: 150 
+ generations: 800 
+ mutation %: 0.1 
+ selection %: 0.5 
+Execution time: 35.43309807777405 seconds
+Solution: [1 7 2 1 4 1 6]
+Score: 1604 MXN
+Products: 22 items
+Execution time: 35.76243019104004 seconds
+Solution: [1 4 3 1 4 1 7]
+Score: 1605 MXN
+Products: 21 items
+Execution time: 35.28350758552551 seconds
+Solution: [1 4 1 3 4 2 7]
+Score: 1553 MXN
+Products: 22 items
+Execution time: 35.91036939620972 seconds
+Solution: [1 3 5 1 5 1 5]
+Score: 1557.288 MXN
+Products: 21 items
+Execution time: 35.269484758377075 seconds
+Solution: [1 1 3 2 5 1 7]
+Score: 1625 MXN
+Products: 20 items
+Execution time: 35.92792344093323 seconds
+Solution: [1 6 2 1 4 1 7]
+Score: 1645 MXN
+Products: 22 items
+Execution time: 35.13993692398071 seconds
+Solution: [1 1 4 1 5 1 7]
+Score: 1651 MXN
+Products: 20 items
+Execution time: 35.70767617225647 seconds
+Solution: [1 4 3 1 5 1 7]
+Score: 1596.7866666666669 MXN
+Products: 22 items
+Execution time: 35.25140333175659 seconds
+Solution: [1 2 4 1 4 1 7]
+Score: 1565 MXN
+Products: 20 items
+Execution time: 35.75990915298462 seconds
+Solution: [1 5 3 2 4 1 6]
+Score: 1598 MXN
+Products: 22 items
+Ganancias 
+1604
+1605
+1553
+1557.288
+1625
+1645
+1651
+1596.7866666666669
+1565
+1598
+Mejor Soluci�n 
+[1 1 4 1 5 1 7]
+Max Ganancia 
+1651
+================== 
+population size: 150 
+ generations: 900 
+ mutation %: 0.1 
+ selection %: 0.5 
+Execution time: 40.04031848907471 seconds
+Solution: [1 4 2 2 4 2 7]
+Score: 1579 MXN
+Products: 22 items
+Execution time: 39.72744870185852 seconds
+Solution: [1 4 4 1 4 1 7]
+Score: 1640.934 MXN
+Products: 22 items
+Execution time: 40.023714542388916 seconds
+Solution: [1 3 3 1 5 1 7]
+Score: 1638.5200000000002 MXN
+Products: 21 items
+Execution time: 40.084805965423584 seconds
+Solution: [1 4 2 3 4 1 7]
+Score: 1613 MXN
+Products: 22 items
+Execution time: 40.180819511413574 seconds
+Solution: [1 3 4 1 5 1 6]
+Score: 1642.4000000000003 MXN
+Products: 21 items
+Execution time: 40.02107501029968 seconds
+Solution: [2 4 2 2 4 1 7]
+Score: 1589 MXN
+Products: 22 items
+Execution time: 39.69139385223389 seconds
+Solution: [1 2 3 2 5 1 7]
+Score: 1604.4933333333336 MXN
+Products: 21 items
+Execution time: 40.13493013381958 seconds
+Solution: [1 1 5 1 4 1 7]
+Score: 1575 MXN
+Products: 20 items
+Execution time: 39.6679162979126 seconds
+Solution: [1 6 2 1 4 1 7]
+Score: 1645 MXN
+Products: 22 items
+Execution time: 40.11098265647888 seconds
+Solution: [1 4 3 1 4 1 7]
+Score: 1605 MXN
+Products: 21 items
+Ganancias 
+1579
+1640.934
+1638.5200000000002
+1613
+1642.4000000000003
+1589
+1604.4933333333336
+1575
+1645
+1605
+Mejor Soluci�n 
+[1 6 2 1 4 1 7]
+Max Ganancia 
+1645
+================== 
+population size: 150 
+ generations: 1000 
+ mutation %: 0.1 
+ selection %: 0.5 
+Execution time: 44.17382025718689 seconds
+Solution: [1 2 3 2 5 1 7]
+Score: 1604.4933333333336 MXN
+Products: 21 items
+Execution time: 44.38844347000122 seconds
+Solution: [1 4 3 1 4 2 7]
+Score: 1591.95 MXN
+Products: 22 items
+Execution time: 44.430909156799316 seconds
+Solution: [1 5 2 1 4 2 7]
+Score: 1595 MXN
+Products: 22 items
+Execution time: 44.65667128562927 seconds
+Solution: [1 2 3 2 5 1 7]
+Score: 1604.4933333333336 MXN
+Products: 21 items
+Execution time: 44.00302720069885 seconds
+Solution: [1 1 5 1 5 1 7]
+Score: 1620.448 MXN
+Products: 21 items
+Execution time: 44.65414619445801 seconds
+Solution: [1 7 1 1 4 2 7]
+Score: 1583.6000000000001 MXN
+Products: 23 items
+Execution time: 44.38285779953003 seconds
+Solution: [1 1 5 1 5 1 6]
+Score: 1620 MXN
+Products: 20 items
+Execution time: 44.2608757019043 seconds
+Solution: [2 5 3 1 4 1 7]
+Score: 1614.004 MXN
+Products: 23 items
+Execution time: 44.63966965675354 seconds
+Solution: [1 5 1 1 4 3 7]
+Score: 1535 MXN
+Products: 22 items
+Execution time: 44.79279613494873 seconds
+Solution: [1 2 4 1 5 1 7]
+Score: 1701 MXN
+Products: 21 items
+Ganancias 
+1604.4933333333336
+1591.95
+1595
+1604.4933333333336
+1620.448
+1583.6000000000001
+1620
+1614.004
+1535
+1701
+Mejor Soluci�n 
+[1 2 4 1 5 1 7]
+Max Ganancia 
+1701
+================== 
+population size: 200 
+ generations: 100 
+ mutation %: 0.1 
+ selection %: 0.5 
+Execution time: 5.964157819747925 seconds
+Solution: [1 7 2 2 4 1 6]
+Score: 1551.0 MXN
+Products: 23 items
+Execution time: 6.014343976974487 seconds
+Solution: [1 4 3 1 5 1 7]
+Score: 1596.7866666666669 MXN
+Products: 22 items
+Execution time: 5.998646974563599 seconds
+Solution: [1 5 1 2 4 1 7]
+Score: 1569 MXN
+Products: 21 items
+Execution time: 6.096266746520996 seconds
+Solution: [1 5 4 1 4 1 6]
+Score: 1608.22 MXN
+Products: 22 items
+Execution time: 6.064755439758301 seconds
+Solution: [2 6 3 1 4 1 6]
+Score: 1564.1600000000003 MXN
+Products: 23 items
+Execution time: 5.989682674407959 seconds
+Solution: [2 5 1 1 4 1 7]
+Score: 1545 MXN
+Products: 21 items
+Execution time: 6.031978368759155 seconds
+Solution: [1 5 4 1 4 1 6]
+Score: 1608.22 MXN
+Products: 22 items
+Execution time: 6.037674188613892 seconds
+Solution: [1 2 3 3 5 1 6]
+Score: 1490.4933333333336 MXN
+Products: 21 items
+Execution time: 6.287486553192139 seconds
+Solution: [1 6 3 1 4 1 6]
+Score: 1614 MXN
+Products: 22 items
+Execution time: 6.016009092330933 seconds
+Solution: [1 2 4 1 5 1 7]
+Score: 1701 MXN
+Products: 21 items
+Ganancias 
+1551.0
+1596.7866666666669
+1569
+1608.22
+1564.1600000000003
+1545
+1608.22
+1490.4933333333336
+1614
+1701
+Mejor Soluci�n 
+[1 2 4 1 5 1 7]
+Max Ganancia 
+1701
+================== 
+population size: 200 
+ generations: 200 
+ mutation %: 0.1 
+ selection %: 0.5 
+Execution time: 11.823801517486572 seconds
+Solution: [1 4 4 1 4 1 6]
+Score: 1574 MXN
+Products: 21 items
+Execution time: 11.852802991867065 seconds
+Solution: [1 4 2 3 4 1 7]
+Score: 1613 MXN
+Products: 22 items
+Execution time: 11.770858526229858 seconds
+Solution: [2 1 3 1 5 1 7]
+Score: 1601 MXN
+Products: 20 items
+Execution time: 12.007936954498291 seconds
+Solution: [1 6 2 2 4 1 6]
+Score: 1588 MXN
+Products: 22 items
+Execution time: 12.157508850097656 seconds
+Solution: [1 5 4 1 4 1 6]
+Score: 1608.22 MXN
+Products: 22 items
+Execution time: 11.943427085876465 seconds
+Solution: [1 4 3 1 5 1 7]
+Score: 1596.7866666666669 MXN
+Products: 22 items
+Execution time: 11.91797661781311 seconds
+Solution: [1 6 2 1 3 2 7]
+Score: 1509 MXN
+Products: 22 items
+Execution time: 11.889155864715576 seconds
+Solution: [1 2 5 1 5 1 6]
+Score: 1589.0 MXN
+Products: 21 items
+Execution time: 11.801846742630005 seconds
+Solution: [2 1 4 1 5 1 6]
+Score: 1570 MXN
+Products: 20 items
+Execution time: 11.918648719787598 seconds
+Solution: [1 3 4 1 5 1 5]
+Score: 1569 MXN
+Products: 20 items
+Ganancias 
+1574
+1613
+1601
+1588
+1608.22
+1596.7866666666669
+1509
+1589.0
+1570
+1569
+Mejor Soluci�n 
+[1 4 2 3 4 1 7]
+Max Ganancia 
+1613
+================== 
+population size: 200 
+ generations: 300 
+ mutation %: 0.1 
+ selection %: 0.5 
+Execution time: 17.854085445404053 seconds
+Solution: [1 6 2 1 4 2 7]
+Score: 1645 MXN
+Products: 23 items
+Execution time: 17.705938816070557 seconds
+Solution: [1 4 2 1 4 1 7]
+Score: 1545 MXN
+Products: 20 items
+Execution time: 17.702296257019043 seconds
+Solution: [1 2 4 1 5 1 6]
+Score: 1610 MXN
+Products: 20 items
+Execution time: 18.090157747268677 seconds
+Solution: [1 2 3 3 4 1 7]
+Score: 1570.426 MXN
+Products: 21 items
+Execution time: 17.893786668777466 seconds
+Solution: [2 2 4 1 5 1 6]
+Score: 1558.6333333333334 MXN
+Products: 21 items
+Execution time: 17.76412558555603 seconds
+Solution: [1 4 3 1 4 2 7]
+Score: 1591.95 MXN
+Products: 22 items
+Execution time: 17.68294930458069 seconds
+Solution: [3 4 2 1 4 1 7]
+Score: 1565 MXN
+Products: 22 items
+Execution time: 18.105142831802368 seconds
+Solution: [2 6 3 1 4 1 5]
+Score: 1533 MXN
+Products: 22 items
+Execution time: 17.627586364746094 seconds
+Solution: [1 6 3 1 4 1 6]
+Score: 1614 MXN
+Products: 22 items
+Execution time: 17.764707565307617 seconds
+Solution: [1 5 4 1 4 1 7]
+Score: 1607.594 MXN
+Products: 23 items
+Ganancias 
+1645
+1545
+1610
+1570.426
+1558.6333333333334
+1591.95
+1565
+1533
+1614
+1607.594
+Mejor Soluci�n 
+[1 6 2 1 4 2 7]
+Max Ganancia 
+1645
+================== 
+population size: 200 
+ generations: 400 
+ mutation %: 0.1 
+ selection %: 0.5 
+Execution time: 23.673496961593628 seconds
+Solution: [1 6 3 1 4 1 6]
+Score: 1614 MXN
+Products: 22 items
+Execution time: 23.774941444396973 seconds
+Solution: [2 5 2 1 4 1 7]
+Score: 1605 MXN
+Products: 22 items
+Execution time: 23.493814706802368 seconds
+Solution: [1 5 2 2 4 1 7]
+Score: 1629 MXN
+Products: 22 items
+Execution time: 23.782891750335693 seconds
+Solution: [1 2 2 1 5 1 7]
+Score: 1581 MXN
+Products: 19 items
+Execution time: 23.552716493606567 seconds
+Solution: [1 5 2 1 4 1 7]
+Score: 1595 MXN
+Products: 21 items
+Execution time: 23.618751287460327 seconds
+Solution: [1 6 2 1 4 1 6]
+Score: 1554 MXN
+Products: 21 items
+Execution time: 23.80977964401245 seconds
+Solution: [1 4 2 2 4 1 7]
+Score: 1579 MXN
+Products: 21 items
+Execution time: 23.542110443115234 seconds
+Solution: [1 3 4 1 5 1 6]
+Score: 1642.4000000000003 MXN
+Products: 21 items
+Execution time: 23.429139137268066 seconds
+Solution: [1 6 2 1 4 2 7]
+Score: 1645 MXN
+Products: 23 items
+Execution time: 24.062901973724365 seconds
+Solution: [1 5 3 1 4 1 7]
+Score: 1655 MXN
+Products: 22 items
+Ganancias 
+1614
+1605
+1629
+1581
+1595
+1554
+1579
+1642.4000000000003
+1645
+1655
+Mejor Soluci�n 
+[1 5 3 1 4 1 7]
+Max Ganancia 
+1655
+================== 
+population size: 200 
+ generations: 500 
+ mutation %: 0.1 
+ selection %: 0.5 
+Execution time: 29.575170040130615 seconds
+Solution: [1 4 4 1 4 1 7]
+Score: 1640.934 MXN
+Products: 22 items
+Execution time: 29.860028743743896 seconds
+Solution: [1 1 5 1 5 1 6]
+Score: 1620 MXN
+Products: 20 items
+Execution time: 29.32605290412903 seconds
+Solution: [2 5 3 1 4 1 6]
+Score: 1574 MXN
+Products: 22 items
+Execution time: 29.46875834465027 seconds
+Solution: [1 6 3 1 4 1 7]
+Score: 1705 MXN
+Products: 23 items
+Execution time: 29.570371866226196 seconds
+Solution: [1 2 3 1 5 1 7]
+Score: 1641 MXN
+Products: 20 items
+Execution time: 29.40818977355957 seconds
+Solution: [1 5 3 1 4 1 7]
+Score: 1655 MXN
+Products: 22 items
+Execution time: 29.9098961353302 seconds
+Solution: [1 3 3 1 5 1 6]
+Score: 1600 MXN
+Products: 20 items
+Execution time: 29.420927047729492 seconds
+Solution: [1 4 4 1 4 1 7]
+Score: 1640.934 MXN
+Products: 22 items
+Execution time: 29.789149284362793 seconds
+Solution: [1 2 3 1 5 1 7]
+Score: 1641 MXN
+Products: 20 items
+Execution time: 29.476591110229492 seconds
+Solution: [1 7 1 1 4 1 7]
+Score: 1618.3733333333337 MXN
+Products: 22 items
+Ganancias 
+1640.934
+1620
+1574
+1705
+1641
+1655
+1600
+1640.934
+1641
+1618.3733333333337
+Mejor Soluci�n 
+[1 6 3 1 4 1 7]
+Max Ganancia 
+1705
+================== 
+population size: 200 
+ generations: 600 
+ mutation %: 0.1 
+ selection %: 0.5 
+Execution time: 35.693846702575684 seconds
+Solution: [1 4 4 1 4 1 7]
+Score: 1640.934 MXN
+Products: 22 items
+Execution time: 35.23820686340332 seconds
+Solution: [1 5 2 1 4 1 7]
+Score: 1595 MXN
+Products: 21 items
+Execution time: 35.40260696411133 seconds
+Solution: [2 5 3 1 4 1 7]
+Score: 1614.004 MXN
+Products: 23 items
+Execution time: 35.515883445739746 seconds
+Solution: [1 6 3 1 4 1 7]
+Score: 1705 MXN
+Products: 23 items
+Execution time: 35.34641170501709 seconds
+Solution: [1 7 2 1 4 2 6]
+Score: 1586.7600000000004 MXN
+Products: 23 items
+Execution time: 35.238526821136475 seconds
+Solution: [1 1 4 1 5 1 7]
+Score: 1651 MXN
+Products: 20 items
+Execution time: 35.58660387992859 seconds
+Solution: [1 6 3 1 4 1 7]
+Score: 1705 MXN
+Products: 23 items
+Execution time: 35.31278657913208 seconds
+Solution: [1 1 4 2 5 1 7]
+Score: 1633.624 MXN
+Products: 21 items
+Execution time: 35.478339195251465 seconds
+Solution: [1 3 2 4 4 1 6]
+Score: 1506 MXN
+Products: 21 items
+Execution time: 35.71867370605469 seconds
+Solution: [1 2 5 1 5 1 6]
+Score: 1589.0 MXN
+Products: 21 items
+Ganancias 
+1640.934
+1595
+1614.004
+1705
+1586.7600000000004
+1651
+1705
+1633.624
+1506
+1589.0
+Mejor Soluci�n 
+[1 6 3 1 4 1 7]
+Max Ganancia 
+1705
+================== 
+population size: 200 
+ generations: 700 
+ mutation %: 0.1 
+ selection %: 0.5 
+Execution time: 41.13494253158569 seconds
+Solution: [2 1 4 1 5 1 7]
+Score: 1626.238 MXN
+Products: 21 items
+Execution time: 41.58124923706055 seconds
+Solution: [1 2 4 2 5 1 6]
+Score: 1565.9733333333334 MXN
+Products: 21 items
+Execution time: 41.02920055389404 seconds
+Solution: [1 3 5 1 5 1 5]
+Score: 1557.288 MXN
+Products: 21 items
+Execution time: 41.56669878959656 seconds
+Solution: [1 7 1 1 4 1 7]
+Score: 1618.3733333333337 MXN
+Products: 22 items
+Execution time: 41.54406499862671 seconds
+Solution: [1 6 3 1 4 1 7]
+Score: 1705 MXN
+Products: 23 items
+Execution time: 41.22472357749939 seconds
+Solution: [1 5 2 1 4 2 7]
+Score: 1595 MXN
+Products: 22 items
+Execution time: 41.72213411331177 seconds
+Solution: [1 1 3 1 5 2 7]
+Score: 1591 MXN
+Products: 20 items
+Execution time: 41.41540598869324 seconds
+Solution: [1 2 4 1 5 1 6]
+Score: 1610 MXN
+Products: 20 items
+Execution time: 41.1348979473114 seconds
+Solution: [1 4 3 1 5 1 7]
+Score: 1596.7866666666669 MXN
+Products: 22 items
+Execution time: 41.54140782356262 seconds
+Solution: [1 4 2 2 4 2 7]
+Score: 1579 MXN
+Products: 22 items
+Ganancias 
+1626.238
+1565.9733333333334
+1557.288
+1618.3733333333337
+1705
+1595
+1591
+1610
+1596.7866666666669
+1579
+Mejor Soluci�n 
+[1 6 3 1 4 1 7]
+Max Ganancia 
+1705
+================== 
+population size: 200 
+ generations: 800 
+ mutation %: 0.1 
+ selection %: 0.5 
+Execution time: 47.26255679130554 seconds
+Solution: [1 5 3 2 4 1 6]
+Score: 1598 MXN
+Products: 22 items
+Execution time: 47.23224663734436 seconds
+Solution: [2 4 3 1 4 1 7]
+Score: 1615 MXN
+Products: 22 items
+Execution time: 47.323365211486816 seconds
+Solution: [1 6 2 2 4 1 6]
+Score: 1588 MXN
+Products: 22 items
+Execution time: 47.55865955352783 seconds
+Solution: [1 3 3 1 5 1 7]
+Score: 1638.5200000000002 MXN
+Products: 21 items
+Execution time: 46.818268060684204 seconds
+Solution: [2 5 2 1 4 1 7]
+Score: 1605 MXN
+Products: 22 items
+Execution time: 47.400325775146484 seconds
+Solution: [1 6 2 1 4 2 7]
+Score: 1645 MXN
+Products: 23 items
+Execution time: 47.47283577919006 seconds
+Solution: [1 2 5 1 5 1 6]
+Score: 1589.0 MXN
+Products: 21 items
+Execution time: 47.37081742286682 seconds
+Solution: [1 5 1 2 4 1 7]
+Score: 1569 MXN
+Products: 21 items
+Execution time: 46.64265275001526 seconds
+Solution: [1 7 3 1 4 1 6]
+Score: 1664 MXN
+Products: 23 items
+Execution time: 47.587745904922485 seconds
+Solution: [1 6 2 1 4 2 7]
+Score: 1645 MXN
+Products: 23 items
+Ganancias 
+1598
+1615
+1588
+1638.5200000000002
+1605
+1645
+1589.0
+1569
+1664
+1645
+Mejor Soluci�n 
+[1 7 3 1 4 1 6]
+Max Ganancia 
+1664
+================== 
+population size: 200 
+ generations: 900 
+ mutation %: 0.1 
+ selection %: 0.5 
+Execution time: 53.08707666397095 seconds
+Solution: [1 7 1 1 4 2 7]
+Score: 1583.6000000000001 MXN
+Products: 23 items
+Execution time: 53.26240611076355 seconds
+Solution: [2 4 2 2 4 1 7]
+Score: 1589 MXN
+Products: 22 items
+Execution time: 52.71285629272461 seconds
+Solution: [1 4 3 1 4 1 7]
+Score: 1605 MXN
+Products: 21 items
+Execution time: 52.9586124420166 seconds
+Solution: [1 6 3 1 4 1 6]
+Score: 1614 MXN
+Products: 22 items
+Execution time: 54.48257923126221 seconds
+Solution: [2 5 3 1 4 1 6]
+Score: 1574 MXN
+Products: 22 items
+Execution time: 59.91350698471069 seconds
+Solution: [1 1 5 1 5 1 6]
+Score: 1620 MXN
+Products: 20 items
+Execution time: 59.145264863967896 seconds
+Solution: [1 6 4 1 4 1 6]
+Score: 1576.44 MXN
+Products: 23 items
+Execution time: 54.80627942085266 seconds
+Solution: [1 5 2 1 4 1 7]
+Score: 1595 MXN
+Products: 21 items
+Execution time: 55.79160165786743 seconds
+Solution: [1 2 3 1 5 1 7]
+Score: 1641 MXN
+Products: 20 items
+Execution time: 64.17497205734253 seconds
+Solution: [1 5 2 2 4 1 7]
+Score: 1629 MXN
+Products: 22 items
+Ganancias 
+1583.6000000000001
+1589
+1605
+1614
+1574
+1620
+1576.44
+1595
+1641
+1629
+Mejor Soluci�n 
+[1 2 3 1 5 1 7]
+Max Ganancia 
+1641
+================== 
+population size: 200 
+ generations: 1000 
+ mutation %: 0.1 
+ selection %: 0.5 
+Execution time: 73.34568953514099 seconds
+Solution: [1 3 4 1 5 1 6]
+Score: 1642.4000000000003 MXN
+Products: 21 items
+Execution time: 65.50488090515137 seconds
+Solution: [1 3 3 1 5 1 7]
+Score: 1638.5200000000002 MXN
+Products: 21 items
+Execution time: 65.80824518203735 seconds
+Solution: [1 3 4 1 5 1 7]
+Score: 1641.3613333333335 MXN
+Products: 22 items
+Execution time: 71.41731429100037 seconds
+Solution: [1 7 3 1 4 1 7]
+Score: 1646.8140000000003 MXN
+Products: 24 items
+Execution time: 69.49009299278259 seconds
+Solution: [1 6 4 1 4 1 5]
+Score: 1575.242 MXN
+Products: 22 items
+Execution time: 69.31200909614563 seconds
+Solution: [1 3 4 1 5 1 6]
+Score: 1642.4000000000003 MXN
+Products: 21 items
+Execution time: 68.17075061798096 seconds
+Solution: [1 3 2 1 5 1 7]
+Score: 1597.88 MXN
+Products: 20 items
+Execution time: 62.22114443778992 seconds
+Solution: [1 6 2 1 4 1 7]
+Score: 1645 MXN
+Products: 22 items
+Execution time: 61.169498443603516 seconds
+Solution: [1 4 3 1 4 2 7]
+Score: 1591.95 MXN
+Products: 22 items
+Execution time: 59.530675411224365 seconds
+Solution: [1 1 4 1 5 1 7]
+Score: 1651 MXN
+Products: 20 items
+Ganancias 
+1642.4000000000003
+1638.5200000000002
+1641.3613333333335
+1646.8140000000003
+1575.242
+1642.4000000000003
+1597.88
+1645
+1591.95
+1651
+Mejor Soluci�n 
+[1 1 4 1 5 1 7]
+Max Ganancia 
+1651
+
+
+================== 
+population size: 250 
+ generations: 500 
+ mutation %: 0.1 
+ selection %: 0.5 
+Execution time: 37.601886510849 seconds
+Solution: [1 6 3 1 4 1 6]
+Score: 1614 MXN
+Products: 22 items
+Execution time: 37.419718980789185 seconds
+Solution: [1 6 2 1 4 1 7]
+Score: 1645 MXN
+Products: 22 items
+Execution time: 37.29572129249573 seconds
+Solution: [1 5 3 2 4 1 6]
+Score: 1598 MXN
+Products: 22 items
+Execution time: 37.68577742576599 seconds
+Solution: [1 1 5 1 5 1 6]
+Score: 1620 MXN
+Products: 20 items
+Execution time: 36.94775581359863 seconds
+Solution: [2 5 2 1 4 1 7]
+Score: 1605 MXN
+Products: 22 items
+Execution time: 37.664265155792236 seconds
+Solution: [1 3 4 1 5 1 6]
+Score: 1642.4000000000003 MXN
+Products: 21 items
+Execution time: 36.923155069351196 seconds
+Solution: [2 4 2 1 4 2 7]
+Score: 1555 MXN
+Products: 22 items
+Execution time: 37.44149899482727 seconds
+Solution: [1 5 4 1 4 1 7]
+Score: 1607.594 MXN
+Products: 23 items
+Execution time: 37.20787072181702 seconds
+Solution: [2 5 2 1 4 1 7]
+Score: 1605 MXN
+Products: 22 items
+Execution time: 37.59182000160217 seconds
+Solution: [1 5 3 2 4 1 6]
+Score: 1598 MXN
+Products: 22 items
+Ganancias 
+1614
+1645
+1598
+1620
+1605
+1642.4000000000003
+1555
+1607.594
+1605
+1598
+Mejor Soluci�n 
+[1 6 2 1 4 1 7]
+Max Ganancia 
+1645
+================== 
+population size: 250 
+ generations: 600 
+ mutation %: 0.1 
+ selection %: 0.5 
+Execution time: 44.73749780654907 seconds
+Solution: [1 7 3 1 4 1 6]
+Score: 1664 MXN
+Products: 23 items
+Execution time: 45.07268404960632 seconds
+Solution: [1 6 1 1 4 3 7]
+Score: 1585 MXN
+Products: 23 items
+Execution time: 45.212629318237305 seconds
+Solution: [1 4 4 1 4 1 7]
+Score: 1640.934 MXN
+Products: 22 items
+Execution time: 44.87113976478577 seconds
+Solution: [1 1 3 1 5 2 7]
+Score: 1591 MXN
+Products: 20 items
+Execution time: 44.741881132125854 seconds
+Solution: [1 2 3 1 5 1 7]
+Score: 1641 MXN
+Products: 20 items
+Execution time: 45.31744861602783 seconds
+Solution: [1 2 3 1 5 2 7]
+Score: 1641 MXN
+Products: 21 items
+Execution time: 44.553956270217896 seconds
+Solution: [1 3 4 1 5 1 6]
+Score: 1642.4000000000003 MXN
+Products: 21 items
+Execution time: 44.979899406433105 seconds
+Solution: [1 6 1 2 4 1 7]
+Score: 1585.48 MXN
+Products: 22 items
+Execution time: 45.20733976364136 seconds
+Solution: [1 1 5 1 5 1 6]
+Score: 1620 MXN
+Products: 20 items
+Execution time: 45.522252559661865 seconds
+Solution: [1 2 2 1 5 1 7]
+Score: 1581 MXN
+Products: 19 items
+Ganancias 
+1664
+1585
+1640.934
+1591
+1641
+1641
+1642.4000000000003
+1585.48
+1620
+1581
+Mejor Soluci�n 
+[1 7 3 1 4 1 6]
+Max Ganancia 
+1664
+================== 
+population size: 250 
+ generations: 700 
+ mutation %: 0.1 
+ selection %: 0.5 
+Execution time: 52.477006912231445 seconds
+Solution: [1 6 3 1 4 1 7]
+Score: 1705 MXN
+Products: 23 items
+Execution time: 52.1397008895874 seconds
+Solution: [1 3 4 1 5 1 7]
+Score: 1641.3613333333335 MXN
+Products: 22 items
+Execution time: 51.95229148864746 seconds
+Solution: [1 2 4 1 5 1 6]
+Score: 1610 MXN
+Products: 20 items
+Execution time: 52.729801177978516 seconds
+Solution: [2 1 4 1 5 1 7]
+Score: 1626.238 MXN
+Products: 21 items
+Execution time: 52.521382331848145 seconds
+Solution: [1 6 1 1 4 2 7]
+Score: 1585 MXN
+Products: 22 items
+Execution time: 52.760788679122925 seconds
+Solution: [2 5 2 1 4 1 7]
+Score: 1605 MXN
+Products: 22 items
+Execution time: 52.09932351112366 seconds
+Solution: [1 5 3 2 4 1 6]
+Score: 1598 MXN
+Products: 22 items
+Execution time: 52.54450798034668 seconds
+Solution: [1 2 3 1 5 1 7]
+Score: 1641 MXN
+Products: 20 items
+Execution time: 52.17844486236572 seconds
+Solution: [1 2 3 1 5 2 7]
+Score: 1641 MXN
+Products: 21 items
+Execution time: 52.586841344833374 seconds
+Solution: [1 1 3 2 5 1 7]
+Score: 1625 MXN
+Products: 20 items
+Ganancias 
+1705
+1641.3613333333335
+1610
+1626.238
+1585
+1605
+1598
+1641
+1641
+1625
+Mejor Soluci�n 
+[1 6 3 1 4 1 7]
+Max Ganancia 
+1705
+================== 
+population size: 250 
+ generations: 800 
+ mutation %: 0.1 
+ selection %: 0.5 
+Execution time: 59.81241178512573 seconds
+Solution: [1 2 3 1 5 2 7]
+Score: 1641 MXN
+Products: 21 items
+Execution time: 60.01273059844971 seconds
+Solution: [1 6 2 2 4 1 7]
+Score: 1625.92 MXN
+Products: 23 items
+Execution time: 59.60886073112488 seconds
+Solution: [1 5 4 1 4 1 7]
+Score: 1607.594 MXN
+Products: 23 items
+Execution time: 60.05693244934082 seconds
+Solution: [1 1 4 1 5 1 7]
+Score: 1651 MXN
+Products: 20 items
+Execution time: 59.87130784988403 seconds
+Solution: [1 2 4 1 5 1 6]
+Score: 1610 MXN
+Products: 20 items
+Execution time: 60.10490322113037 seconds
+Solution: [1 7 3 1 4 1 6]
+Score: 1664 MXN
+Products: 23 items
+Execution time: 59.89396071434021 seconds
+Solution: [1 4 2 3 4 1 7]
+Score: 1613 MXN
+Products: 22 items
+Execution time: 59.969576358795166 seconds
+Solution: [1 6 1 1 4 1 7]
+Score: 1585 MXN
+Products: 21 items
+Execution time: 59.226069927215576 seconds
+Solution: [1 6 2 1 4 1 7]
+Score: 1645 MXN
+Products: 22 items
+Execution time: 60.01412057876587 seconds
+Solution: [1 2 3 1 5 2 7]
+Score: 1641 MXN
+Products: 21 items
+Ganancias 
+1641
+1625.92
+1607.594
+1651
+1610
+1664
+1613
+1585
+1645
+1641
+Mejor Soluci�n 
+[1 7 3 1 4 1 6]
+Max Ganancia 
+1664
+================== 
+population size: 250 
+ generations: 900 
+ mutation %: 0.1 
+ selection %: 0.5 
+Execution time: 67.2045910358429 seconds
+Solution: [1 1 4 1 5 1 7]
+Score: 1651 MXN
+Products: 20 items
+Execution time: 67.41037368774414 seconds
+Solution: [1 4 3 2 4 1 7]
+Score: 1639 MXN
+Products: 22 items
+Execution time: 66.84938764572144 seconds
+Solution: [1 4 4 1 4 1 7]
+Score: 1640.934 MXN
+Products: 22 items
+Execution time: 67.54248118400574 seconds
+Solution: [1 5 4 1 4 1 6]
+Score: 1608.22 MXN
+Products: 22 items
+Execution time: 67.1507613658905 seconds
+Solution: [1 2 5 1 5 1 6]
+Score: 1589.0 MXN
+Products: 21 items
+Execution time: 67.54635906219482 seconds
+Solution: [1 4 4 1 4 1 7]
+Score: 1640.934 MXN
+Products: 22 items
+Execution time: 67.56535720825195 seconds
+Solution: [1 5 4 1 3 1 7]
+Score: 1566.08 MXN
+Products: 22 items
+Execution time: 67.3075361251831 seconds
+Solution: [1 6 3 2 4 1 6]
+Score: 1571.4599999999998 MXN
+Products: 23 items
+Execution time: 67.2366292476654 seconds
+Solution: [1 4 3 1 4 1 7]
+Score: 1605 MXN
+Products: 21 items
+Execution time: 67.52105021476746 seconds
+Solution: [1 3 2 1 5 1 7]
+Score: 1597.88 MXN
+Products: 20 items
+Ganancias 
+1651
+1639
+1640.934
+1608.22
+1589.0
+1640.934
+1566.08
+1571.4599999999998
+1605
+1597.88
+Mejor Soluci�n 
+[1 1 4 1 5 1 7]
+Max Ganancia 
+1651
+================== 
+population size: 250 
+ generations: 1000 
+ mutation %: 0.1 
+ selection %: 0.5 
+Execution time: 74.17149996757507 seconds
+Solution: [1 5 3 1 4 1 7]
+Score: 1655 MXN
+Products: 22 items
+Execution time: 75.039067029953 seconds
+Solution: [1 5 2 1 4 2 7]
+Score: 1595 MXN
+Products: 22 items
+Execution time: 74.66429710388184 seconds
+Solution: [1 6 3 1 4 1 7]
+Score: 1705 MXN
+Products: 23 items
+Execution time: 75.25686192512512 seconds
+Solution: [1 5 2 2 4 1 7]
+Score: 1629 MXN
+Products: 22 items
+Execution time: 74.59611678123474 seconds
+Solution: [1 1 4 1 5 1 7]
+Score: 1651 MXN
+Products: 20 items
+Execution time: 74.80384588241577 seconds
+Solution: [1 2 3 1 5 1 7]
+Score: 1641 MXN
+Products: 20 items
+Execution time: 74.2241313457489 seconds
+Solution: [1 1 5 1 5 1 6]
+Score: 1620 MXN
+Products: 20 items
+Execution time: 75.44828271865845 seconds
+Solution: [1 6 2 2 4 1 7]
+Score: 1625.92 MXN
+Products: 23 items
+Execution time: 74.73146986961365 seconds
+Solution: [1 4 3 1 5 1 7]
+Score: 1596.7866666666669 MXN
+Products: 22 items
+Execution time: 75.24985790252686 seconds
+Solution: [1 5 3 1 4 1 7]
+Score: 1655 MXN
+Products: 22 items
+Ganancias 
+1655
+1595
+1705
+1629
+1651
+1641
+1620
+1625.92
+1596.7866666666669
+1655
+Mejor Soluci�n 
+[1 6 3 1 4 1 7]
+Max Ganancia 
+1705
+================== 
+population size: 300 
+ generations: 500 
+ mutation %: 0.1 
+ selection %: 0.5 
+Execution time: 44.92991518974304 seconds
+Solution: [1 5 3 1 4 1 7]
+Score: 1655 MXN
+Products: 22 items
+Execution time: 45.177762508392334 seconds
+Solution: [1 6 2 2 4 1 7]
+Score: 1625.92 MXN
+Products: 23 items
+Execution time: 44.626110792160034 seconds
+Solution: [1 2 4 1 5 1 6]
+Score: 1610 MXN
+Products: 20 items
+Execution time: 45.246721029281616 seconds
+Solution: [1 3 3 2 4 1 7]
+Score: 1589 MXN
+Products: 21 items
+Execution time: 44.81839299201965 seconds
+Solution: [1 6 2 2 4 1 7]
+Score: 1625.92 MXN
+Products: 23 items
+Execution time: 44.7755126953125 seconds
+Solution: [1 3 4 1 5 1 6]
+Score: 1642.4000000000003 MXN
+Products: 21 items
+Execution time: 45.04193329811096 seconds
+Solution: [1 5 3 2 4 1 6]
+Score: 1598 MXN
+Products: 22 items
+Execution time: 45.0496985912323 seconds
+Solution: [1 1 4 1 5 1 7]
+Score: 1651 MXN
+Products: 20 items
+Execution time: 44.79309821128845 seconds
+Solution: [1 3 1 1 5 1 7]
+Score: 1555.3733333333334 MXN
+Products: 19 items
+Execution time: 44.95614957809448 seconds
+Solution: [1 3 2 1 5 1 7]
+Score: 1597.88 MXN
+Products: 20 items
+Ganancias 
+1655
+1625.92
+1610
+1589
+1625.92
+1642.4000000000003
+1598
+1651
+1555.3733333333334
+1597.88
+Mejor Soluci�n 
+[1 5 3 1 4 1 7]
+Max Ganancia 
+1655
+================== 
+population size: 300 
+ generations: 600 
+ mutation %: 0.1 
+ selection %: 0.5 
+Execution time: 53.72499704360962 seconds
+Solution: [2 2 3 1 5 1 7]
+Score: 1581.2933333333335 MXN
+Products: 21 items
+Execution time: 54.184598445892334 seconds
+Solution: [1 6 3 1 4 1 6]
+Score: 1614 MXN
+Products: 22 items
+Execution time: 53.49644136428833 seconds
+Solution: [1 6 2 1 4 2 7]
+Score: 1645 MXN
+Products: 23 items
+Execution time: 53.94500374794006 seconds
+Solution: [1 4 4 1 4 1 7]
+Score: 1640.934 MXN
+Products: 22 items
+Execution time: 53.808083295822144 seconds
+Solution: [1 4 2 2 4 2 7]
+Score: 1579 MXN
+Products: 22 items
+Execution time: 54.068302631378174 seconds
+Solution: [1 7 3 1 4 1 6]
+Score: 1664 MXN
+Products: 23 items
+Execution time: 53.54185366630554 seconds
+Solution: [1 6 2 1 4 2 7]
+Score: 1645 MXN
+Products: 23 items
+Execution time: 54.1275372505188 seconds
+Solution: [1 7 2 1 4 1 7]
+Score: 1659.8800000000003 MXN
+Products: 23 items
+Execution time: 53.870545387268066 seconds
+Solution: [1 3 4 1 5 1 6]
+Score: 1642.4000000000003 MXN
+Products: 21 items
+Execution time: 54.155659437179565 seconds
+Solution: [1 3 4 1 5 1 6]
+Score: 1642.4000000000003 MXN
+Products: 21 items
+Ganancias 
+1581.2933333333335
+1614
+1645
+1640.934
+1579
+1664
+1645
+1659.8800000000003
+1642.4000000000003
+1642.4000000000003
+Mejor Soluci�n 
+[1 7 3 1 4 1 6]
+Max Ganancia 
+1664
+================== 
+population size: 300 
+ generations: 700 
+ mutation %: 0.1 
+ selection %: 0.5 
+Execution time: 63.48153305053711 seconds
+Solution: [1 3 4 1 5 1 6]
+Score: 1642.4000000000003 MXN
+Products: 21 items
+Execution time: 63.10535430908203 seconds
+Solution: [1 5 3 2 4 1 7]
+Score: 1621.15 MXN
+Products: 23 items
+Execution time: 62.88085389137268 seconds
+Solution: [1 6 2 1 4 1 7]
+Score: 1645 MXN
+Products: 22 items
+Execution time: 62.96875023841858 seconds
+Solution: [1 5 3 1 4 1 7]
+Score: 1655 MXN
+Products: 22 items
+Execution time: 62.79649639129639 seconds
+Solution: [1 1 4 1 5 1 7]
+Score: 1651 MXN
+Products: 20 items
+Execution time: 62.9627583026886 seconds
+Solution: [1 7 3 1 4 1 6]
+Score: 1664 MXN
+Products: 23 items
+Execution time: 62.813053369522095 seconds
+Solution: [1 5 3 1 4 1 7]
+Score: 1655 MXN
+Products: 22 items
+Execution time: 62.918456077575684 seconds
+Solution: [1 4 4 1 4 1 7]
+Score: 1640.934 MXN
+Products: 22 items
+Execution time: 62.21911597251892 seconds
+Solution: [1 6 2 2 4 1 7]
+Score: 1625.92 MXN
+Products: 23 items
+Execution time: 63.23889923095703 seconds
+Solution: [1 1 3 2 5 1 7]
+Score: 1625 MXN
+Products: 20 items
+Ganancias 
+1642.4000000000003
+1621.15
+1645
+1655
+1651
+1664
+1655
+1640.934
+1625.92
+1625
+Mejor Soluci�n 
+[1 7 3 1 4 1 6]
+Max Ganancia 
+1664
+================== 
+population size: 300 
+ generations: 800 
+ mutation %: 0.1 
+ selection %: 0.5 
+Execution time: 71.48720693588257 seconds
+Solution: [1 3 3 1 5 1 7]
+Score: 1638.5200000000002 MXN
+Products: 21 items
+Execution time: 72.19816160202026 seconds
+Solution: [2 4 3 1 4 1 7]
+Score: 1615 MXN
+Products: 22 items
+Execution time: 70.97318887710571 seconds
+Solution: [1 5 3 2 4 1 7]
+Score: 1621.15 MXN
+Products: 23 items
+Execution time: 72.10083961486816 seconds
+Solution: [1 3 4 1 5 1 7]
+Score: 1641.3613333333335 MXN
+Products: 22 items
+Execution time: 71.54087162017822 seconds
+Solution: [2 1 4 1 5 1 7]
+Score: 1626.238 MXN
+Products: 21 items
+Execution time: 72.23124957084656 seconds
+Solution: [2 4 3 1 4 1 7]
+Score: 1615 MXN
+Products: 22 items
+Execution time: 72.31398510932922 seconds
+Solution: [1 5 2 2 4 1 7]
+Score: 1629 MXN
+Products: 22 items
+Execution time: 71.93845009803772 seconds
+Solution: [1 6 3 1 4 1 7]
+Score: 1705 MXN
+Products: 23 items
+Execution time: 71.19392037391663 seconds
+Solution: [1 6 4 1 4 1 6]
+Score: 1576.44 MXN
+Products: 23 items
+Execution time: 72.2618465423584 seconds
+Solution: [1 2 3 1 5 1 7]
+Score: 1641 MXN
+Products: 20 items
+Ganancias 
+1638.5200000000002
+1615
+1621.15
+1641.3613333333335
+1626.238
+1615
+1629
+1705
+1576.44
+1641
+Mejor Soluci�n 
+[1 6 3 1 4 1 7]
+Max Ganancia 
+1705
+================== 
+population size: 300 
+ generations: 900 
+ mutation %: 0.1 
+ selection %: 0.5 
+Execution time: 80.71396064758301 seconds
+Solution: [1 6 1 1 4 3 7]
+Score: 1585 MXN
+Products: 23 items
+Execution time: 80.74896836280823 seconds
+Solution: [1 6 2 1 4 1 7]
+Score: 1645 MXN
+Products: 22 items
+Execution time: 79.99376034736633 seconds
+Solution: [1 7 3 1 4 1 6]
+Score: 1664 MXN
+Products: 23 items
+Execution time: 80.96859049797058 seconds
+Solution: [1 3 3 1 5 2 6]
+Score: 1565.6533333333334 MXN
+Products: 21 items
+Execution time: 80.61497402191162 seconds
+Solution: [1 7 3 1 3 1 7]
+Score: 1619 MXN
+Products: 23 items
+Execution time: 80.60038924217224 seconds
+Solution: [1 5 3 1 4 1 7]
+Score: 1655 MXN
+Products: 22 items
+Execution time: 80.73926615715027 seconds
+Solution: [1 2 4 1 5 1 7]
+Score: 1701 MXN
+Products: 21 items
+Execution time: 81.17523574829102 seconds
+Solution: [1 5 3 2 4 1 6]
+Score: 1598 MXN
+Products: 22 items
+Execution time: 80.0673623085022 seconds
+Solution: [2 1 3 1 5 1 7]
+Score: 1601 MXN
+Products: 20 items
+Execution time: 80.5887017250061 seconds
+Solution: [1 1 5 1 5 1 6]
+Score: 1620 MXN
+Products: 20 items
+Ganancias 
+1585
+1645
+1664
+1565.6533333333334
+1619
+1655
+1701
+1598
+1601
+1620
+Mejor Soluci�n 
+[1 2 4 1 5 1 7]
+Max Ganancia 
+1701
+================== 
+population size: 300 
+ generations: 1000 
+ mutation %: 0.1 
+ selection %: 0.5 
+Execution time: 89.19491076469421 seconds
+Solution: [1 7 2 1 4 1 7]
+Score: 1659.8800000000003 MXN
+Products: 23 items
+Execution time: 89.96457433700562 seconds
+Solution: [1 5 3 2 4 1 7]
+Score: 1621.15 MXN
+Products: 23 items
+Execution time: 88.82189393043518 seconds
+Solution: [1 1 4 1 5 1 7]
+Score: 1651 MXN
+Products: 20 items
+Execution time: 90.18232345581055 seconds
+Solution: [1 2 4 1 5 1 7]
+Score: 1701 MXN
+Products: 21 items
+Execution time: 89.6974265575409 seconds
+Solution: [1 4 3 1 4 2 7]
+Score: 1591.95 MXN
+Products: 22 items
+Execution time: 89.69990038871765 seconds
+Solution: [1 1 4 1 5 1 7]
+Score: 1651 MXN
+Products: 20 items
+Execution time: 89.60426592826843 seconds
+Solution: [1 4 3 2 4 1 7]
+Score: 1639 MXN
+Products: 22 items
+Execution time: 89.76929926872253 seconds
+Solution: [1 6 2 1 4 1 7]
+Score: 1645 MXN
+Products: 22 items
+Execution time: 88.7174174785614 seconds
+Solution: [1 5 3 2 4 1 6]
+Score: 1598 MXN
+Products: 22 items
+Execution time: 90.56431770324707 seconds
+Solution: [1 3 4 1 5 1 6]
+Score: 1642.4000000000003 MXN
+Products: 21 items
+Ganancias 
+1659.8800000000003
+1621.15
+1651
+1701
+1591.95
+1651
+1639
+1645
+1598
+1642.4000000000003
+Mejor Soluci�n 
+[1 2 4 1 5 1 7]
+Max Ganancia 
+1701
+================== 
+population size: 350 
+ generations: 500 
+ mutation %: 0.1 
+ selection %: 0.5 
+Execution time: 51.98536801338196 seconds
+Solution: [1 5 3 1 4 1 7]
+Score: 1655 MXN
+Products: 22 items
+Execution time: 52.7374062538147 seconds
+Solution: [2 1 3 1 5 1 7]
+Score: 1601 MXN
+Products: 20 items
+Execution time: 52.244744539260864 seconds
+Solution: [2 4 3 1 4 1 7]
+Score: 1615 MXN
+Products: 22 items
+Execution time: 52.69676470756531 seconds
+Solution: [1 7 3 1 4 1 6]
+Score: 1664 MXN
+Products: 23 items
+Execution time: 52.55214262008667 seconds
+Solution: [1 7 2 1 4 1 6]
+Score: 1604 MXN
+Products: 22 items
+Execution time: 52.25842905044556 seconds
+Solution: [1 2 4 1 5 1 7]
+Score: 1701 MXN
+Products: 21 items
+Execution time: 52.512752056121826 seconds
+Solution: [1 6 2 2 4 1 7]
+Score: 1625.92 MXN
+Products: 23 items
+Execution time: 52.51800203323364 seconds
+Solution: [1 6 2 1 4 1 7]
+Score: 1645 MXN
+Products: 22 items
+Execution time: 52.1285514831543 seconds
+Solution: [1 6 2 1 4 2 7]
+Score: 1645 MXN
+Products: 23 items
+Execution time: 52.42717432975769 seconds
+Solution: [1 7 3 1 4 1 6]
+Score: 1664 MXN
+Products: 23 items
+Ganancias 
+1655
+1601
+1615
+1664
+1604
+1701
+1625.92
+1645
+1645
+1664
+Mejor Soluci�n 
+[1 2 4 1 5 1 7]
+Max Ganancia 
+1701
+================== 
+population size: 350 
+ generations: 600 
+ mutation %: 0.1 
+ selection %: 0.5 
+Execution time: 63.05179691314697 seconds
+Solution: [1 3 4 1 5 1 7]
+Score: 1641.3613333333335 MXN
+Products: 22 items
+Execution time: 63.25481986999512 seconds
+Solution: [1 4 3 2 4 1 7]
+Score: 1639 MXN
+Products: 22 items
+Execution time: 62.69122576713562 seconds
+Solution: [1 3 4 1 5 1 6]
+Score: 1642.4000000000003 MXN
+Products: 21 items
+Execution time: 63.48251748085022 seconds
+Solution: [1 7 3 1 4 1 6]
+Score: 1664 MXN
+Products: 23 items
+Execution time: 62.85952615737915 seconds
+Solution: [1 1 4 1 5 1 7]
+Score: 1651 MXN
+Products: 20 items
+Execution time: 63.015727043151855 seconds
+Solution: [1 3 3 1 5 1 6]
+Score: 1600 MXN
+Products: 20 items
+Execution time: 62.79301428794861 seconds
+Solution: [1 5 4 1 3 1 7]
+Score: 1566.08 MXN
+Products: 22 items
+Execution time: 62.91980791091919 seconds
+Solution: [1 6 2 1 4 2 7]
+Score: 1645 MXN
+Products: 23 items
+Execution time: 62.33983135223389 seconds
+Solution: [1 3 3 1 5 1 7]
+Score: 1638.5200000000002 MXN
+Products: 21 items
+Execution time: 63.39608550071716 seconds
+Solution: [1 5 3 1 4 1 7]
+Score: 1655 MXN
+Products: 22 items
+Ganancias 
+1641.3613333333335
+1639
+1642.4000000000003
+1664
+1651
+1600
+1566.08
+1645
+1638.5200000000002
+1655
+Mejor Soluci�n 
+[1 7 3 1 4 1 6]
+Max Ganancia 
+1664
+================== 
+population size: 350 
+ generations: 700 
+ mutation %: 0.1 
+ selection %: 0.5 
+Execution time: 73.11865377426147 seconds
+Solution: [1 5 3 2 4 1 7]
+Score: 1621.15 MXN
+Products: 23 items
+Execution time: 73.46976256370544 seconds
+Solution: [2 5 2 1 4 1 7]
+Score: 1605 MXN
+Products: 22 items
+Execution time: 72.81682467460632 seconds
+Solution: [1 2 4 1 5 1 7]
+Score: 1701 MXN
+Products: 21 items
+Execution time: 73.7150776386261 seconds
+Solution: [1 2 5 1 5 1 6]
+Score: 1589.0 MXN
+Products: 21 items
+Execution time: 73.47831654548645 seconds
+Solution: [1 4 4 1 4 1 7]
+Score: 1640.934 MXN
+Products: 22 items
+Execution time: 73.46648478507996 seconds
+Solution: [1 2 4 1 5 1 7]
+Score: 1701 MXN
+Products: 21 items
+Execution time: 73.2234525680542 seconds
+Solution: [1 5 3 2 4 1 7]
+Score: 1621.15 MXN
+Products: 23 items
+Execution time: 73.46943378448486 seconds
+Solution: [1 2 3 1 5 1 7]
+Score: 1641 MXN
+Products: 20 items
+Execution time: 72.64468145370483 seconds
+Solution: [1 6 3 1 4 1 6]
+Score: 1614 MXN
+Products: 22 items
+Execution time: 73.39108109474182 seconds
+Solution: [1 2 4 1 5 1 6]
+Score: 1610 MXN
+Products: 20 items
+Ganancias 
+1621.15
+1605
+1701
+1589.0
+1640.934
+1701
+1621.15
+1641
+1614
+1610
+Mejor Soluci�n 
+[1 2 4 1 5 1 7]
+Max Ganancia 
+1701
+================== 
+population size: 350 
+ generations: 800 
+ mutation %: 0.1 
+ selection %: 0.5 
+Execution time: 83.41777396202087 seconds
+Solution: [1 5 2 2 4 1 7]
+Score: 1629 MXN
+Products: 22 items
+Execution time: 84.05977368354797 seconds
+Solution: [1 2 4 1 5 1 7]
+Score: 1701 MXN
+Products: 21 items
+Execution time: 83.43536138534546 seconds
+Solution: [1 3 3 1 5 1 7]
+Score: 1638.5200000000002 MXN
+Products: 21 items
+Execution time: 83.74698543548584 seconds
+Solution: [1 7 3 1 4 1 6]
+Score: 1664 MXN
+Products: 23 items
+Execution time: 83.48238372802734 seconds
+Solution: [1 4 4 1 4 1 7]
+Score: 1640.934 MXN
+Products: 22 items
+Execution time: 84.33051705360413 seconds
+Solution: [1 3 4 1 5 1 6]
+Score: 1642.4000000000003 MXN
+Products: 21 items
+Execution time: 83.01649570465088 seconds
+Solution: [1 6 2 1 4 2 7]
+Score: 1645 MXN
+Products: 23 items
+Execution time: 83.41056251525879 seconds
+Solution: [1 5 2 2 4 1 7]
+Score: 1629 MXN
+Products: 22 items
+Execution time: 83.82051205635071 seconds
+Solution: [1 1 5 1 5 1 6]
+Score: 1620 MXN
+Products: 20 items
+Execution time: 84.50462770462036 seconds
+Solution: [1 2 4 1 5 1 7]
+Score: 1701 MXN
+Products: 21 items
+Ganancias 
+1629
+1701
+1638.5200000000002
+1664
+1640.934
+1642.4000000000003
+1645
+1629
+1620
+1701
+Mejor Soluci�n 
+[1 2 4 1 5 1 7]
+Max Ganancia 
+1701
+================== 
+population size: 350 
+ generations: 900 
+ mutation %: 0.1 
+ selection %: 0.5 
+Execution time: 93.7267541885376 seconds
+Solution: [2 5 2 1 4 1 7]
+Score: 1605 MXN
+Products: 22 items
+Execution time: 93.97459268569946 seconds
+Solution: [1 6 2 1 4 2 7]
+Score: 1645 MXN
+Products: 23 items
+Execution time: 93.93369936943054 seconds
+Solution: [1 5 4 1 4 1 6]
+Score: 1608.22 MXN
+Products: 22 items
+Execution time: 94.54197859764099 seconds
+Solution: [1 6 3 1 4 1 6]
+Score: 1614 MXN
+Products: 22 items
+Execution time: 93.3557620048523 seconds
+Solution: [1 6 1 2 4 1 7]
+Score: 1585.48 MXN
+Products: 22 items
+Execution time: 94.17114162445068 seconds
+Solution: [1 4 4 1 4 1 7]
+Score: 1640.934 MXN
+Products: 22 items
+Execution time: 95.2056999206543 seconds
+Solution: [1 3 4 1 5 1 7]
+Score: 1641.3613333333335 MXN
+Products: 22 items
+Execution time: 94.0980896949768 seconds
+Solution: [1 6 3 1 4 1 6]
+Score: 1614 MXN
+Products: 22 items
+Execution time: 94.2767276763916 seconds
+Solution: [1 2 4 1 5 1 6]
+Score: 1610 MXN
+Products: 20 items
+Execution time: 94.46687698364258 seconds
+Solution: [1 3 3 1 5 1 7]
+Score: 1638.5200000000002 MXN
+Products: 21 items
+Ganancias 
+1605
+1645
+1608.22
+1614
+1585.48
+1640.934
+1641.3613333333335
+1614
+1610
+1638.5200000000002
+Mejor Soluci�n 
+[1 6 2 1 4 2 7]
+Max Ganancia 
+1645
+================== 
+population size: 350 
+ generations: 1000 
+ mutation %: 0.1 
+ selection %: 0.5 
+Execution time: 104.30743646621704 seconds
+Solution: [1 2 4 1 5 1 6]
+Score: 1610 MXN
+Products: 20 items
+Execution time: 104.91897320747375 seconds
+Solution: [1 7 3 1 4 1 6]
+Score: 1664 MXN
+Products: 23 items
+Execution time: 104.4647581577301 seconds
+Solution: [1 5 2 2 4 1 7]
+Score: 1629 MXN
+Products: 22 items
+Execution time: 104.74160742759705 seconds
+Solution: [1 6 3 1 4 1 7]
+Score: 1705 MXN
+Products: 23 items
+Execution time: 104.57452893257141 seconds
+Solution: [1 1 5 1 5 1 6]
+Score: 1620 MXN
+Products: 20 items
+Execution time: 104.96568989753723 seconds
+Solution: [2 4 3 1 4 1 7]
+Score: 1615 MXN
+Products: 22 items
+Execution time: 104.47006702423096 seconds
+Solution: [1 5 3 1 4 1 7]
+Score: 1655 MXN
+Products: 22 items
+Execution time: 104.96005582809448 seconds
+Solution: [2 1 3 1 5 1 7]
+Score: 1601 MXN
+Products: 20 items
+Execution time: 104.16808485984802 seconds
+Solution: [1 7 3 1 4 1 6]
+Score: 1664 MXN
+Products: 23 items
+Execution time: 105.18145203590393 seconds
+Solution: [1 5 3 1 4 1 7]
+Score: 1655 MXN
+Products: 22 items
+Ganancias 
+1610
+1664
+1629
+1705
+1620
+1615
+1655
+1601
+1664
+1655
+Mejor Soluci�n 
+[1 6 3 1 4 1 7]
+Max Ganancia 
+1705
+================== 
+population size: 400 
+ generations: 500 
+ mutation %: 0.1 
+ selection %: 0.5 
+Execution time: 59.82885789871216 seconds
+Solution: [1 1 4 1 5 2 6]
+Score: 1560 MXN
+Products: 20 items
+Execution time: 59.89403247833252 seconds
+Solution: [1 6 2 2 4 1 6]
+Score: 1588 MXN
+Products: 22 items
+Execution time: 59.45082998275757 seconds
+Solution: [2 4 3 1 4 1 7]
+Score: 1615 MXN
+Products: 22 items
+Execution time: 60.19701099395752 seconds
+Solution: [1 3 4 1 5 1 7]
+Score: 1641.3613333333335 MXN
+Products: 22 items
+Execution time: 59.8645122051239 seconds
+Solution: [1 6 2 2 4 1 7]
+Score: 1625.92 MXN
+Products: 23 items
+Execution time: 59.83818507194519 seconds
+Solution: [1 7 3 1 4 1 6]
+Score: 1664 MXN
+Products: 23 items
+Execution time: 59.88316106796265 seconds
+Solution: [1 1 5 1 5 1 6]
+Score: 1620 MXN
+Products: 20 items
+Execution time: 59.87694978713989 seconds
+Solution: [2 5 3 1 4 1 7]
+Score: 1614.004 MXN
+Products: 23 items
+Execution time: 59.41622805595398 seconds
+Solution: [1 5 3 1 4 1 7]
+Score: 1655 MXN
+Products: 22 items
+Execution time: 60.249303579330444 seconds
+Solution: [1 5 4 1 4 1 6]
+Score: 1608.22 MXN
+Products: 22 items
+Ganancias 
+1560
+1588
+1615
+1641.3613333333335
+1625.92
+1664
+1620
+1614.004
+1655
+1608.22
+Mejor Soluci�n 
+[1 7 3 1 4 1 6]
+Max Ganancia 
+1664
+================== 
+population size: 400 
+ generations: 600 
+ mutation %: 0.1 
+ selection %: 0.5 
+Execution time: 71.50306010246277 seconds
+Solution: [1 6 3 1 4 1 7]
+Score: 1705 MXN
+Products: 23 items
+Execution time: 72.33648419380188 seconds
+Solution: [1 2 2 1 5 1 7]
+Score: 1581 MXN
+Products: 19 items
+Execution time: 71.28590440750122 seconds
+Solution: [1 5 2 2 4 1 7]
+Score: 1629 MXN
+Products: 22 items
+Execution time: 72.12844729423523 seconds
+Solution: [1 6 3 1 4 1 7]
+Score: 1705 MXN
+Products: 23 items
+Execution time: 71.68441081047058 seconds
+Solution: [1 7 3 1 4 1 6]
+Score: 1664 MXN
+Products: 23 items
+Execution time: 72.3355233669281 seconds
+Solution: [1 3 4 1 5 1 6]
+Score: 1642.4000000000003 MXN
+Products: 21 items
+Execution time: 71.5918140411377 seconds
+Solution: [1 3 4 1 5 1 6]
+Score: 1642.4000000000003 MXN
+Products: 21 items
+Execution time: 72.09427618980408 seconds
+Solution: [1 5 3 1 4 1 7]
+Score: 1655 MXN
+Products: 22 items
+Execution time: 71.68081283569336 seconds
+Solution: [1 2 4 1 5 1 7]
+Score: 1701 MXN
+Products: 21 items
+Execution time: 72.33182501792908 seconds
+Solution: [1 5 4 1 4 1 6]
+Score: 1608.22 MXN
+Products: 22 items
+Ganancias 
+1705
+1581
+1629
+1705
+1664
+1642.4000000000003
+1642.4000000000003
+1655
+1701
+1608.22
+Mejor Soluci�n 
+[1 6 3 1 4 1 7]
+Max Ganancia 
+1705
+================== 
+population size: 400 
+ generations: 700 
+ mutation %: 0.1 
+ selection %: 0.5 
+Execution time: 83.66646337509155 seconds
+Solution: [1 2 3 1 5 2 7]
+Score: 1641 MXN
+Products: 21 items
+Execution time: 84.03000068664551 seconds
+Solution: [1 3 4 1 5 1 6]
+Score: 1642.4000000000003 MXN
+Products: 21 items
+Execution time: 83.5010712146759 seconds
+Solution: [2 4 3 1 4 1 7]
+Score: 1615 MXN
+Products: 22 items
+Execution time: 84.00934720039368 seconds
+Solution: [1 1 4 1 5 1 7]
+Score: 1651 MXN
+Products: 20 items
+Execution time: 83.49949669837952 seconds
+Solution: [1 6 3 1 4 1 7]
+Score: 1705 MXN
+Products: 23 items
+Execution time: 83.8458251953125 seconds
+Solution: [1 2 3 1 5 2 7]
+Score: 1641 MXN
+Products: 21 items
+Execution time: 83.9276909828186 seconds
+Solution: [1 2 3 2 5 1 7]
+Score: 1604.4933333333336 MXN
+Products: 21 items
+Execution time: 84.20159482955933 seconds
+Solution: [1 6 2 2 4 1 6]
+Score: 1588 MXN
+Products: 22 items
+Execution time: 83.11516046524048 seconds
+Solution: [1 1 5 1 5 1 6]
+Score: 1620 MXN
+Products: 20 items
+Execution time: 83.80419445037842 seconds
+Solution: [1 2 4 1 5 1 7]
+Score: 1701 MXN
+Products: 21 items
+Ganancias 
+1641
+1642.4000000000003
+1615
+1651
+1705
+1641
+1604.4933333333336
+1588
+1620
+1701
+Mejor Soluci�n 
+[1 6 3 1 4 1 7]
+Max Ganancia 
+1705
+================== 
+population size: 400 
+ generations: 800 
+ mutation %: 0.1 
+ selection %: 0.5 
+Execution time: 95.50569772720337 seconds
+Solution: [1 2 3 2 5 1 6]
+Score: 1567.2000000000003 MXN
+Products: 20 items
+Execution time: 95.7136378288269 seconds
+Solution: [1 6 2 1 4 2 7]
+Score: 1645 MXN
+Products: 23 items
+Execution time: 95.35940408706665 seconds
+Solution: [1 7 3 1 4 1 6]
+Score: 1664 MXN
+Products: 23 items
+Execution time: 95.63273286819458 seconds
+Solution: [1 6 2 1 4 2 7]
+Score: 1645 MXN
+Products: 23 items
+Execution time: 95.49046015739441 seconds
+Solution: [1 6 2 1 4 2 7]
+Score: 1645 MXN
+Products: 23 items
+Execution time: 95.91639995574951 seconds
+Solution: [1 6 2 1 4 2 7]
+Score: 1645 MXN
+Products: 23 items
+Execution time: 95.1729998588562 seconds
+Solution: [1 5 3 1 4 1 7]
+Score: 1655 MXN
+Products: 22 items
+Execution time: 95.84624314308167 seconds
+Solution: [1 6 2 1 4 1 7]
+Score: 1645 MXN
+Products: 22 items
+Execution time: 95.50578451156616 seconds
+Solution: [1 7 3 1 4 1 6]
+Score: 1664 MXN
+Products: 23 items
+Execution time: 96.45815062522888 seconds
+Solution: [1 3 4 1 5 1 6]
+Score: 1642.4000000000003 MXN
+Products: 21 items
+Ganancias 
+1567.2000000000003
+1645
+1664
+1645
+1645
+1645
+1655
+1645
+1664
+1642.4000000000003
+Mejor Soluci�n 
+[1 7 3 1 4 1 6]
+Max Ganancia 
+1664
+================== 
+population size: 400 
+ generations: 900 
+ mutation %: 0.1 
+ selection %: 0.5 
+Execution time: 107.53769493103027 seconds
+Solution: [1 6 3 1 4 1 6]
+Score: 1614 MXN
+Products: 22 items
+Execution time: 107.72898864746094 seconds
+Solution: [1 6 3 1 4 1 6]
+Score: 1614 MXN
+Products: 22 items
+Execution time: 107.1967933177948 seconds
+Solution: [1 7 3 1 4 1 6]
+Score: 1664 MXN
+Products: 23 items
+Execution time: 108.1266918182373 seconds
+Solution: [1 1 3 2 5 1 7]
+Score: 1625 MXN
+Products: 20 items
+Execution time: 106.62756490707397 seconds
+Solution: [1 2 3 1 5 2 7]
+Score: 1641 MXN
+Products: 21 items
+Execution time: 108.55929183959961 seconds
+Solution: [1 4 2 3 4 1 7]
+Score: 1613 MXN
+Products: 22 items
+Execution time: 106.59717392921448 seconds
+Solution: [2 1 4 1 5 1 7]
+Score: 1626.238 MXN
+Products: 21 items
+Execution time: 107.77013087272644 seconds
+Solution: [1 6 3 1 4 1 7]
+Score: 1705 MXN
+Products: 23 items
+Execution time: 107.21847558021545 seconds
+Solution: [1 5 3 1 4 1 7]
+Score: 1655 MXN
+Products: 22 items
+Execution time: 107.80928659439087 seconds
+Solution: [1 6 3 1 4 1 7]
+Score: 1705 MXN
+Products: 23 items
+Ganancias 
+1614
+1614
+1664
+1625
+1641
+1613
+1626.238
+1705
+1655
+1705
+Mejor Soluci�n 
+[1 6 3 1 4 1 7]
+Max Ganancia 
+1705
+================== 
+population size: 400 
+ generations: 1000 
+ mutation %: 0.1 
+ selection %: 0.5 
+Execution time: 119.06377243995667 seconds
+Solution: [1 6 3 1 4 1 7]
+Score: 1705 MXN
+Products: 23 items
+Execution time: 120.29488706588745 seconds
+Solution: [1 7 3 1 4 1 6]
+Score: 1664 MXN
+Products: 23 items
+Execution time: 118.94254446029663 seconds
+Solution: [1 6 2 1 4 1 7]
+Score: 1645 MXN
+Products: 22 items
+Execution time: 119.52293634414673 seconds
+Solution: [1 6 4 1 4 1 6]
+Score: 1576.44 MXN
+Products: 23 items
+Execution time: 118.74236679077148 seconds
+Solution: [2 1 4 1 5 1 7]
+Score: 1626.238 MXN
+Products: 21 items
+Execution time: 119.94331121444702 seconds
+Solution: [2 5 3 1 4 1 7]
+Score: 1614.004 MXN
+Products: 23 items
+Execution time: 119.35658717155457 seconds
+Solution: [1 7 3 1 4 1 6]
+Score: 1664 MXN
+Products: 23 items
+Execution time: 119.6759192943573 seconds
+Solution: [1 6 2 1 4 2 7]
+Score: 1645 MXN
+Products: 23 items
+Execution time: 118.83310055732727 seconds
+Solution: [1 7 2 1 4 1 6]
+Score: 1604 MXN
+Products: 22 items
+Execution time: 119.62880802154541 seconds
+Solution: [1 4 3 2 4 1 7]
+Score: 1639 MXN
+Products: 22 items
+Ganancias 
+1705
+1664
+1645
+1576.44
+1626.238
+1614.004
+1664
+1645
+1604
+1639
+Mejor Soluci�n 
+[1 6 3 1 4 1 7]
+Max Ganancia 
+1705
+================== 
+population size: 450 
+ generations: 500 
+ mutation %: 0.1 
+ selection %: 0.5 
+Execution time: 67.42245578765869 seconds
+Solution: [1 6 3 1 4 1 7]
+Score: 1705 MXN
+Products: 23 items
+Execution time: 67.57654690742493 seconds
+Solution: [1 3 4 1 5 1 6]
+Score: 1642.4000000000003 MXN
+Products: 21 items
+Execution time: 67.01017475128174 seconds
+Solution: [1 7 3 1 4 1 6]
+Score: 1664 MXN
+Products: 23 items
+Execution time: 67.6065444946289 seconds
+Solution: [1 3 4 1 5 1 6]
+Score: 1642.4000000000003 MXN
+Products: 21 items
+Execution time: 67.28723311424255 seconds
+Solution: [1 2 3 1 5 1 7]
+Score: 1641 MXN
+Products: 20 items
+Execution time: 67.61523580551147 seconds
+Solution: [1 4 3 1 4 2 7]
+Score: 1591.95 MXN
+Products: 22 items
+Execution time: 67.2087755203247 seconds
+Solution: [1 7 3 1 4 1 6]
+Score: 1664 MXN
+Products: 23 items
+Execution time: 67.78544855117798 seconds
+Solution: [1 6 2 1 4 1 7]
+Score: 1645 MXN
+Products: 22 items
+Execution time: 67.1321029663086 seconds
+Solution: [1 5 4 1 4 1 6]
+Score: 1608.22 MXN
+Products: 22 items
+Execution time: 67.7119779586792 seconds
+Solution: [1 1 4 1 5 1 7]
+Score: 1651 MXN
+Products: 20 items
+Ganancias 
+1705
+1642.4000000000003
+1664
+1642.4000000000003
+1641
+1591.95
+1664
+1645
+1608.22
+1651
+Mejor Soluci�n 
+[1 6 3 1 4 1 7]
+Max Ganancia 
+1705
+================== 
+population size: 450 
+ generations: 600 
+ mutation %: 0.1 
+ selection %: 0.5 
+Execution time: 80.36381006240845 seconds
+Solution: [1 5 4 1 4 1 6]
+Score: 1608.22 MXN
+Products: 22 items
+Execution time: 80.95149278640747 seconds
+Solution: [1 3 3 1 5 1 6]
+Score: 1600 MXN
+Products: 20 items
+Execution time: 80.4453489780426 seconds
+Solution: [1 7 2 1 4 1 7]
+Score: 1659.8800000000003 MXN
+Products: 23 items
+Execution time: 81.19264435768127 seconds
+Solution: [1 2 2 1 5 2 7]
+Score: 1581 MXN
+Products: 20 items
+Execution time: 80.61062097549438 seconds
+Solution: [1 7 2 1 4 1 7]
+Score: 1659.8800000000003 MXN
+Products: 23 items
+Execution time: 80.97725749015808 seconds
+Solution: [1 7 3 1 4 1 6]
+Score: 1664 MXN
+Products: 23 items
+Execution time: 80.22127556800842 seconds
+Solution: [1 1 4 1 5 1 7]
+Score: 1651 MXN
+Products: 20 items
+Execution time: 81.27564930915833 seconds
+Solution: [1 7 3 1 4 1 6]
+Score: 1664 MXN
+Products: 23 items
+Execution time: 80.59178400039673 seconds
+Solution: [1 1 4 1 5 1 7]
+Score: 1651 MXN
+Products: 20 items
+Execution time: 81.19960403442383 seconds
+Solution: [1 7 3 1 4 1 6]
+Score: 1664 MXN
+Products: 23 items
+Ganancias 
+1608.22
+1600
+1659.8800000000003
+1581
+1659.8800000000003
+1664
+1651
+1664
+1651
+1664
+Mejor Soluci�n 
+[1 7 3 1 4 1 6]
+Max Ganancia 
+1664
+================== 
+population size: 450 
+ generations: 700 
+ mutation %: 0.1 
+ selection %: 0.5 
+Execution time: 93.4295883178711 seconds
+Solution: [1 3 4 1 5 1 6]
+Score: 1642.4000000000003 MXN
+Products: 21 items
+Execution time: 94.93810939788818 seconds
+Solution: [1 7 3 1 4 1 6]
+Score: 1664 MXN
+Products: 23 items
+Execution time: 93.46914315223694 seconds
+Solution: [1 1 4 1 5 1 7]
+Score: 1651 MXN
+Products: 20 items
+Execution time: 94.15748739242554 seconds
+Solution: [1 2 3 1 5 2 7]
+Score: 1641 MXN
+Products: 21 items
+Execution time: 94.97003674507141 seconds
+Solution: [1 6 3 1 4 1 7]
+Score: 1705 MXN
+Products: 23 items
+Execution time: 92.6621310710907 seconds
+Solution: [1 7 2 1 4 1 7]
+Score: 1659.8800000000003 MXN
+Products: 23 items
+Execution time: 93.4913432598114 seconds
+Solution: [1 2 3 1 5 1 7]
+Score: 1641 MXN
+Products: 20 items
+Execution time: 94.65541887283325 seconds
+Solution: [1 4 4 1 4 1 7]
+Score: 1640.934 MXN
+Products: 22 items
+Execution time: 94.159921169281 seconds
+Solution: [1 5 2 1 4 2 7]
+Score: 1595 MXN
+Products: 22 items
+Execution time: 94.45030808448792 seconds
+Solution: [1 2 4 1 5 1 7]
+Score: 1701 MXN
+Products: 21 items
+Ganancias 
+1642.4000000000003
+1664
+1651
+1641
+1705
+1659.8800000000003
+1641
+1640.934
+1595
+1701
+Mejor Soluci�n 
+[1 6 3 1 4 1 7]
+Max Ganancia 
+1705
+================== 
+population size: 450 
+ generations: 800 
+ mutation %: 0.1 
+ selection %: 0.5 
+Execution time: 107.43311166763306 seconds
+Solution: [2 5 3 1 4 1 7]
+Score: 1614.004 MXN
+Products: 23 items
+Execution time: 107.937016248703 seconds
+Solution: [1 7 3 1 4 1 6]
+Score: 1664 MXN
+Products: 23 items
+Execution time: 107.38465785980225 seconds
+Solution: [1 4 3 2 4 1 7]
+Score: 1639 MXN
+Products: 22 items
+Execution time: 107.88743352890015 seconds
+Solution: [1 1 5 1 5 1 7]
+Score: 1620.448 MXN
+Products: 21 items
+Execution time: 107.0199670791626 seconds
+Solution: [1 6 2 2 4 1 6]
+Score: 1588 MXN
+Products: 22 items
+Execution time: 108.21726775169373 seconds
+Solution: [1 6 3 1 4 1 7]
+Score: 1705 MXN
+Products: 23 items
+Execution time: 107.40018820762634 seconds
+Solution: [1 3 4 1 5 1 6]
+Score: 1642.4000000000003 MXN
+Products: 21 items
+Execution time: 108.17623949050903 seconds
+Solution: [1 7 3 1 4 1 6]
+Score: 1664 MXN
+Products: 23 items
+Execution time: 107.5606701374054 seconds
+Solution: [1 5 3 2 4 1 7]
+Score: 1621.15 MXN
+Products: 23 items
+Execution time: 108.23622941970825 seconds
+Solution: [1 6 2 1 4 2 7]
+Score: 1645 MXN
+Products: 23 items
+Ganancias 
+1614.004
+1664
+1639
+1620.448
+1588
+1705
+1642.4000000000003
+1664
+1621.15
+1645
+Mejor Soluci�n 
+[1 6 3 1 4 1 7]
+Max Ganancia 
+1705
+================== 
+population size: 450 
+ generations: 900 
+ mutation %: 0.1 
+ selection %: 0.5 
+Execution time: 121.17509269714355 seconds
+Solution: [1 1 5 1 5 1 6]
+Score: 1620 MXN
+Products: 20 items
+Execution time: 121.82412219047546 seconds
+Solution: [1 4 3 2 4 1 7]
+Score: 1639 MXN
+Products: 22 items
+Execution time: 120.26243591308594 seconds
+Solution: [1 1 5 1 5 1 6]
+Score: 1620 MXN
+Products: 20 items
+Execution time: 121.4176824092865 seconds
+Solution: [1 5 3 1 4 1 7]
+Score: 1655 MXN
+Products: 22 items
+Execution time: 121.48114514350891 seconds
+Solution: [1 2 3 1 5 2 7]
+Score: 1641 MXN
+Products: 21 items
+Execution time: 121.20955061912537 seconds
+Solution: [1 5 3 1 4 1 7]
+Score: 1655 MXN
+Products: 22 items
+Execution time: 120.96910309791565 seconds
+Solution: [1 6 3 1 4 1 7]
+Score: 1705 MXN
+Products: 23 items
+Execution time: 121.06101322174072 seconds
+Solution: [1 3 4 1 5 1 6]
+Score: 1642.4000000000003 MXN
+Products: 21 items
+Execution time: 121.02346014976501 seconds
+Solution: [1 2 4 1 5 1 7]
+Score: 1701 MXN
+Products: 21 items
+Execution time: 121.62266731262207 seconds
+Solution: [1 5 3 2 4 1 6]
+Score: 1598 MXN
+Products: 22 items
+Ganancias 
+1620
+1639
+1620
+1655
+1641
+1655
+1705
+1642.4000000000003
+1701
+1598
+Mejor Soluci�n 
+[1 6 3 1 4 1 7]
+Max Ganancia 
+1705
+================== 
+population size: 450 
+ generations: 1000 
+ mutation %: 0.1 
+ selection %: 0.5 
+Execution time: 134.05525541305542 seconds
+Solution: [1 7 3 1 4 1 6]
+Score: 1664 MXN
+Products: 23 items
+Execution time: 135.80870246887207 seconds
+Solution: [1 6 3 1 4 1 7]
+Score: 1705 MXN
+Products: 23 items
+Execution time: 134.5307068824768 seconds
+Solution: [1 5 3 2 4 1 7]
+Score: 1621.15 MXN
+Products: 23 items
+Execution time: 134.74566316604614 seconds
+Solution: [1 7 3 1 4 1 6]
+Score: 1664 MXN
+Products: 23 items
+Execution time: 133.97565174102783 seconds
+Solution: [1 5 3 2 4 1 6]
+Score: 1598 MXN
+Products: 22 items
+Execution time: 134.55408835411072 seconds
+Solution: [1 1 4 1 5 1 7]
+Score: 1651 MXN
+Products: 20 items
+Execution time: 133.57809686660767 seconds
+Solution: [1 6 3 1 4 1 7]
+Score: 1705 MXN
+Products: 23 items
+Execution time: 134.39419889450073 seconds
+Solution: [2 4 3 1 4 1 7]
+Score: 1615 MXN
+Products: 22 items
+Execution time: 134.37958765029907 seconds
+Solution: [1 1 4 2 5 1 7]
+Score: 1633.624 MXN
+Products: 21 items
+Execution time: 135.52961230278015 seconds
+Solution: [1 5 3 1 4 1 7]
+Score: 1655 MXN
+Products: 22 items
+Ganancias 
+1664
+1705
+1621.15
+1664
+1598
+1651
+1705
+1615
+1633.624
+1655
+Mejor Soluci�n 
+[1 6 3 1 4 1 7]
+Max Ganancia 
+1705
+================== 
+population size: 500 
+ generations: 500 
+ mutation %: 0.1 
+ selection %: 0.5 
+Execution time: 74.79960012435913 seconds
+Solution: [1 2 3 1 5 1 7]
+Score: 1641 MXN
+Products: 20 items
+Execution time: 74.86126732826233 seconds
+Solution: [1 4 3 2 4 1 7]
+Score: 1639 MXN
+Products: 22 items
+Execution time: 74.61408305168152 seconds
+Solution: [1 1 4 2 5 1 7]
+Score: 1633.624 MXN
+Products: 21 items
+Execution time: 75.3170759677887 seconds
+Solution: [1 3 4 1 5 1 6]
+Score: 1642.4000000000003 MXN
+Products: 21 items
+Execution time: 75.07219576835632 seconds
+Solution: [1 2 4 1 5 1 7]
+Score: 1701 MXN
+Products: 21 items
+Execution time: 75.12993311882019 seconds
+Solution: [1 7 3 1 4 1 6]
+Score: 1664 MXN
+Products: 23 items
+Execution time: 74.25244998931885 seconds
+Solution: [1 3 4 1 5 1 6]
+Score: 1642.4000000000003 MXN
+Products: 21 items
+Execution time: 75.2016065120697 seconds
+Solution: [2 1 4 1 5 1 7]
+Score: 1626.238 MXN
+Products: 21 items
+Execution time: 74.71761059761047 seconds
+Solution: [1 1 4 1 5 1 7]
+Score: 1651 MXN
+Products: 20 items
+Execution time: 75.13758707046509 seconds
+Solution: [1 2 4 1 5 1 7]
+Score: 1701 MXN
+Products: 21 items
+Ganancias 
+1641
+1639
+1633.624
+1642.4000000000003
+1701
+1664
+1642.4000000000003
+1626.238
+1651
+1701
+Mejor Soluci�n 
+[1 2 4 1 5 1 7]
+Max Ganancia 
+1701
+================== 
+population size: 500 
+ generations: 600 
+ mutation %: 0.1 
+ selection %: 0.5 
+Execution time: 89.90256309509277 seconds
+Solution: [1 5 2 2 4 1 7]
+Score: 1629 MXN
+Products: 22 items
+Execution time: 90.19038772583008 seconds
+Solution: [1 2 3 1 5 1 7]
+Score: 1641 MXN
+Products: 20 items
+Execution time: 89.62016725540161 seconds
+Solution: [1 5 1 2 4 1 7]
+Score: 1569 MXN
+Products: 21 items
+Execution time: 89.81559109687805 seconds
+Solution: [1 4 4 1 4 1 7]
+Score: 1640.934 MXN
+Products: 22 items
+Execution time: 89.1710774898529 seconds
+Solution: [1 6 2 1 4 1 7]
+Score: 1645 MXN
+Products: 22 items
+Execution time: 90.65247583389282 seconds
+Solution: [1 5 4 1 4 1 6]
+Score: 1608.22 MXN
+Products: 22 items
+Execution time: 89.70531296730042 seconds
+Solution: [1 5 3 1 4 1 7]
+Score: 1655 MXN
+Products: 22 items
+Execution time: 90.33314037322998 seconds
+Solution: [1 5 3 1 4 1 7]
+Score: 1655 MXN
+Products: 22 items
+Execution time: 89.08195066452026 seconds
+Solution: [1 1 3 2 5 1 7]
+Score: 1625 MXN
+Products: 20 items
+Execution time: 89.70325136184692 seconds
+Solution: [1 3 4 1 5 1 6]
+Score: 1642.4000000000003 MXN
+Products: 21 items
+Ganancias 
+1629
+1641
+1569
+1640.934
+1645
+1608.22
+1655
+1655
+1625
+1642.4000000000003
+Mejor Soluci�n 
+[1 5 3 1 4 1 7]
+Max Ganancia 
+1655
+================== 
+population size: 500 
+ generations: 700 
+ mutation %: 0.1 
+ selection %: 0.5 
+Execution time: 103.92911958694458 seconds
+Solution: [1 6 2 1 4 1 7]
+Score: 1645 MXN
+Products: 22 items
+Execution time: 104.62480425834656 seconds
+Solution: [1 6 2 1 4 2 7]
+Score: 1645 MXN
+Products: 23 items
+Execution time: 104.34197282791138 seconds
+Solution: [1 6 2 1 4 1 7]
+Score: 1645 MXN
+Products: 22 items
+Execution time: 104.5148754119873 seconds
+Solution: [1 7 3 1 3 1 7]
+Score: 1619 MXN
+Products: 23 items
+Execution time: 104.40973472595215 seconds
+Solution: [1 2 2 1 5 1 7]
+Score: 1581 MXN
+Products: 19 items
+Execution time: 104.21439409255981 seconds
+Solution: [1 5 2 2 4 1 7]
+Score: 1629 MXN
+Products: 22 items
+Execution time: 104.3529806137085 seconds
+Solution: [1 2 4 1 5 1 7]
+Score: 1701 MXN
+Products: 21 items
+Execution time: 105.45303773880005 seconds
+Solution: [1 3 3 1 5 1 7]
+Score: 1638.5200000000002 MXN
+Products: 21 items
+Execution time: 104.21835112571716 seconds
+Solution: [1 4 3 2 4 1 7]
+Score: 1639 MXN
+Products: 22 items
+Execution time: 105.2939715385437 seconds
+Solution: [1 2 4 1 5 1 7]
+Score: 1701 MXN
+Products: 21 items
+Ganancias 
+1645
+1645
+1645
+1619
+1581
+1629
+1701
+1638.5200000000002
+1639
+1701
+Mejor Soluci�n 
+[1 2 4 1 5 1 7]
+Max Ganancia 
+1701
+================== 
+population size: 500 
+ generations: 800 
+ mutation %: 0.1 
+ selection %: 0.5 
+Execution time: 119.09327483177185 seconds
+Solution: [1 3 4 1 5 1 6]
+Score: 1642.4000000000003 MXN
+Products: 21 items
+Execution time: 119.60382437705994 seconds
+Solution: [1 5 3 1 4 1 7]
+Score: 1655 MXN
+Products: 22 items
+Execution time: 118.83447670936584 seconds
+Solution: [1 5 3 1 4 1 7]
+Score: 1655 MXN
+Products: 22 items
+Execution time: 119.87424921989441 seconds
+Solution: [1 7 3 1 4 1 7]
+Score: 1646.8140000000003 MXN
+Products: 24 items
+Execution time: 119.01491284370422 seconds
+Solution: [1 1 5 1 5 1 6]
+Score: 1620 MXN
+Products: 20 items
+Execution time: 119.29092693328857 seconds
+Solution: [2 5 3 1 4 1 7]
+Score: 1614.004 MXN
+Products: 23 items
+Execution time: 118.80371069908142 seconds
+Solution: [1 4 2 3 4 1 7]
+Score: 1613 MXN
+Products: 22 items
+Execution time: 120.21467685699463 seconds
+Solution: [1 7 3 1 4 1 6]
+Score: 1664 MXN
+Products: 23 items
+Execution time: 119.55514764785767 seconds
+Solution: [1 3 4 1 5 1 6]
+Score: 1642.4000000000003 MXN
+Products: 21 items
+Execution time: 120.05263090133667 seconds
+Solution: [1 7 3 1 4 1 6]
+Score: 1664 MXN
+Products: 23 items
+Ganancias 
+1642.4000000000003
+1655
+1655
+1646.8140000000003
+1620
+1614.004
+1613
+1664
+1642.4000000000003
+1664
+Mejor Soluci�n 
+[1 7 3 1 4 1 6]
+Max Ganancia 
+1664
+================== 
+population size: 500 
+ generations: 900 
+ mutation %: 0.1 
+ selection %: 0.5 
+Execution time: 133.1496422290802 seconds
+Solution: [1 5 2 1 4 2 7]
+Score: 1595 MXN
+Products: 22 items
+Execution time: 134.46778655052185 seconds
+Solution: [1 1 4 1 5 1 7]
+Score: 1651 MXN
+Products: 20 items
+Execution time: 133.93482518196106 seconds
+Solution: [1 3 4 1 5 1 7]
+Score: 1641.3613333333335 MXN
+Products: 22 items
+Execution time: 134.67857384681702 seconds
+Solution: [1 1 4 1 5 1 7]
+Score: 1651 MXN
+Products: 20 items
+Execution time: 133.8615174293518 seconds
+Solution: [1 1 4 1 5 1 7]
+Score: 1651 MXN
+Products: 20 items
+Execution time: 134.56899785995483 seconds
+Solution: [1 1 5 1 5 1 6]
+Score: 1620 MXN
+Products: 20 items
+Execution time: 133.7791247367859 seconds
+Solution: [1 1 4 2 5 1 7]
+Score: 1633.624 MXN
+Products: 21 items
+Execution time: 134.69593381881714 seconds
+Solution: [1 3 4 1 5 1 6]
+Score: 1642.4000000000003 MXN
+Products: 21 items
+Execution time: 133.8096625804901 seconds
+Solution: [2 1 4 1 5 1 7]
+Score: 1626.238 MXN
+Products: 21 items
+Execution time: 134.51755023002625 seconds
+Solution: [1 2 4 1 5 1 7]
+Score: 1701 MXN
+Products: 21 items
+Ganancias 
+1595
+1651
+1641.3613333333335
+1651
+1651
+1620
+1633.624
+1642.4000000000003
+1626.238
+1701
+Mejor Soluci�n 
+[1 2 4 1 5 1 7]
+Max Ganancia 
+1701
+================== 
+population size: 500 
+ generations: 1000 
+ mutation %: 0.1 
+ selection %: 0.5 
+Execution time: 148.28292393684387 seconds
+Solution: [1 1 4 1 5 1 7]
+Score: 1651 MXN
+Products: 20 items
+Execution time: 150.06434416770935 seconds
+Solution: [1 5 3 1 4 1 7]
+Score: 1655 MXN
+Products: 22 items
+Execution time: 148.81474924087524 seconds
+Solution: [1 3 4 1 5 1 6]
+Score: 1642.4000000000003 MXN
+Products: 21 items
+Execution time: 149.66261291503906 seconds
+Solution: [1 2 4 1 5 1 6]
+Score: 1610 MXN
+Products: 20 items
+Execution time: 148.29669666290283 seconds
+Solution: [1 1 4 1 5 1 7]
+Score: 1651 MXN
+Products: 20 items
+Execution time: 150.5964469909668 seconds
+Solution: [1 1 4 2 5 1 7]
+Score: 1633.624 MXN
+Products: 21 items
+Execution time: 149.23699021339417 seconds
+Solution: [1 4 2 3 4 1 7]
+Score: 1613 MXN
+Products: 22 items
+Execution time: 149.4801745414734 seconds
+Solution: [1 2 5 1 5 1 6]
+Score: 1589.0 MXN
+Products: 21 items
+Execution time: 147.9663007259369 seconds
+Solution: [1 3 3 1 5 1 7]
+Score: 1638.5200000000002 MXN
+Products: 21 items
+Execution time: 150.0703604221344 seconds
+Solution: [2 5 3 1 4 1 7]
+Score: 1614.004 MXN
+Products: 23 items
+Ganancias 
+1651
+1655
+1642.4000000000003
+1610
+1651
+1633.624
+1613
+1589.0
+1638.5200000000002
+1614.004
+Mejor Soluci�n 
+[1 5 3 1 4 1 7]
+Max Ganancia 
+1655
+================== 
+population size: 500 
+ generations: 1000 
+ mutation %: 0.1 
+ selection %: 0.1 
+Execution time: 147.71463990211487 seconds
+Execution time: 148.51173520088196 seconds
+Execution time: 147.80797600746155 seconds
+Execution time: 148.98208951950073 seconds
+Execution time: 147.83379697799683 seconds
+Execution time: 148.26932978630066 seconds
+Execution time: 147.92289280891418 seconds
+Execution time: 148.67994284629822 seconds
+Execution time: 147.08884048461914 seconds
+Execution time: 148.98071122169495 seconds
+Ganancias 
+1620
+1651
+1640.934
+1701
+1614
+1705
+1642.4000000000003
+1659.8800000000003
+1633.624
+1664
+Cantidad de objetos 
+Combinaciones 
+[1 1 5 1 5 1 6]
+[1 1 4 1 5 1 7]
+[1 4 4 1 4 1 7]
+[1 2 4 1 5 1 7]
+[1 6 3 1 4 1 6]
+[1 6 3 1 4 1 7]
+[1 3 4 1 5 1 6]
+[1 7 2 1 4 1 7]
+[1 1 4 2 5 1 7]
+[1 7 3 1 4 1 6]
+Mejor Soluci�n 
+[1 6 3 1 4 1 7]
+Max Ganancia 
+1705
+================== 
+population size: 500 
+ generations: 1000 
+ mutation %: 0.1 
+ selection %: 0.1 
+Execution time: 147.68514013290405 seconds
+Execution time: 148.62845492362976 seconds
+Execution time: 147.82282876968384 seconds
+Execution time: 148.85525918006897 seconds
+Execution time: 147.85199689865112 seconds
+Execution time: 149.24852108955383 seconds
+Execution time: 149.03661441802979 seconds
+Execution time: 151.8571481704712 seconds
+Execution time: 148.49275636672974 seconds
+Execution time: 149.08582472801208 seconds
+Ganancias 
+1651
+1598
+1645
+1664
+1651
+1642.4000000000003
+1604.4933333333336
+1705
+1640.934
+1640.934
+Cantidad de objetos 
+Combinaciones 
+[1 1 4 1 5 1 7]
+[1 5 3 2 4 1 6]
+[1 6 2 1 4 1 7]
+[1 7 3 1 4 1 6]
+[1 1 4 1 5 1 7]
+[1 3 4 1 5 1 6]
+[1 2 3 2 5 1 7]
+[1 6 3 1 4 1 7]
+[1 4 4 1 4 1 7]
+[1 4 4 1 4 1 7]
+Mejor Soluci�n 
+[1 6 3 1 4 1 7]
+Max Ganancia 
+1705
+================== 
+population size: 500 
+ generations: 1000 
+ mutation %: 0.1 
+ selection %: 0.1 
+Execution time: 147.42497658729553 seconds
+Execution time: 149.0669014453888 seconds
+Execution time: 147.81126022338867 seconds
+Execution time: 148.736750125885 seconds
+Execution time: 147.28554892539978 seconds
+Execution time: 148.52412819862366 seconds
+Execution time: 147.31317281723022 seconds
+Execution time: 149.31153869628906 seconds
+Execution time: 149.79784154891968 seconds
+Execution time: 148.01415300369263 seconds
+Ganancias 
+1701
+1639
+1638.5200000000002
+1664
+1705
+1645
+1659.8800000000003
+1642.4000000000003
+1641
+1664
+Cantidad de objetos 
+Combinaciones 
+[1 2 4 1 5 1 7]
+[1 4 3 2 4 1 7]
+[1 3 3 1 5 1 7]
+[1 7 3 1 4 1 6]
+[1 6 3 1 4 1 7]
+[1 6 2 1 4 2 7]
+[1 7 2 1 4 1 7]
+[1 3 4 1 5 1 6]
+[1 2 3 1 5 1 7]
+[1 7 3 1 4 1 6]
+Mejor Soluci�n 
+[1 6 3 1 4 1 7]
+Max Ganancia 
+1705
+================== 
+
+================== 
+================== 
+================== 
+================== 
+
+================== 
+================== 
+================== 
+population size: 500 
+ generations: 1000 
+ mutation %: 0.1 
+ selection %: 0.2 
+Execution time: 156.01975083351135 seconds
+Execution time: 148.7987983226776 seconds
+Execution time: 146.05299758911133 seconds
+Execution time: 147.5043523311615 seconds
+Execution time: 147.3632128238678 seconds
+Execution time: 147.3997414112091 seconds
+Execution time: 147.28451347351074 seconds
+Execution time: 148.17987847328186 seconds
+Execution time: 146.61891651153564 seconds
+Execution time: 148.64214515686035 seconds
+Ganancias 
+1655
+1610
+1625
+1618.3733333333337
+1597.88
+1642.4000000000003
+1651
+1640.934
+1575.242
+1701
+Cantidad de objetos 
+Combinaciones 
+[1 5 3 1 4 1 7]
+[1 2 4 1 5 1 6]
+[1 1 3 2 5 1 7]
+[1 7 1 1 4 1 7]
+[1 3 2 1 5 1 7]
+[1 3 4 1 5 1 6]
+[1 1 4 1 5 1 7]
+[1 4 4 1 4 1 7]
+[1 6 4 1 4 1 5]
+[1 2 4 1 5 1 7]
+Mejor Soluci�n 
+[1 2 4 1 5 1 7]
+Max Ganancia 
+1701
+================== 
+population size: 500 
+ generations: 1000 
+ mutation %: 0.1 
+ selection %: 0.30000000000000004 
+Execution time: 146.55502033233643 seconds
+Execution time: 148.35075974464417 seconds
+Execution time: 146.4343385696411 seconds
+Execution time: 148.69405794143677 seconds
+Execution time: 146.8862385749817 seconds
+Execution time: 147.65886664390564 seconds
+Execution time: 147.35817980766296 seconds
+Execution time: 147.70684695243835 seconds
+Execution time: 146.99280047416687 seconds
+Execution time: 148.47137546539307 seconds
+Ganancias 
+1664
+1659.8800000000003
+1705
+1642.4000000000003
+1585
+1625.92
+1664
+1604.4933333333336
+1655
+1645
+Cantidad de objetos 
+Combinaciones 
+[1 7 3 1 4 1 6]
+[1 7 2 1 4 1 7]
+[1 6 3 1 4 1 7]
+[1 3 4 1 5 1 6]
+[1 6 1 1 4 1 7]
+[1 6 2 2 4 1 7]
+[1 7 3 1 4 1 6]
+[1 2 3 2 5 1 7]
+[1 5 3 1 4 1 7]
+[1 6 2 1 4 2 7]
+Mejor Soluci�n 
+[1 6 3 1 4 1 7]
+Max Ganancia 
+1705
+================== 
+population size: 500 
+ generations: 1000 
+ mutation %: 0.1 
+ selection %: 0.4 
+Execution time: 147.4791932106018 seconds
+Execution time: 148.34884071350098 seconds
+Execution time: 146.63981413841248 seconds
+Execution time: 148.21069884300232 seconds
+Execution time: 146.98830676078796 seconds
+Execution time: 147.52337551116943 seconds
+Execution time: 146.79284405708313 seconds
+Execution time: 148.55296897888184 seconds
+Execution time: 146.74318432807922 seconds
+Execution time: 148.93161010742188 seconds
+Ganancias 
+1705
+1701
+1705
+1620.448
+1633.624
+1701
+1664
+1642.4000000000003
+1701
+1641.3613333333335
+Cantidad de objetos 
+Combinaciones 
+[1 6 3 1 4 1 7]
+[1 2 4 1 5 1 7]
+[1 6 3 1 4 1 7]
+[1 1 5 1 5 1 7]
+[1 1 4 2 5 1 7]
+[1 2 4 1 5 1 7]
+[1 7 3 1 4 1 6]
+[1 3 4 1 5 1 6]
+[1 2 4 1 5 1 7]
+[1 3 4 1 5 1 7]
+Mejor Soluci�n 
+[1 6 3 1 4 1 7]
+Max Ganancia 
+1705
+================== 
+population size: 500 
+ generations: 1000 
+ mutation %: 0.1 
+ selection %: 0.5 
+Execution time: 146.9447820186615 seconds
+Execution time: 148.80563926696777 seconds
+Execution time: 146.68616247177124 seconds
+Execution time: 148.51622080802917 seconds
+Execution time: 147.01296496391296 seconds
+Execution time: 147.92696905136108 seconds
+Execution time: 147.40144991874695 seconds
+Execution time: 148.21016144752502 seconds
+Execution time: 146.57273530960083 seconds
+Execution time: 148.82958674430847 seconds
+Ganancias 
+1645
+1705
+1629
+1659.8800000000003
+1645
+1600
+1629
+1645
+1626.238
+1645
+Cantidad de objetos 
+Combinaciones 
+[1 6 2 1 4 1 7]
+[1 6 3 1 4 1 7]
+[1 5 2 2 4 1 7]
+[1 7 2 1 4 1 7]
+[1 6 2 1 4 1 7]
+[1 3 3 1 5 1 6]
+[1 5 2 2 4 1 7]
+[1 6 2 1 4 1 7]
+[2 1 4 1 5 1 7]
+[1 6 2 1 4 2 7]
+Mejor Soluci�n 
+[1 6 3 1 4 1 7]
+Max Ganancia 
+1705
+================== 
+population size: 500 
+ generations: 1000 
+ mutation %: 0.1 
+ selection %: 0.6000000000000001 
+Execution time: 147.29247117042542 seconds
+Execution time: 149.564359664917 seconds
+Execution time: 147.05902528762817 seconds
+Execution time: 148.87840628623962 seconds
+Execution time: 147.36495566368103 seconds
+Execution time: 148.76015782356262 seconds
+Execution time: 147.0856111049652 seconds
+Execution time: 148.06236839294434 seconds
+Execution time: 147.39067816734314 seconds
+Execution time: 148.579336643219 seconds
+Ganancias 
+1645
+1641.3613333333335
+1642.4000000000003
+1645
+1642.4000000000003
+1655
+1642.4000000000003
+1642.4000000000003
+1641
+1701
+Cantidad de objetos 
+Combinaciones 
+[1 6 2 1 4 1 7]
+[1 3 4 1 5 1 7]
+[1 3 4 1 5 1 6]
+[1 6 2 1 4 1 7]
+[1 3 4 1 5 1 6]
+[1 5 3 1 4 1 7]
+[1 3 4 1 5 1 6]
+[1 3 4 1 5 1 6]
+[1 2 3 1 5 1 7]
+[1 2 4 1 5 1 7]
+Mejor Soluci�n 
+[1 2 4 1 5 1 7]
+Max Ganancia 
+1701
+================== 
+population size: 500 
+ generations: 1000 
+ mutation %: 0.1 
+ selection %: 0.7000000000000001 
+Execution time: 147.77767038345337 seconds
+Execution time: 148.31944131851196 seconds
+Execution time: 147.74498176574707 seconds
+Execution time: 148.3419690132141 seconds
+Execution time: 148.0966329574585 seconds
+Execution time: 148.79200673103333 seconds
+Execution time: 147.6133394241333 seconds
+Execution time: 148.43711471557617 seconds
+Execution time: 148.3191044330597 seconds
+Execution time: 148.34705066680908 seconds
+Ganancias 
+1651
+1651
+1664
+1664
+1705
+1701
+1614
+1645
+1598
+1640.934
+Cantidad de objetos 
+Combinaciones 
+[1 1 4 1 5 1 7]
+[1 1 4 1 5 1 7]
+[1 7 3 1 4 1 6]
+[1 7 3 1 4 1 6]
+[1 6 3 1 4 1 7]
+[1 2 4 1 5 1 7]
+[1 6 3 1 4 1 6]
+[1 6 2 1 4 2 7]
+[1 5 3 2 4 1 6]
+[1 4 4 1 4 1 7]
+Mejor Soluci�n 
+[1 6 3 1 4 1 7]
+Max Ganancia 
+1705
+================== 
+population size: 500 
+ generations: 1000 
+ mutation %: 0.1 
+ selection %: 0.8 
+Execution time: 147.7494695186615 seconds
+Execution time: 149.10130906105042 seconds
+Execution time: 148.0153362751007 seconds
+Execution time: 148.76651334762573 seconds
+Execution time: 147.82040309906006 seconds
+Execution time: 148.09641933441162 seconds
+Execution time: 148.1955006122589 seconds
+Execution time: 148.5518035888672 seconds
+Execution time: 147.8184199333191 seconds
+Execution time: 148.80678629875183 seconds
+Ganancias 
+1701
+1641
+1645
+1701
+1651
+1645
+1608.22
+1701
+1701
+1620.448
+Cantidad de objetos 
+Combinaciones 
+[1 2 4 1 5 1 7]
+[1 2 3 1 5 1 7]
+[1 6 2 1 4 1 7]
+[1 2 4 1 5 1 7]
+[1 1 4 1 5 1 7]
+[1 6 2 1 4 1 7]
+[1 5 4 1 4 1 6]
+[1 2 4 1 5 1 7]
+[1 2 4 1 5 1 7]
+[1 1 5 1 5 1 7]
+Mejor Soluci�n 
+[1 2 4 1 5 1 7]
+Max Ganancia 
+1701
+================== 
+population size: 500 
+ generations: 1000 
+ mutation %: 0.1 
+ selection %: 0.9 
+Execution time: 147.96805596351624 seconds
+Execution time: 148.77388262748718 seconds
+Execution time: 147.94660115242004 seconds
+Execution time: 148.88275170326233 seconds
+Execution time: 148.04081344604492 seconds
+Execution time: 148.6269829273224 seconds
+Execution time: 147.8670539855957 seconds
+Execution time: 148.7163679599762 seconds
+Execution time: 148.5503511428833 seconds
+Execution time: 148.94682097434998 seconds
+Ganancias 
+1629
+1645
+1705
+1651
+1633.624
+1664
+1645
+1645
+1614.004
+1664
+Cantidad de objetos 
+Combinaciones 
+[1 5 2 2 4 1 7]
+[1 6 2 1 4 1 7]
+[1 6 3 1 4 1 7]
+[1 1 4 1 5 1 7]
+[1 1 4 2 5 1 7]
+[1 7 3 1 4 1 6]
+[1 6 2 1 4 2 7]
+[1 6 2 1 4 2 7]
+[2 5 3 1 4 1 7]
+[1 7 3 1 4 1 6]
+Mejor Soluci�n 
+[1 6 3 1 4 1 7]
+Max Ganancia 
+1705
+================== 
+================== 
+population size: 500 
+ generations: 1000 
+ mutation %: 0.2 
+ selection %: 0.1 
+Execution time: 149.8185098171234 seconds
+Execution time: 150.09393453598022 seconds
+Execution time: 147.11384224891663 seconds
+Execution time: 149.31492519378662 seconds
+Execution time: 147.89188146591187 seconds
+Execution time: 148.3323621749878 seconds
+Execution time: 147.35389471054077 seconds
+Execution time: 148.71951150894165 seconds
+Execution time: 147.30745911598206 seconds
+Execution time: 148.94062066078186 seconds
+Ganancias 
+1664
+1638.5200000000002
+1664
+1642.4000000000003
+1655
+1664
+1642.4000000000003
+1664
+1705
+1610
+Cantidad de objetos 
+Combinaciones 
+[1 7 3 1 4 1 6]
+[1 3 3 1 5 1 7]
+[1 7 3 1 4 1 6]
+[1 3 4 1 5 1 6]
+[1 5 3 1 4 1 7]
+[1 7 3 1 4 1 6]
+[1 3 4 1 5 1 6]
+[1 7 3 1 4 1 6]
+[1 6 3 1 4 1 7]
+[1 2 4 1 5 1 6]
+Mejor Soluci�n 
+[1 6 3 1 4 1 7]
+Max Ganancia 
+1705
+================== 
+population size: 500 
+ generations: 1000 
+ mutation %: 0.2 
+ selection %: 0.2 
+Execution time: 148.0604908466339 seconds
+Execution time: 149.21046781539917 seconds
+Execution time: 149.15868139266968 seconds
+Execution time: 149.790123462677 seconds
+Execution time: 149.89622139930725 seconds
+Execution time: 149.61605525016785 seconds
+Execution time: 148.99005126953125 seconds
+Execution time: 149.0193588733673 seconds
+Execution time: 148.11597394943237 seconds
+Execution time: 150.42094373703003 seconds
+Ganancias 
+1641
+1651
+1639
+1705
+1645
+1705
+1641
+1701
+1639
+1655
+Cantidad de objetos 
+Combinaciones 
+[1 2 3 1 5 1 7]
+[1 1 4 1 5 1 7]
+[1 4 3 2 4 1 7]
+[1 6 3 1 4 1 7]
+[1 6 2 1 4 2 7]
+[1 6 3 1 4 1 7]
+[1 2 3 1 5 2 7]
+[1 2 4 1 5 1 7]
+[1 4 3 2 4 1 7]
+[1 5 3 1 4 1 7]
+Mejor Soluci�n 
+[1 6 3 1 4 1 7]
+Max Ganancia 
+1705
+================== 
+population size: 500 
+ generations: 1000 
+ mutation %: 0.2 
+ selection %: 0.30000000000000004 
+Execution time: 148.43575406074524 seconds
+Execution time: 149.95831084251404 seconds
+Execution time: 147.56634640693665 seconds
+Execution time: 149.884432554245 seconds
+Execution time: 147.74373531341553 seconds
+Execution time: 149.0054895877838 seconds
+Execution time: 147.38147258758545 seconds
+Execution time: 148.57566928863525 seconds
+Execution time: 147.72994184494019 seconds
+Execution time: 148.2990550994873 seconds
+Ganancias 
+1614
+1645
+1645
+1705
+1629
+1639
+1705
+1655
+1655
+1664
+Cantidad de objetos 
+Combinaciones 
+[1 6 3 1 4 1 6]
+[1 6 2 1 4 1 7]
+[1 6 2 1 4 2 7]
+[1 6 3 1 4 1 7]
+[1 5 2 2 4 1 7]
+[1 4 3 2 4 1 7]
+[1 6 3 1 4 1 7]
+[1 5 3 1 4 1 7]
+[1 5 3 1 4 1 7]
+[1 7 3 1 4 1 6]
+Mejor Soluci�n 
+[1 6 3 1 4 1 7]
+Max Ganancia 
+1705
+================== 
+population size: 500 
+ generations: 1000 
+ mutation %: 0.2 
+ selection %: 0.4 
+Execution time: 147.96956133842468 seconds
+Execution time: 149.94469356536865 seconds
+Execution time: 148.13075709342957 seconds
+Execution time: 150.0253541469574 seconds
+Execution time: 148.15318250656128 seconds
+Execution time: 149.85591101646423 seconds
+Execution time: 147.89583444595337 seconds
+Execution time: 149.90515232086182 seconds
+Execution time: 147.5257179737091 seconds
+Execution time: 150.27673435211182 seconds
+Ganancias 
+1664
+1641
+1655
+1651
+1664
+1651
+1705
+1701
+1701
+1659.8800000000003
+Cantidad de objetos 
+Combinaciones 
+[1 7 3 1 4 1 6]
+[1 2 3 1 5 2 7]
+[1 5 3 1 4 1 7]
+[1 1 4 1 5 1 7]
+[1 7 3 1 4 1 6]
+[1 1 4 1 5 1 7]
+[1 6 3 1 4 1 7]
+[1 2 4 1 5 1 7]
+[1 2 4 1 5 1 7]
+[1 7 2 1 4 1 7]
+Mejor Soluci�n 
+[1 6 3 1 4 1 7]
+Max Ganancia 
+1705
+================== 
+population size: 500 
+ generations: 1000 
+ mutation %: 0.2 
+ selection %: 0.5 
+Execution time: 148.45418763160706 seconds
+Execution time: 149.50148582458496 seconds
+Execution time: 148.3052623271942 seconds
+Execution time: 150.44068121910095 seconds
+Execution time: 148.65668106079102 seconds
+Execution time: 150.0089771747589 seconds
+Execution time: 147.9171266555786 seconds
+Execution time: 150.88500237464905 seconds
+Execution time: 148.0364544391632 seconds
+Execution time: 150.12601113319397 seconds
+Ganancias 
+1641.3613333333335
+1701
+1642.4000000000003
+1705
+1655
+1701
+1651
+1664
+1701
+1655
+Cantidad de objetos 
+Combinaciones 
+[1 3 4 1 5 1 7]
+[1 2 4 1 5 1 7]
+[1 3 4 1 5 1 6]
+[1 6 3 1 4 1 7]
+[1 5 3 1 4 1 7]
+[1 2 4 1 5 1 7]
+[1 1 4 1 5 1 7]
+[1 7 3 1 4 1 6]
+[1 2 4 1 5 1 7]
+[1 5 3 1 4 1 7]
+Mejor Soluci�n 
+[1 6 3 1 4 1 7]
+Max Ganancia 
+1705
+================== 
+population size: 500 
+ generations: 1000 
+ mutation %: 0.2 
+ selection %: 0.6000000000000001 
+Execution time: 148.28505444526672 seconds
+Execution time: 150.94584774971008 seconds
+Execution time: 148.18025851249695 seconds
+Execution time: 150.2363920211792 seconds
+Execution time: 148.46083521842957 seconds
+Execution time: 149.88162326812744 seconds
+Execution time: 148.16730070114136 seconds
+Execution time: 149.19178986549377 seconds
+Execution time: 148.40609192848206 seconds
+Execution time: 150.84192657470703 seconds
+Ganancias 
+1642.4000000000003
+1701
+1701
+1651
+1705
+1664
+1641
+1641
+1620.448
+1701
+Cantidad de objetos 
+Combinaciones 
+[1 3 4 1 5 1 6]
+[1 2 4 1 5 1 7]
+[1 2 4 1 5 1 7]
+[1 1 4 1 5 1 7]
+[1 6 3 1 4 1 7]
+[1 7 3 1 4 1 6]
+[1 2 3 1 5 2 7]
+[1 2 3 1 5 2 7]
+[1 1 5 1 5 1 7]
+[1 2 4 1 5 1 7]
+Mejor Soluci�n 
+[1 6 3 1 4 1 7]
+Max Ganancia 
+1705
+================== 
+population size: 500 
+ generations: 1000 
+ mutation %: 0.2 
+ selection %: 0.7000000000000001 
+Execution time: 148.52187418937683 seconds
+Execution time: 151.05980801582336 seconds
+Execution time: 148.6085307598114 seconds
+Execution time: 150.79800057411194 seconds
+Execution time: 148.62097191810608 seconds
+Execution time: 150.69283413887024 seconds
+Execution time: 148.78584027290344 seconds
+Execution time: 151.2644875049591 seconds
+Execution time: 148.09679770469666 seconds
+Execution time: 150.01527881622314 seconds
+Ganancias 
+1705
+1701
+1664
+1701
+1705
+1642.4000000000003
+1705
+1705
+1701
+1651
+Cantidad de objetos 
+Combinaciones 
+[1 6 3 1 4 1 7]
+[1 2 4 1 5 1 7]
+[1 7 3 1 4 1 6]
+[1 2 4 1 5 1 7]
+[1 6 3 1 4 1 7]
+[1 3 4 1 5 1 6]
+[1 6 3 1 4 1 7]
+[1 6 3 1 4 1 7]
+[1 2 4 1 5 1 7]
+[1 1 4 1 5 1 7]
+Mejor Soluci�n 
+[1 6 3 1 4 1 7]
+Max Ganancia 
+1705
+================== 
+population size: 500 
+ generations: 1000 
+ mutation %: 0.2 
+ selection %: 0.8 
+Execution time: 149.04581570625305 seconds
+Execution time: 149.42393493652344 seconds
+Execution time: 148.5768256187439 seconds
+Execution time: 149.64481496810913 seconds
+Execution time: 148.65247201919556 seconds
+Execution time: 149.8115758895874 seconds
+Execution time: 148.76374673843384 seconds
+Execution time: 149.19399738311768 seconds
+Execution time: 149.23172068595886 seconds
+Execution time: 149.7531967163086 seconds
+Ganancias 
+1664
+1705
+1655
+1705
+1705
+1701
+1639
+1664
+1655
+1664
+Cantidad de objetos 
+Combinaciones 
+[1 7 3 1 4 1 6]
+[1 6 3 1 4 1 7]
+[1 5 3 1 4 1 7]
+[1 6 3 1 4 1 7]
+[1 6 3 1 4 1 7]
+[1 2 4 1 5 1 7]
+[1 4 3 2 4 1 7]
+[1 7 3 1 4 1 6]
+[1 5 3 1 4 1 7]
+[1 7 3 1 4 1 6]
+Mejor Soluci�n 
+[1 6 3 1 4 1 7]
+Max Ganancia 
+1705
+================== 
+population size: 500 
+ generations: 1000 
+ mutation %: 0.2 
+ selection %: 0.9 
+Execution time: 148.8458230495453 seconds
+Execution time: 152.41749143600464 seconds
+Execution time: 149.0278251171112 seconds
+Execution time: 150.97083020210266 seconds
+Execution time: 149.26655459403992 seconds
+Execution time: 152.11591458320618 seconds
+Execution time: 148.72215056419373 seconds
+Execution time: 151.53104186058044 seconds
+Execution time: 149.06275820732117 seconds
+Execution time: 151.0410623550415 seconds
+Ganancias 
+1701
+1645
+1701
+1705
+1705
+1642.4000000000003
+1705
+1664
+1664
+1641
+Cantidad de objetos 
+Combinaciones 
+[1 2 4 1 5 1 7]
+[1 6 2 1 4 2 7]
+[1 2 4 1 5 1 7]
+[1 6 3 1 4 1 7]
+[1 6 3 1 4 1 7]
+[1 3 4 1 5 1 6]
+[1 6 3 1 4 1 7]
+[1 7 3 1 4 1 6]
+[1 7 3 1 4 1 6]
+[1 2 3 1 5 2 7]
+Mejor Soluci�n 
+[1 6 3 1 4 1 7]
+Max Ganancia 
+1705
+================== 
+population size: 500 
+ generations: 1000 
+ mutation %: 0.30000000000000004 
+ selection %: 0.1 
+Execution time: 148.3910300731659 seconds
+Execution time: 147.74666166305542 seconds
+Execution time: 148.24536728858948 seconds
+Execution time: 148.2386565208435 seconds
+Execution time: 148.44718408584595 seconds
+Execution time: 147.36024117469788 seconds
+Execution time: 148.3525881767273 seconds
+Execution time: 148.74911832809448 seconds
+Execution time: 147.99853587150574 seconds
+Execution time: 149.068039894104 seconds
+Ganancias 
+1659.8800000000003
+1655
+1705
+1629
+1705
+1705
+1705
+1701
+1664
+1705
+Cantidad de objetos 
+Combinaciones 
+[1 7 2 1 4 1 7]
+[1 5 3 1 4 1 7]
+[1 6 3 1 4 1 7]
+[1 5 2 2 4 1 7]
+[1 6 3 1 4 1 7]
+[1 6 3 1 4 1 7]
+[1 6 3 1 4 1 7]
+[1 2 4 1 5 1 7]
+[1 7 3 1 4 1 6]
+[1 6 3 1 4 1 7]
+Mejor Soluci�n 
+[1 6 3 1 4 1 7]
+Max Ganancia 
+1705
+================== 
+population size: 500 
+ generations: 1000 
+ mutation %: 0.30000000000000004 
+ selection %: 0.2 
+Execution time: 148.77517771720886 seconds
+Execution time: 149.08544301986694 seconds
+Execution time: 148.83910989761353 seconds
+Execution time: 149.79754304885864 seconds
+Execution time: 148.4676649570465 seconds
+Execution time: 148.59683513641357 seconds
+Execution time: 148.3181869983673 seconds
+Execution time: 148.46543669700623 seconds
+Execution time: 148.6918888092041 seconds
+Execution time: 149.50597310066223 seconds
+Ganancias 
+1642.4000000000003
+1651
+1701
+1642.4000000000003
+1641
+1705
+1701
+1659.8800000000003
+1701
+1705
+Cantidad de objetos 
+Combinaciones 
+[1 3 4 1 5 1 6]
+[1 1 4 1 5 1 7]
+[1 2 4 1 5 1 7]
+[1 3 4 1 5 1 6]
+[1 2 3 1 5 2 7]
+[1 6 3 1 4 1 7]
+[1 2 4 1 5 1 7]
+[1 7 2 1 4 1 7]
+[1 2 4 1 5 1 7]
+[1 6 3 1 4 1 7]
+Mejor Soluci�n 
+[1 6 3 1 4 1 7]
+Max Ganancia 
+1705
+================== 
+population size: 500 
+ generations: 1000 
+ mutation %: 0.30000000000000004 
+ selection %: 0.30000000000000004 
+Execution time: 148.39321565628052 seconds
+Execution time: 148.69058752059937 seconds
+Execution time: 148.71259331703186 seconds
+Execution time: 148.67485785484314 seconds
+Execution time: 148.79601311683655 seconds
+Execution time: 148.4621937274933 seconds
+Execution time: 148.91333103179932 seconds
+Execution time: 149.15409064292908 seconds
+Execution time: 148.4047667980194 seconds
+Execution time: 148.70732355117798 seconds
+Ganancias 
+1705
+1701
+1640.934
+1655
+1659.8800000000003
+1701
+1701
+1705
+1701
+1641
+Cantidad de objetos 
+Combinaciones 
+[1 6 3 1 4 1 7]
+[1 2 4 1 5 1 7]
+[1 4 4 1 4 1 7]
+[1 5 3 1 4 1 7]
+[1 7 2 1 4 1 7]
+[1 2 4 1 5 1 7]
+[1 2 4 1 5 1 7]
+[1 6 3 1 4 1 7]
+[1 2 4 1 5 1 7]
+[1 2 3 1 5 2 7]
+Mejor Soluci�n 
+[1 6 3 1 4 1 7]
+Max Ganancia 
+1705
+================== 
+population size: 500 
+ generations: 1000 
+ mutation %: 0.30000000000000004 
+ selection %: 0.4 
+Execution time: 149.12356662750244 seconds
+Execution time: 149.84287428855896 seconds
+Execution time: 149.15595531463623 seconds
+Execution time: 149.1142954826355 seconds
+Execution time: 148.9440176486969 seconds
+Execution time: 149.15446996688843 seconds
+Execution time: 149.29371452331543 seconds
+Execution time: 149.0916187763214 seconds
+Execution time: 149.00276517868042 seconds
+Execution time: 148.90376353263855 seconds
+Ganancias 
+1705
+1664
+1664
+1659.8800000000003
+1664
+1645
+1651
+1655
+1701
+1701
+Cantidad de objetos 
+Combinaciones 
+[1 6 3 1 4 1 7]
+[1 7 3 1 4 1 6]
+[1 7 3 1 4 1 6]
+[1 7 2 1 4 1 7]
+[1 7 3 1 4 1 6]
+[1 6 2 1 4 2 7]
+[1 1 4 1 5 1 7]
+[1 5 3 1 4 1 7]
+[1 2 4 1 5 1 7]
+[1 2 4 1 5 1 7]
+Mejor Soluci�n 
+[1 6 3 1 4 1 7]
+Max Ganancia 
+1705
+================== 
+population size: 500 
+ generations: 1000 
+ mutation %: 0.30000000000000004 
+ selection %: 0.5 
+Execution time: 148.80030846595764 seconds
+Execution time: 149.5487163066864 seconds
+Execution time: 149.06101608276367 seconds
+Execution time: 149.80128383636475 seconds
+Execution time: 149.58816647529602 seconds
+Execution time: 149.7787094116211 seconds
+Execution time: 150.20299744606018 seconds
+Execution time: 149.12992978096008 seconds
+Execution time: 149.60792660713196 seconds
+Execution time: 149.04273009300232 seconds
+Ganancias 
+1705
+1705
+1655
+1659.8800000000003
+1664
+1701
+1701
+1705
+1651
+1705
+Cantidad de objetos 
+Combinaciones 
+[1 6 3 1 4 1 7]
+[1 6 3 1 4 1 7]
+[1 5 3 1 4 1 7]
+[1 7 2 1 4 1 7]
+[1 7 3 1 4 1 6]
+[1 2 4 1 5 1 7]
+[1 2 4 1 5 1 7]
+[1 6 3 1 4 1 7]
+[1 1 4 1 5 1 7]
+[1 6 3 1 4 1 7]
+Mejor Soluci�n 
+[1 6 3 1 4 1 7]
+Max Ganancia 
+1705
+================== 
+population size: 500 
+ generations: 1000 
+ mutation %: 0.30000000000000004 
+ selection %: 0.6000000000000001 
+Execution time: 149.6900987625122 seconds
+Execution time: 150.39863204956055 seconds
+Execution time: 149.96577548980713 seconds
+Execution time: 149.0739529132843 seconds
+Execution time: 150.0402410030365 seconds
+Execution time: 149.40958285331726 seconds
+Execution time: 149.65846371650696 seconds
+Execution time: 149.4466097354889 seconds
+Execution time: 149.9459512233734 seconds
+Execution time: 172.60156846046448 seconds
+Ganancias 
+1651
+1645
+1642.4000000000003
+1625.92
+1655
+1645
+1705
+1664
+1705
+1701
+Cantidad de objetos 
+Combinaciones 
+[1 1 4 1 5 1 7]
+[1 6 2 1 4 1 7]
+[1 3 4 1 5 1 6]
+[1 6 2 2 4 1 7]
+[1 5 3 1 4 1 7]
+[1 6 2 1 4 2 7]
+[1 6 3 1 4 1 7]
+[1 7 3 1 4 1 6]
+[1 6 3 1 4 1 7]
+[1 2 4 1 5 1 7]
+Mejor Soluci�n 
+[1 6 3 1 4 1 7]
+Max Ganancia 
+1705
+================== 
+population size: 500 
+ generations: 1000 
+ mutation %: 0.30000000000000004 
+ selection %: 0.7000000000000001 
+Execution time: 158.45250129699707 seconds
+Execution time: 164.46220541000366 seconds
+Execution time: 160.07570838928223 seconds
+Execution time: 158.74140524864197 seconds
+Execution time: 158.19415807724 seconds
+Execution time: 160.21415662765503 seconds
+Execution time: 157.4727077484131 seconds
+Execution time: 159.20472884178162 seconds
+Execution time: 161.52840209007263 seconds
+Execution time: 159.16169238090515 seconds
+Ganancias 
+1705
+1705
+1705
+1664
+1705
+1705
+1705
+1705
+1664
+1705
+Cantidad de objetos 
+Combinaciones 
+[1 6 3 1 4 1 7]
+[1 6 3 1 4 1 7]
+[1 6 3 1 4 1 7]
+[1 7 3 1 4 1 6]
+[1 6 3 1 4 1 7]
+[1 6 3 1 4 1 7]
+[1 6 3 1 4 1 7]
+[1 6 3 1 4 1 7]
+[1 7 3 1 4 1 6]
+[1 6 3 1 4 1 7]
+Mejor Soluci�n 
+[1 6 3 1 4 1 7]
+Max Ganancia 
+1705
+================== 
+population size: 500 
+ generations: 1000 
+ mutation %: 0.30000000000000004 
+ selection %: 0.8 
+Execution time: 158.93216061592102 seconds
+Execution time: 161.20760941505432 seconds
+Execution time: 161.5070743560791 seconds
+Execution time: 164.21673965454102 seconds
+Execution time: 158.77366042137146 seconds
+Execution time: 162.71535181999207 seconds
+Execution time: 157.7359640598297 seconds
+Execution time: 158.4617404937744 seconds
+Execution time: 156.95503425598145 seconds
+Execution time: 161.8914918899536 seconds
+Ganancias 
+1645
+1655
+1705
+1705
+1701
+1664
+1705
+1645
+1701
+1701
+Cantidad de objetos 
+Combinaciones 
+[1 6 2 1 4 2 7]
+[1 5 3 1 4 1 7]
+[1 6 3 1 4 1 7]
+[1 6 3 1 4 1 7]
+[1 2 4 1 5 1 7]
+[1 7 3 1 4 1 6]
+[1 6 3 1 4 1 7]
+[1 6 2 1 4 1 7]
+[1 2 4 1 5 1 7]
+[1 2 4 1 5 1 7]
+Mejor Soluci�n 
+[1 6 3 1 4 1 7]
+Max Ganancia 
+1705
+================== 
+population size: 500 
+ generations: 1000 
+ mutation %: 0.30000000000000004 
+ selection %: 0.9 
+Execution time: 157.28988337516785 seconds
+Execution time: 158.79494309425354 seconds
+Execution time: 157.80173063278198 seconds
+Execution time: 161.85200023651123 seconds
+Execution time: 160.5202395915985 seconds
+Execution time: 159.61050605773926 seconds
+Execution time: 158.6691813468933 seconds
+Execution time: 159.81340074539185 seconds
+Execution time: 160.01724195480347 seconds
+Execution time: 160.33424019813538 seconds
+Ganancias 
+1705
+1701
+1633.624
+1640.934
+1701
+1645
+1664
+1705
+1651
+1705
+Cantidad de objetos 
+Combinaciones 
+[1 6 3 1 4 1 7]
+[1 2 4 1 5 1 7]
+[1 1 4 2 5 1 7]
+[1 4 4 1 4 1 7]
+[1 2 4 1 5 1 7]
+[1 6 2 1 4 2 7]
+[1 7 3 1 4 1 6]
+[1 6 3 1 4 1 7]
+[1 1 4 1 5 1 7]
+[1 6 3 1 4 1 7]
+Mejor Soluci�n 
+[1 6 3 1 4 1 7]
+Max Ganancia 
+1705
+================== 
+population size: 500 
+ generations: 1000 
+ mutation %: 0.4 
+ selection %: 0.1 
+Execution time: 157.0775225162506 seconds
+Execution time: 159.96855998039246 seconds
+Execution time: 156.51317811012268 seconds
+Execution time: 161.42594695091248 seconds
+Execution time: 161.71362495422363 seconds
+Execution time: 156.93739342689514 seconds
+Execution time: 155.77875924110413 seconds
+Execution time: 155.9962239265442 seconds
+Execution time: 156.1381437778473 seconds
+Execution time: 156.71940875053406 seconds
+Ganancias 
+1705
+1655
+1664
+1642.4000000000003
+1701
+1646.8140000000003
+1629
+1659.8800000000003
+1705
+1625.92
+Cantidad de objetos 
+Combinaciones 
+[1 6 3 1 4 1 7]
+[1 5 3 1 4 1 7]
+[1 7 3 1 4 1 6]
+[1 3 4 1 5 1 6]
+[1 2 4 1 5 1 7]
+[1 7 3 1 4 1 7]
+[1 5 2 2 4 1 7]
+[1 7 2 1 4 1 7]
+[1 6 3 1 4 1 7]
+[1 6 2 2 4 1 7]
+Mejor Soluci�n 
+[1 6 3 1 4 1 7]
+Max Ganancia 
+1705
+================== 
+population size: 500 
+ generations: 1000 
+ mutation %: 0.4 
+ selection %: 0.2 
+Execution time: 155.79528665542603 seconds
+Execution time: 158.95222210884094 seconds
+Execution time: 157.92262029647827 seconds
+Execution time: 157.20410227775574 seconds
+Execution time: 156.6100788116455 seconds
+Execution time: 156.3166389465332 seconds
+Execution time: 158.2307894229889 seconds
+Execution time: 155.22701930999756 seconds
+Execution time: 156.73097968101501 seconds
+Execution time: 160.70935225486755 seconds
+Ganancias 
+1651
+1701
+1664
+1655
+1651
+1629
+1651
+1642.4000000000003
+1664
+1641.3613333333335
+Cantidad de objetos 
+Combinaciones 
+[1 1 4 1 5 1 7]
+[1 2 4 1 5 1 7]
+[1 7 3 1 4 1 6]
+[1 5 3 1 4 1 7]
+[1 1 4 1 5 1 7]
+[1 5 2 2 4 1 7]
+[1 1 4 1 5 1 7]
+[1 3 4 1 5 1 6]
+[1 7 3 1 4 1 6]
+[1 3 4 1 5 1 7]
+Mejor Soluci�n 
+[1 2 4 1 5 1 7]
+Max Ganancia 
+1701
+================== 
+population size: 500 
+ generations: 1000 
+ mutation %: 0.4 
+ selection %: 0.30000000000000004 
+Execution time: 157.2661316394806 seconds
+Execution time: 161.40131950378418 seconds
+Execution time: 163.94547414779663 seconds
+Execution time: 158.6742970943451 seconds
+Execution time: 156.53695249557495 seconds
+Execution time: 157.19445061683655 seconds
+Execution time: 173.06567764282227 seconds
+Execution time: 172.4026381969452 seconds
+Execution time: 170.08575296401978 seconds
+Execution time: 174.52194046974182 seconds
+Ganancias 
+1664
+1701
+1655
+1664
+1705
+1659.8800000000003
+1701
+1646.8140000000003
+1659.8800000000003
+1705
+Cantidad de objetos 
+Combinaciones 
+[1 7 3 1 4 1 6]
+[1 2 4 1 5 1 7]
+[1 5 3 1 4 1 7]
+[1 7 3 1 4 1 6]
+[1 6 3 1 4 1 7]
+[1 7 2 1 4 1 7]
+[1 2 4 1 5 1 7]
+[1 7 3 1 4 1 7]
+[1 7 2 1 4 1 7]
+[1 6 3 1 4 1 7]
+Mejor Soluci�n 
+[1 6 3 1 4 1 7]
+Max Ganancia 
+1705
+================== 
+population size: 500 
+ generations: 1000 
+ mutation %: 0.4 
+ selection %: 0.4 
+Execution time: 165.65008783340454 seconds
+Execution time: 166.9071822166443 seconds
+Execution time: 154.8590850830078 seconds
+Execution time: 156.95955634117126 seconds
+Execution time: 155.33451652526855 seconds
+Execution time: 149.43368005752563 seconds
+Execution time: 149.53036880493164 seconds
+Execution time: 150.46114230155945 seconds
+Execution time: 149.58207750320435 seconds
+Execution time: 150.10208868980408 seconds
+Ganancias 
+1701
+1701
+1701
+1705
+1646.8140000000003
+1705
+1705
+1705
+1705
+1642.4000000000003
+Cantidad de objetos 
+Combinaciones 
+[1 2 4 1 5 1 7]
+[1 2 4 1 5 1 7]
+[1 2 4 1 5 1 7]
+[1 6 3 1 4 1 7]
+[1 7 3 1 4 1 7]
+[1 6 3 1 4 1 7]
+[1 6 3 1 4 1 7]
+[1 6 3 1 4 1 7]
+[1 6 3 1 4 1 7]
+[1 3 4 1 5 1 6]
+Mejor Soluci�n 
+[1 6 3 1 4 1 7]
+Max Ganancia 
+1705
+================== 
+population size: 500 
+ generations: 1000 
+ mutation %: 0.4 
+ selection %: 0.5 
+Execution time: 149.87586379051208 seconds
+Execution time: 149.9956135749817 seconds
+Execution time: 149.7205798625946 seconds
+Execution time: 150.00246024131775 seconds
+Execution time: 149.65280842781067 seconds
+Execution time: 150.00897002220154 seconds
+Execution time: 150.06228828430176 seconds
+Execution time: 149.90789580345154 seconds
+Execution time: 150.18037748336792 seconds
+Execution time: 151.3174798488617 seconds
+Ganancias 
+1651
+1705
+1701
+1701
+1701
+1659.8800000000003
+1664
+1701
+1664
+1705
+Cantidad de objetos 
+Combinaciones 
+[1 1 4 1 5 1 7]
+[1 6 3 1 4 1 7]
+[1 2 4 1 5 1 7]
+[1 2 4 1 5 1 7]
+[1 2 4 1 5 1 7]
+[1 7 2 1 4 1 7]
+[1 7 3 1 4 1 6]
+[1 2 4 1 5 1 7]
+[1 7 3 1 4 1 6]
+[1 6 3 1 4 1 7]
+Mejor Soluci�n 
+[1 6 3 1 4 1 7]
+Max Ganancia 
+1705
+================== 
+population size: 500 
+ generations: 1000 
+ mutation %: 0.4 
+ selection %: 0.6000000000000001 
+Execution time: 149.60753464698792 seconds
+Execution time: 151.30349493026733 seconds
+Execution time: 150.66726565361023 seconds
+Execution time: 154.21142673492432 seconds
+Execution time: 149.70514392852783 seconds
+Execution time: 150.19259810447693 seconds
+Execution time: 150.0526168346405 seconds
+Execution time: 149.96529746055603 seconds
+Execution time: 150.24635481834412 seconds
+Execution time: 150.73287105560303 seconds
+Ganancias 
+1705
+1701
+1705
+1664
+1651
+1705
+1705
+1641
+1664
+1705
+Cantidad de objetos 
+Combinaciones 
+[1 6 3 1 4 1 7]
+[1 2 4 1 5 1 7]
+[1 6 3 1 4 1 7]
+[1 7 3 1 4 1 6]
+[1 1 4 1 5 1 7]
+[1 6 3 1 4 1 7]
+[1 6 3 1 4 1 7]
+[1 2 3 1 5 1 7]
+[1 7 3 1 4 1 6]
+[1 6 3 1 4 1 7]
+Mejor Soluci�n 
+[1 6 3 1 4 1 7]
+Max Ganancia 
+1705
+================== 
+population size: 500 
+ generations: 1000 
+ mutation %: 0.4 
+ selection %: 0.7000000000000001 
+Execution time: 150.2212953567505 seconds
+Execution time: 152.63654685020447 seconds
+Execution time: 150.7269024848938 seconds
+Execution time: 150.73332333564758 seconds
+Execution time: 150.34807682037354 seconds
+Execution time: 150.6492838859558 seconds
+Execution time: 150.91787362098694 seconds
+Execution time: 150.8068494796753 seconds
+Execution time: 150.57114338874817 seconds
+Execution time: 152.22833585739136 seconds
+Ganancias 
+1655
+1664
+1705
+1701
+1701
+1641
+1701
+1701
+1664
+1705
+Cantidad de objetos 
+Combinaciones 
+[1 5 3 1 4 1 7]
+[1 7 3 1 4 1 6]
+[1 6 3 1 4 1 7]
+[1 2 4 1 5 1 7]
+[1 2 4 1 5 1 7]
+[1 2 3 1 5 2 7]
+[1 2 4 1 5 1 7]
+[1 2 4 1 5 1 7]
+[1 7 3 1 4 1 6]
+[1 6 3 1 4 1 7]
+Mejor Soluci�n 
+[1 6 3 1 4 1 7]
+Max Ganancia 
+1705
+================== 
+population size: 500 
+ generations: 1000 
+ mutation %: 0.4 
+ selection %: 0.8 
+Execution time: 150.80283093452454 seconds
+Execution time: 149.10450530052185 seconds
+Execution time: 150.52146100997925 seconds
+Execution time: 151.77447366714478 seconds
+Execution time: 150.37861895561218 seconds
+Execution time: 150.67239809036255 seconds
+Execution time: 151.2688353061676 seconds
+Execution time: 150.43036723136902 seconds
+Execution time: 150.78876090049744 seconds
+Execution time: 150.76877903938293 seconds
+Ganancias 
+1655
+1701
+1705
+1701
+1701
+1645
+1705
+1638.5200000000002
+1705
+1701
+Cantidad de objetos 
+Combinaciones 
+[1 5 3 1 4 1 7]
+[1 2 4 1 5 1 7]
+[1 6 3 1 4 1 7]
+[1 2 4 1 5 1 7]
+[1 2 4 1 5 1 7]
+[1 6 2 1 4 2 7]
+[1 6 3 1 4 1 7]
+[1 3 3 1 5 1 7]
+[1 6 3 1 4 1 7]
+[1 2 4 1 5 1 7]
+Mejor Soluci�n 
+[1 6 3 1 4 1 7]
+Max Ganancia 
+1705
+================== 
+population size: 500 
+ generations: 1000 
+ mutation %: 0.4 
+ selection %: 0.9 
+Execution time: 150.6181447505951 seconds
+Execution time: 152.0285665988922 seconds
+Execution time: 150.31718730926514 seconds
+Execution time: 152.0875027179718 seconds
+Execution time: 151.01395201683044 seconds
+Execution time: 151.20413208007812 seconds
+Execution time: 151.1492784023285 seconds
+Execution time: 151.27051401138306 seconds
+Execution time: 151.20136857032776 seconds
+Execution time: 151.45318126678467 seconds
+Ganancias 
+1705
+1664
+1705
+1701
+1701
+1705
+1705
+1701
+1705
+1664
+Cantidad de objetos 
+Combinaciones 
+[1 6 3 1 4 1 7]
+[1 7 3 1 4 1 6]
+[1 6 3 1 4 1 7]
+[1 2 4 1 5 1 7]
+[1 2 4 1 5 1 7]
+[1 6 3 1 4 1 7]
+[1 6 3 1 4 1 7]
+[1 2 4 1 5 1 7]
+[1 6 3 1 4 1 7]
+[1 7 3 1 4 1 6]
+Mejor Soluci�n 
+[1 6 3 1 4 1 7]
+Max Ganancia 
+1705
+================== 
+population size: 500 
+ generations: 1000 
+ mutation %: 0.5 
+ selection %: 0.1 
+Execution time: 148.96927642822266 seconds
+Execution time: 148.93347811698914 seconds
+Execution time: 148.3953151702881 seconds
+Execution time: 148.88382697105408 seconds
+Execution time: 148.86767196655273 seconds
+Execution time: 148.62344598770142 seconds
+Execution time: 148.80896472930908 seconds
+Execution time: 148.7896819114685 seconds
+Execution time: 149.05153846740723 seconds
+Execution time: 150.11653637886047 seconds
+Ganancias 
+1641
+1705
+1664
+1705
+1705
+1646.8140000000003
+1701
+1701
+1651
+1705
+Cantidad de objetos 
+Combinaciones 
+[1 2 3 1 5 2 7]
+[1 6 3 1 4 1 7]
+[1 7 3 1 4 1 6]
+[1 6 3 1 4 1 7]
+[1 6 3 1 4 1 7]
+[1 7 3 1 4 1 7]
+[1 2 4 1 5 1 7]
+[1 2 4 1 5 1 7]
+[1 1 4 1 5 1 7]
+[1 6 3 1 4 1 7]
+Mejor Soluci�n 
+[1 6 3 1 4 1 7]
+Max Ganancia 
+1705
+================== 
+population size: 500 
+ generations: 1000 
+ mutation %: 0.5 
+ selection %: 0.2 
+Execution time: 148.96722149848938 seconds
+Execution time: 150.1468207836151 seconds
+Execution time: 149.29909420013428 seconds
+Execution time: 150.2840166091919 seconds
+Execution time: 148.69554114341736 seconds
+Execution time: 149.3044593334198 seconds
+Execution time: 149.77086186408997 seconds
+Execution time: 148.91692280769348 seconds
+Execution time: 149.91825914382935 seconds
+Execution time: 150.0138840675354 seconds
+Ganancias 
+1705
+1655
+1701
+1705
+1664
+1646.8140000000003
+1664
+1659.8800000000003
+1701
+1701
+Cantidad de objetos 
+Combinaciones 
+[1 6 3 1 4 1 7]
+[1 5 3 1 4 1 7]
+[1 2 4 1 5 1 7]
+[1 6 3 1 4 1 7]
+[1 7 3 1 4 1 6]
+[1 7 3 1 4 1 7]
+[1 7 3 1 4 1 6]
+[1 7 2 1 4 1 7]
+[1 2 4 1 5 1 7]
+[1 2 4 1 5 1 7]
+Mejor Soluci�n 
+[1 6 3 1 4 1 7]
+Max Ganancia 
+1705
+================== 
+population size: 500 
+ generations: 1000 
+ mutation %: 0.5 
+ selection %: 0.30000000000000004 
+Execution time: 150.08416223526 seconds
+Execution time: 149.39527368545532 seconds
+Execution time: 149.5793273448944 seconds
+Execution time: 149.41440510749817 seconds
+Execution time: 149.85325145721436 seconds
+Execution time: 149.76625657081604 seconds
+Execution time: 149.36862897872925 seconds
+Execution time: 149.774484872818 seconds
+Execution time: 149.37171959877014 seconds
+Execution time: 150.2566306591034 seconds
+Ganancias 
+1701
+1701
+1701
+1651
+1651
+1701
+1701
+1659.8800000000003
+1664
+1664
+Cantidad de objetos 
+Combinaciones 
+[1 2 4 1 5 1 7]
+[1 2 4 1 5 1 7]
+[1 2 4 1 5 1 7]
+[1 1 4 1 5 1 7]
+[1 1 4 1 5 1 7]
+[1 2 4 1 5 1 7]
+[1 2 4 1 5 1 7]
+[1 7 2 1 4 1 7]
+[1 7 3 1 4 1 6]
+[1 7 3 1 4 1 6]
+Mejor Soluci�n 
+[1 2 4 1 5 1 7]
+Max Ganancia 
+1701
+================== 
+population size: 500 
+ generations: 1000 
+ mutation %: 0.5 
+ selection %: 0.4 
+Execution time: 149.7556071281433 seconds
+Execution time: 151.34318017959595 seconds
+Execution time: 149.65048217773438 seconds
+Execution time: 150.95099878311157 seconds
+Execution time: 151.0470929145813 seconds
+Execution time: 150.3478102684021 seconds
+Execution time: 149.70020055770874 seconds
+Execution time: 149.92728781700134 seconds
+Execution time: 150.01789569854736 seconds
+Execution time: 150.50140070915222 seconds
+Ganancias 
+1701
+1645
+1651
+1705
+1664
+1701
+1705
+1701
+1705
+1705
+Cantidad de objetos 
+Combinaciones 
+[1 2 4 1 5 1 7]
+[1 6 2 1 4 2 7]
+[1 1 4 1 5 1 7]
+[1 6 3 1 4 1 7]
+[1 7 3 1 4 1 6]
+[1 2 4 1 5 1 7]
+[1 6 3 1 4 1 7]
+[1 2 4 1 5 1 7]
+[1 6 3 1 4 1 7]
+[1 6 3 1 4 1 7]
+Mejor Soluci�n 
+[1 6 3 1 4 1 7]
+Max Ganancia 
+1705
+================== 
+population size: 500 
+ generations: 1000 
+ mutation %: 0.5 
+ selection %: 0.5 
+Execution time: 150.00548601150513 seconds
+Execution time: 149.59782433509827 seconds
+Execution time: 151.09804940223694 seconds
+Execution time: 150.24566912651062 seconds
+Execution time: 150.3107008934021 seconds
+Execution time: 150.126953125 seconds
+Execution time: 149.9986023902893 seconds
+Execution time: 149.63549876213074 seconds
+Execution time: 150.2733314037323 seconds
+Execution time: 151.38442945480347 seconds
+Ganancias 
+1664
+1701
+1655
+1701
+1701
+1705
+1701
+1705
+1705
+1645
+Cantidad de objetos 
+Combinaciones 
+[1 7 3 1 4 1 6]
+[1 2 4 1 5 1 7]
+[1 5 3 1 4 1 7]
+[1 2 4 1 5 1 7]
+[1 2 4 1 5 1 7]
+[1 6 3 1 4 1 7]
+[1 2 4 1 5 1 7]
+[1 6 3 1 4 1 7]
+[1 6 3 1 4 1 7]
+[1 6 2 1 4 2 7]
+Mejor Soluci�n 
+[1 6 3 1 4 1 7]
+Max Ganancia 
+1705
+================== 
+population size: 500 
+ generations: 1000 
+ mutation %: 0.5 
+ selection %: 0.6000000000000001 
+Execution time: 150.10105872154236 seconds
+Execution time: 151.3323736190796 seconds
+Execution time: 151.90071558952332 seconds
+Execution time: 152.78714203834534 seconds
+Execution time: 150.4026336669922 seconds
+Execution time: 150.50452423095703 seconds
+Execution time: 150.61071634292603 seconds
+Execution time: 150.58551120758057 seconds
+Execution time: 150.60494256019592 seconds
+Execution time: 150.83634090423584 seconds
+Ganancias 
+1701
+1701
+1645
+1651
+1664
+1705
+1705
+1664
+1701
+1701
+Cantidad de objetos 
+Combinaciones 
+[1 2 4 1 5 1 7]
+[1 2 4 1 5 1 7]
+[1 6 2 1 4 2 7]
+[1 1 4 1 5 1 7]
+[1 7 3 1 4 1 6]
+[1 6 3 1 4 1 7]
+[1 6 3 1 4 1 7]
+[1 7 3 1 4 1 6]
+[1 2 4 1 5 1 7]
+[1 2 4 1 5 1 7]
+Mejor Soluci�n 
+[1 6 3 1 4 1 7]
+Max Ganancia 
+1705
+================== 
+population size: 500 
+ generations: 1000 
+ mutation %: 0.5 
+ selection %: 0.7000000000000001 
+Execution time: 150.98893237113953 seconds
+Execution time: 150.6890606880188 seconds
+Execution time: 150.73527598381042 seconds
+Execution time: 150.97243309020996 seconds
+Execution time: 150.65045428276062 seconds
+Execution time: 150.1848065853119 seconds
+Execution time: 151.3742537498474 seconds
+Execution time: 151.39375114440918 seconds
+Execution time: 150.79634976387024 seconds
+Execution time: 151.83338475227356 seconds
+Ganancias 
+1701
+1705
+1705
+1705
+1705
+1705
+1655
+1705
+1701
+1705
+Cantidad de objetos 
+Combinaciones 
+[1 2 4 1 5 1 7]
+[1 6 3 1 4 1 7]
+[1 6 3 1 4 1 7]
+[1 6 3 1 4 1 7]
+[1 6 3 1 4 1 7]
+[1 6 3 1 4 1 7]
+[1 5 3 1 4 1 7]
+[1 6 3 1 4 1 7]
+[1 2 4 1 5 1 7]
+[1 6 3 1 4 1 7]
+Mejor Soluci�n 
+[1 6 3 1 4 1 7]
+Max Ganancia 
+1705
+================== 
+population size: 500 
+ generations: 1000 
+ mutation %: 0.5 
+ selection %: 0.8 
+Execution time: 151.6628453731537 seconds
+Execution time: 151.6011917591095 seconds
+Execution time: 150.70069026947021 seconds
+Execution time: 151.84379386901855 seconds
+Execution time: 151.08181357383728 seconds
+Execution time: 150.66566467285156 seconds
+Execution time: 151.0814106464386 seconds
+Execution time: 150.57905673980713 seconds
+Execution time: 151.00476932525635 seconds
+Execution time: 151.53525710105896 seconds
+Ganancias 
+1659.8800000000003
+1655
+1705
+1701
+1705
+1701
+1651
+1655
+1655
+1659.8800000000003
+Cantidad de objetos 
+Combinaciones 
+[1 7 2 1 4 1 7]
+[1 5 3 1 4 1 7]
+[1 6 3 1 4 1 7]
+[1 2 4 1 5 1 7]
+[1 6 3 1 4 1 7]
+[1 2 4 1 5 1 7]
+[1 1 4 1 5 1 7]
+[1 5 3 1 4 1 7]
+[1 5 3 1 4 1 7]
+[1 7 2 1 4 1 7]
+Mejor Soluci�n 
+[1 6 3 1 4 1 7]
+Max Ganancia 
+1705
+================== 
+population size: 500 
+ generations: 1000 
+ mutation %: 0.5 
+ selection %: 0.9 
+Execution time: 150.48709654808044 seconds
+Execution time: 151.49463844299316 seconds
+Execution time: 150.7223687171936 seconds
+Execution time: 151.45609736442566 seconds
+Execution time: 150.87927794456482 seconds
+Execution time: 150.96420431137085 seconds
+Execution time: 151.15243935585022 seconds
+Execution time: 151.04060983657837 seconds
+Execution time: 151.49078035354614 seconds
+Execution time: 152.01724791526794 seconds
+Ganancias 
+1659.8800000000003
+1655
+1705
+1705
+1701
+1641.3613333333335
+1701
+1701
+1705
+1705
+Cantidad de objetos 
+Combinaciones 
+[1 7 2 1 4 1 7]
+[1 5 3 1 4 1 7]
+[1 6 3 1 4 1 7]
+[1 6 3 1 4 1 7]
+[1 2 4 1 5 1 7]
+[1 3 4 1 5 1 7]
+[1 2 4 1 5 1 7]
+[1 2 4 1 5 1 7]
+[1 6 3 1 4 1 7]
+[1 6 3 1 4 1 7]
+Mejor Soluci�n 
+[1 6 3 1 4 1 7]
+Max Ganancia 
+1705
+================== 
+population size: 500 
+ generations: 1000 
+ mutation %: 0.6000000000000001 
+ selection %: 0.1 
+Execution time: 149.8240532875061 seconds
+Execution time: 150.25904178619385 seconds
+Execution time: 149.26711297035217 seconds
+Execution time: 149.96946811676025 seconds
+Execution time: 149.1536796092987 seconds
+Execution time: 149.18364596366882 seconds
+Execution time: 149.11723351478577 seconds
+Execution time: 148.76257729530334 seconds
+Execution time: 149.2820942401886 seconds
+Execution time: 149.73958444595337 seconds
+Ganancias 
+1655
+1664
+1655
+1655
+1655
+1664
+1645
+1642.4000000000003
+1646.8140000000003
+1645
+Cantidad de objetos 
+Combinaciones 
+[1 5 3 1 4 1 7]
+[1 7 3 1 4 1 6]
+[1 5 3 1 4 1 7]
+[1 5 3 1 4 1 7]
+[1 5 3 1 4 1 7]
+[1 7 3 1 4 1 6]
+[1 6 2 1 4 2 7]
+[1 3 4 1 5 1 6]
+[1 7 3 1 4 1 7]
+[1 6 2 1 4 1 7]
+Mejor Soluci�n 
+[1 7 3 1 4 1 6]
+Max Ganancia 
+1664
+================== 
+population size: 500 
+ generations: 1000 
+ mutation %: 0.6000000000000001 
+ selection %: 0.2 
+Execution time: 149.35392093658447 seconds
+Execution time: 149.0779266357422 seconds
+Execution time: 149.49812269210815 seconds
+Execution time: 149.7703537940979 seconds
+Execution time: 149.34577417373657 seconds
+Execution time: 149.24779224395752 seconds
+Execution time: 149.40691208839417 seconds
+Execution time: 149.5350160598755 seconds
+Execution time: 149.40298080444336 seconds
+Execution time: 150.28043842315674 seconds
+Ganancias 
+1705
+1701
+1664
+1701
+1705
+1705
+1701
+1705
+1701
+1664
+Cantidad de objetos 
+Combinaciones 
+[1 6 3 1 4 1 7]
+[1 2 4 1 5 1 7]
+[1 7 3 1 4 1 6]
+[1 2 4 1 5 1 7]
+[1 6 3 1 4 1 7]
+[1 6 3 1 4 1 7]
+[1 2 4 1 5 1 7]
+[1 6 3 1 4 1 7]
+[1 2 4 1 5 1 7]
+[1 7 3 1 4 1 6]
+Mejor Soluci�n 
+[1 6 3 1 4 1 7]
+Max Ganancia 
+1705
+================== 
+population size: 500 
+ generations: 1000 
+ mutation %: 0.6000000000000001 
+ selection %: 0.30000000000000004 
+Execution time: 150.30416321754456 seconds
+Execution time: 150.69491529464722 seconds
+Execution time: 149.70571970939636 seconds
+Execution time: 150.4709804058075 seconds
+Execution time: 150.59279561042786 seconds
+Execution time: 149.3200809955597 seconds
+Execution time: 149.84396886825562 seconds
+Execution time: 149.46674609184265 seconds
+Execution time: 150.25929641723633 seconds
+Execution time: 149.706716299057 seconds
+Ganancias 
+1705
+1659.8800000000003
+1664
+1664
+1705
+1701
+1701
+1659.8800000000003
+1655
+1705
+Cantidad de objetos 
+Combinaciones 
+[1 6 3 1 4 1 7]
+[1 7 2 1 4 1 7]
+[1 7 3 1 4 1 6]
+[1 7 3 1 4 1 6]
+[1 6 3 1 4 1 7]
+[1 2 4 1 5 1 7]
+[1 2 4 1 5 1 7]
+[1 7 2 1 4 1 7]
+[1 5 3 1 4 1 7]
+[1 6 3 1 4 1 7]
+Mejor Soluci�n 
+[1 6 3 1 4 1 7]
+Max Ganancia 
+1705
+================== 
+population size: 500 
+ generations: 1000 
+ mutation %: 0.6000000000000001 
+ selection %: 0.4 
+Execution time: 150.386137008667 seconds
+Execution time: 150.00099873542786 seconds
+Execution time: 150.25019121170044 seconds
+Execution time: 149.73630213737488 seconds
+Execution time: 149.85773396492004 seconds
+Execution time: 149.95018410682678 seconds
+Execution time: 150.32592916488647 seconds
+Execution time: 149.75997614860535 seconds
+Execution time: 149.8255524635315 seconds
+Execution time: 151.0131709575653 seconds
+Ganancias 
+1664
+1664
+1664
+1705
+1705
+1705
+1664
+1659.8800000000003
+1705
+1705
+Cantidad de objetos 
+Combinaciones 
+[1 7 3 1 4 1 6]
+[1 7 3 1 4 1 6]
+[1 7 3 1 4 1 6]
+[1 6 3 1 4 1 7]
+[1 6 3 1 4 1 7]
+[1 6 3 1 4 1 7]
+[1 7 3 1 4 1 6]
+[1 7 2 1 4 1 7]
+[1 6 3 1 4 1 7]
+[1 6 3 1 4 1 7]
+Mejor Soluci�n 
+[1 6 3 1 4 1 7]
+Max Ganancia 
+1705
+================== 
+population size: 500 
+ generations: 1000 
+ mutation %: 0.6000000000000001 
+ selection %: 0.5 
+Execution time: 150.86188960075378 seconds
+Execution time: 151.13085222244263 seconds
+Execution time: 150.41790342330933 seconds
+Execution time: 151.38129043579102 seconds
+Execution time: 150.08074235916138 seconds
+Execution time: 150.3183000087738 seconds
+Execution time: 153.20172309875488 seconds
+Execution time: 149.48608684539795 seconds
+Execution time: 149.4281301498413 seconds
+Execution time: 150.52052569389343 seconds
+Ganancias 
+1664
+1651
+1664
+1705
+1705
+1705
+1705
+1664
+1664
+1701
+Cantidad de objetos 
+Combinaciones 
+[1 7 3 1 4 1 6]
+[1 1 4 1 5 1 7]
+[1 7 3 1 4 1 6]
+[1 6 3 1 4 1 7]
+[1 6 3 1 4 1 7]
+[1 6 3 1 4 1 7]
+[1 6 3 1 4 1 7]
+[1 7 3 1 4 1 6]
+[1 7 3 1 4 1 6]
+[1 2 4 1 5 1 7]
+Mejor Soluci�n 
+[1 6 3 1 4 1 7]
+Max Ganancia 
+1705
+================== 
+population size: 500 
+ generations: 1000 
+ mutation %: 0.6000000000000001 
+ selection %: 0.6000000000000001 
+Execution time: 150.98682379722595 seconds
+Execution time: 149.79901337623596 seconds
+Execution time: 150.4483540058136 seconds
+Execution time: 149.94968008995056 seconds
+Execution time: 150.06618785858154 seconds
+Execution time: 149.93186855316162 seconds
+Execution time: 150.24731516838074 seconds
+Execution time: 150.51039934158325 seconds
+Execution time: 150.19974279403687 seconds
+Execution time: 150.92098474502563 seconds
+Ganancias 
+1705
+1645
+1705
+1664
+1701
+1655
+1701
+1701
+1705
+1664
+Cantidad de objetos 
+Combinaciones 
+[1 6 3 1 4 1 7]
+[1 6 2 1 4 2 7]
+[1 6 3 1 4 1 7]
+[1 7 3 1 4 1 6]
+[1 2 4 1 5 1 7]
+[1 5 3 1 4 1 7]
+[1 2 4 1 5 1 7]
+[1 2 4 1 5 1 7]
+[1 6 3 1 4 1 7]
+[1 7 3 1 4 1 6]
+Mejor Soluci�n 
+[1 6 3 1 4 1 7]
+Max Ganancia 
+1705
+================== 
+population size: 500 
+ generations: 1000 
+ mutation %: 0.6000000000000001 
+ selection %: 0.7000000000000001 
+Execution time: 150.80988264083862 seconds
+Execution time: 151.43102598190308 seconds
+Execution time: 150.2196524143219 seconds
+Execution time: 151.29512214660645 seconds
+Execution time: 150.58932781219482 seconds
+Execution time: 150.15890073776245 seconds
+Execution time: 150.50574612617493 seconds
+Execution time: 150.08717942237854 seconds
+Execution time: 150.34034180641174 seconds
+Execution time: 150.5871090888977 seconds
+Ganancias 
+1705
+1705
+1705
+1659.8800000000003
+1655
+1664
+1705
+1705
+1705
+1705
+Cantidad de objetos 
+Combinaciones 
+[1 6 3 1 4 1 7]
+[1 6 3 1 4 1 7]
+[1 6 3 1 4 1 7]
+[1 7 2 1 4 1 7]
+[1 5 3 1 4 1 7]
+[1 7 3 1 4 1 6]
+[1 6 3 1 4 1 7]
+[1 6 3 1 4 1 7]
+[1 6 3 1 4 1 7]
+[1 6 3 1 4 1 7]
+Mejor Soluci�n 
+[1 6 3 1 4 1 7]
+Max Ganancia 
+1705
+================== 
+population size: 500 
+ generations: 1000 
+ mutation %: 0.6000000000000001 
+ selection %: 0.8 
+Execution time: 151.11541652679443 seconds
+Execution time: 150.32283926010132 seconds
+Execution time: 151.26648354530334 seconds
+Execution time: 150.69395804405212 seconds
+Execution time: 150.87951970100403 seconds
+Execution time: 150.9964883327484 seconds
+Execution time: 150.72730422019958 seconds
+Execution time: 150.39724969863892 seconds
+Execution time: 151.1685607433319 seconds
+Execution time: 151.45911526679993 seconds
+Ganancias 
+1705
+1645
+1701
+1705
+1664
+1646.8140000000003
+1705
+1705
+1701
+1705
+Cantidad de objetos 
+Combinaciones 
+[1 6 3 1 4 1 7]
+[1 6 2 1 4 1 7]
+[1 2 4 1 5 1 7]
+[1 6 3 1 4 1 7]
+[1 7 3 1 4 1 6]
+[1 7 3 1 4 1 7]
+[1 6 3 1 4 1 7]
+[1 6 3 1 4 1 7]
+[1 2 4 1 5 1 7]
+[1 6 3 1 4 1 7]
+Mejor Soluci�n 
+[1 6 3 1 4 1 7]
+Max Ganancia 
+1705
+================== 
+population size: 500 
+ generations: 1000 
+ mutation %: 0.6000000000000001 
+ selection %: 0.9 
+Execution time: 151.11591577529907 seconds
+Execution time: 151.41579246520996 seconds
+Execution time: 151.21359777450562 seconds
+Execution time: 151.11050963401794 seconds
+Execution time: 150.91930413246155 seconds
+Execution time: 150.91254353523254 seconds
+Execution time: 150.2402629852295 seconds
+Execution time: 150.7029206752777 seconds
+Execution time: 150.48528456687927 seconds
+Execution time: 151.13405108451843 seconds
+Ganancias 
+1701
+1641
+1705
+1705
+1705
+1705
+1705
+1642.4000000000003
+1705
+1705
+Cantidad de objetos 
+Combinaciones 
+[1 2 4 1 5 1 7]
+[1 2 3 1 5 2 7]
+[1 6 3 1 4 1 7]
+[1 6 3 1 4 1 7]
+[1 6 3 1 4 1 7]
+[1 6 3 1 4 1 7]
+[1 6 3 1 4 1 7]
+[1 3 4 1 5 1 6]
+[1 6 3 1 4 1 7]
+[1 6 3 1 4 1 7]
+Mejor Soluci�n 
+[1 6 3 1 4 1 7]
+Max Ganancia 
+1705
+================== 
+population size: 500 
+ generations: 1000 
+ mutation %: 0.7000000000000001 
+ selection %: 0.1 
+Execution time: 148.98469424247742 seconds
+Execution time: 148.83088421821594 seconds
+Execution time: 147.97169637680054 seconds
+Execution time: 149.36465859413147 seconds
+Execution time: 148.61076188087463 seconds
+Execution time: 148.1043722629547 seconds
+Execution time: 149.09569239616394 seconds
+Execution time: 148.57786393165588 seconds
+Execution time: 148.88345050811768 seconds
+Execution time: 148.54053711891174 seconds
+Ganancias 
+1655
+1705
+1701
+1646.8140000000003
+1651
+1664
+1641
+1655
+1659.8800000000003
+1641
+Cantidad de objetos 
+Combinaciones 
+[1 5 3 1 4 1 7]
+[1 6 3 1 4 1 7]
+[1 2 4 1 5 1 7]
+[1 7 3 1 4 1 7]
+[1 1 4 1 5 1 7]
+[1 7 3 1 4 1 6]
+[1 2 3 1 5 1 7]
+[1 5 3 1 4 1 7]
+[1 7 2 1 4 1 7]
+[1 2 3 1 5 1 7]
+Mejor Soluci�n 
+[1 6 3 1 4 1 7]
+Max Ganancia 
+1705
+================== 
+population size: 500 
+ generations: 1000 
+ mutation %: 0.7000000000000001 
+ selection %: 0.2 
+Execution time: 149.48497986793518 seconds
+Execution time: 149.78419160842896 seconds
+Execution time: 148.96567034721375 seconds
+Execution time: 149.92572855949402 seconds
+Execution time: 148.88513040542603 seconds
+Execution time: 148.83273077011108 seconds
+Execution time: 148.72693061828613 seconds
+Execution time: 148.7209436893463 seconds
+Execution time: 149.1108362674713 seconds
+Execution time: 149.0922977924347 seconds
+Ganancias 
+1705
+1705
+1659.8800000000003
+1664
+1651
+1705
+1664
+1655
+1705
+1664
+Cantidad de objetos 
+Combinaciones 
+[1 6 3 1 4 1 7]
+[1 6 3 1 4 1 7]
+[1 7 2 1 4 1 7]
+[1 7 3 1 4 1 6]
+[1 1 4 1 5 1 7]
+[1 6 3 1 4 1 7]
+[1 7 3 1 4 1 6]
+[1 5 3 1 4 1 7]
+[1 6 3 1 4 1 7]
+[1 7 3 1 4 1 6]
+Mejor Soluci�n 
+[1 6 3 1 4 1 7]
+Max Ganancia 
+1705
+================== 
+population size: 500 
+ generations: 1000 
+ mutation %: 0.7000000000000001 
+ selection %: 0.30000000000000004 
+Execution time: 149.5038640499115 seconds
+Execution time: 150.19409036636353 seconds
+Execution time: 149.50083708763123 seconds
+Execution time: 149.90742135047913 seconds
+Execution time: 149.18844175338745 seconds
+Execution time: 148.55407643318176 seconds
+Execution time: 149.40944576263428 seconds
+Execution time: 148.76517868041992 seconds
+Execution time: 148.74848127365112 seconds
+Execution time: 149.01998567581177 seconds
+Ganancias 
+1705
+1705
+1645
+1705
+1701
+1655
+1705
+1646.8140000000003
+1701
+1705
+Cantidad de objetos 
+Combinaciones 
+[1 6 3 1 4 1 7]
+[1 6 3 1 4 1 7]
+[1 6 2 1 4 1 7]
+[1 6 3 1 4 1 7]
+[1 2 4 1 5 1 7]
+[1 5 3 1 4 1 7]
+[1 6 3 1 4 1 7]
+[1 7 3 1 4 1 7]
+[1 2 4 1 5 1 7]
+[1 6 3 1 4 1 7]
+Mejor Soluci�n 
+[1 6 3 1 4 1 7]
+Max Ganancia 
+1705
+================== 
+population size: 500 
+ generations: 1000 
+ mutation %: 0.7000000000000001 
+ selection %: 0.4 
+Execution time: 150.7022066116333 seconds
+Execution time: 150.93068766593933 seconds
+Execution time: 149.4868311882019 seconds
+Execution time: 150.50970911979675 seconds
+Execution time: 149.74530339241028 seconds
+Execution time: 148.9502980709076 seconds
+Execution time: 149.0353889465332 seconds
+Execution time: 149.56543612480164 seconds
+Execution time: 148.8629174232483 seconds
+Execution time: 149.97928285598755 seconds
+Ganancias 
+1664
+1705
+1705
+1645
+1705
+1705
+1645
+1705
+1646.8140000000003
+1705
+Cantidad de objetos 
+Combinaciones 
+[1 7 3 1 4 1 6]
+[1 6 3 1 4 1 7]
+[1 6 3 1 4 1 7]
+[1 6 2 1 4 1 7]
+[1 6 3 1 4 1 7]
+[1 6 3 1 4 1 7]
+[1 6 2 1 4 2 7]
+[1 6 3 1 4 1 7]
+[1 7 3 1 4 1 7]
+[1 6 3 1 4 1 7]
+Mejor Soluci�n 
+[1 6 3 1 4 1 7]
+Max Ganancia 
+1705
+================== 
+population size: 500 
+ generations: 1000 
+ mutation %: 0.7000000000000001 
+ selection %: 0.5 
+Execution time: 150.5742793083191 seconds
+Execution time: 149.52662754058838 seconds
+Execution time: 149.989239692688 seconds
+Execution time: 149.2858989238739 seconds
+Execution time: 150.04128909111023 seconds
+Execution time: 150.03404879570007 seconds
+Execution time: 149.76158595085144 seconds
+Execution time: 149.78206706047058 seconds
+Execution time: 149.88323283195496 seconds
+Execution time: 151.3180079460144 seconds
+Ganancias 
+1701
+1705
+1701
+1705
+1664
+1651
+1701
+1705
+1701
+1659.8800000000003
+Cantidad de objetos 
+Combinaciones 
+[1 2 4 1 5 1 7]
+[1 6 3 1 4 1 7]
+[1 2 4 1 5 1 7]
+[1 6 3 1 4 1 7]
+[1 7 3 1 4 1 6]
+[1 1 4 1 5 1 7]
+[1 2 4 1 5 1 7]
+[1 6 3 1 4 1 7]
+[1 2 4 1 5 1 7]
+[1 7 2 1 4 1 7]
+Mejor Soluci�n 
+[1 6 3 1 4 1 7]
+Max Ganancia 
+1705
+================== 
+population size: 500 
+ generations: 1000 
+ mutation %: 0.7000000000000001 
+ selection %: 0.6000000000000001 
+Execution time: 150.36284255981445 seconds
+Execution time: 150.590918302536 seconds
+Execution time: 150.24039030075073 seconds
+Execution time: 150.29380416870117 seconds
+Execution time: 150.48822212219238 seconds
+Execution time: 149.45024728775024 seconds
+Execution time: 149.75963854789734 seconds
+Execution time: 149.88965129852295 seconds
+Execution time: 149.90218329429626 seconds
+Execution time: 149.9159049987793 seconds
+Ganancias 
+1701
+1651
+1664
+1701
+1705
+1701
+1655
+1705
+1701
+1705
+Cantidad de objetos 
+Combinaciones 
+[1 2 4 1 5 1 7]
+[1 1 4 1 5 1 7]
+[1 7 3 1 4 1 6]
+[1 2 4 1 5 1 7]
+[1 6 3 1 4 1 7]
+[1 2 4 1 5 1 7]
+[1 5 3 1 4 1 7]
+[1 6 3 1 4 1 7]
+[1 2 4 1 5 1 7]
+[1 6 3 1 4 1 7]
+Mejor Soluci�n 
+[1 6 3 1 4 1 7]
+Max Ganancia 
+1705
+================== 
+population size: 500 
+ generations: 1000 
+ mutation %: 0.7000000000000001 
+ selection %: 0.7000000000000001 
+Execution time: 151.14184546470642 seconds
+Execution time: 151.35702061653137 seconds
+Execution time: 150.45669627189636 seconds
+Execution time: 151.46689224243164 seconds
+Execution time: 150.58693981170654 seconds
+Execution time: 149.855220079422 seconds
+Execution time: 150.6745102405548 seconds
+Execution time: 150.6130497455597 seconds
+Execution time: 150.22319841384888 seconds
+Execution time: 151.49787974357605 seconds
+Ganancias 
+1705
+1705
+1664
+1705
+1701
+1705
+1701
+1705
+1701
+1705
+Cantidad de objetos 
+Combinaciones 
+[1 6 3 1 4 1 7]
+[1 6 3 1 4 1 7]
+[1 7 3 1 4 1 6]
+[1 6 3 1 4 1 7]
+[1 2 4 1 5 1 7]
+[1 6 3 1 4 1 7]
+[1 2 4 1 5 1 7]
+[1 6 3 1 4 1 7]
+[1 2 4 1 5 1 7]
+[1 6 3 1 4 1 7]
+Mejor Soluci�n 
+[1 6 3 1 4 1 7]
+Max Ganancia 
+1705
+================== 
+population size: 500 
+ generations: 1000 
+ mutation %: 0.7000000000000001 
+ selection %: 0.8 
+Execution time: 151.23010230064392 seconds
+Execution time: 151.47267651557922 seconds
+Execution time: 150.62175297737122 seconds
+Execution time: 151.7710576057434 seconds
+Execution time: 150.77412152290344 seconds
+Execution time: 152.5495901107788 seconds
+Execution time: 154.6453742980957 seconds
+Execution time: 150.4183702468872 seconds
+Execution time: 150.61378860473633 seconds
+Execution time: 151.99972772598267 seconds
+Ganancias 
+1664
+1705
+1705
+1664
+1705
+1705
+1651
+1655
+1705
+1705
+Cantidad de objetos 
+Combinaciones 
+[1 7 3 1 4 1 6]
+[1 6 3 1 4 1 7]
+[1 6 3 1 4 1 7]
+[1 7 3 1 4 1 6]
+[1 6 3 1 4 1 7]
+[1 6 3 1 4 1 7]
+[1 1 4 1 5 1 7]
+[1 5 3 1 4 1 7]
+[1 6 3 1 4 1 7]
+[1 6 3 1 4 1 7]
+Mejor Soluci�n 
+[1 6 3 1 4 1 7]
+Max Ganancia 
+1705
+================== 
+population size: 500 
+ generations: 1000 
+ mutation %: 0.7000000000000001 
+ selection %: 0.9 
+Execution time: 151.48314785957336 seconds
+Execution time: 152.04647779464722 seconds
+Execution time: 151.0429449081421 seconds
+Execution time: 151.63527369499207 seconds
+Execution time: 151.2717161178589 seconds
+Execution time: 150.7692379951477 seconds
+Execution time: 151.06452226638794 seconds
+Execution time: 151.29899621009827 seconds
+Execution time: 151.07813262939453 seconds
+Execution time: 151.6131727695465 seconds
+Ganancias 
+1705
+1705
+1659.8800000000003
+1705
+1705
+1664
+1664
+1655
+1705
+1701
+Cantidad de objetos 
+Combinaciones 
+[1 6 3 1 4 1 7]
+[1 6 3 1 4 1 7]
+[1 7 2 1 4 1 7]
+[1 6 3 1 4 1 7]
+[1 6 3 1 4 1 7]
+[1 7 3 1 4 1 6]
+[1 7 3 1 4 1 6]
+[1 5 3 1 4 1 7]
+[1 6 3 1 4 1 7]
+[1 2 4 1 5 1 7]
+Mejor Soluci�n 
+[1 6 3 1 4 1 7]
+Max Ganancia 
+1705
+================== 
+population size: 500 
+ generations: 1000 
+ mutation %: 0.8 
+ selection %: 0.1 
+Execution time: 148.8021595478058 seconds
+Execution time: 149.37465381622314 seconds
+Execution time: 148.26589703559875 seconds
+Execution time: 148.92861008644104 seconds
+Execution time: 148.91022038459778 seconds
+Execution time: 148.52009177207947 seconds
+Execution time: 148.47908926010132 seconds
+Execution time: 148.41173911094666 seconds
+Execution time: 148.69941234588623 seconds
+Execution time: 148.41192054748535 seconds
+Ganancias 
+1639
+1655
+1638.5200000000002
+1705
+1664
+1626.238
+1642.4000000000003
+1655
+1645
+1645
+Cantidad de objetos 
+Combinaciones 
+[1 4 3 2 4 1 7]
+[1 5 3 1 4 1 7]
+[1 3 3 1 5 1 7]
+[1 6 3 1 4 1 7]
+[1 7 3 1 4 1 6]
+[2 1 4 1 5 1 7]
+[1 3 4 1 5 1 6]
+[1 5 3 1 4 1 7]
+[1 6 2 1 4 2 7]
+[1 6 2 1 4 1 7]
+Mejor Soluci�n 
+[1 6 3 1 4 1 7]
+Max Ganancia 
+1705
+================== 
+population size: 500 
+ generations: 1000 
+ mutation %: 0.8 
+ selection %: 0.2 
+Execution time: 149.52292823791504 seconds
+Execution time: 149.74371576309204 seconds
+Execution time: 149.4561755657196 seconds
+Execution time: 149.982239484787 seconds
+Execution time: 148.87314438819885 seconds
+Execution time: 148.82316946983337 seconds
+Execution time: 149.30960965156555 seconds
+Execution time: 148.79859280586243 seconds
+Execution time: 148.43455743789673 seconds
+Execution time: 150.15277671813965 seconds
+Ganancias 
+1701
+1664
+1655
+1645
+1645
+1701
+1641.3613333333335
+1664
+1655
+1664
+Cantidad de objetos 
+Combinaciones 
+[1 2 4 1 5 1 7]
+[1 7 3 1 4 1 6]
+[1 5 3 1 4 1 7]
+[1 6 2 1 4 2 7]
+[1 6 2 1 4 1 7]
+[1 2 4 1 5 1 7]
+[1 3 4 1 5 1 7]
+[1 7 3 1 4 1 6]
+[1 5 3 1 4 1 7]
+[1 7 3 1 4 1 6]
+Mejor Soluci�n 
+[1 2 4 1 5 1 7]
+Max Ganancia 
+1701
+================== 
+population size: 500 
+ generations: 1000 
+ mutation %: 0.8 
+ selection %: 0.30000000000000004 
+Execution time: 149.7996232509613 seconds
+Execution time: 149.594712972641 seconds
+Execution time: 149.15237855911255 seconds
+Execution time: 149.57716989517212 seconds
+Execution time: 149.67333960533142 seconds
+Execution time: 149.58747148513794 seconds
+Execution time: 149.19516777992249 seconds
+Execution time: 149.39802718162537 seconds
+Execution time: 149.7354018688202 seconds
+Execution time: 149.01617169380188 seconds
+Ganancias 
+1705
+1646.8140000000003
+1659.8800000000003
+1701
+1651
+1701
+1705
+1642.4000000000003
+1659.8800000000003
+1664
+Cantidad de objetos 
+Combinaciones 
+[1 6 3 1 4 1 7]
+[1 7 3 1 4 1 7]
+[1 7 2 1 4 1 7]
+[1 2 4 1 5 1 7]
+[1 1 4 1 5 1 7]
+[1 2 4 1 5 1 7]
+[1 6 3 1 4 1 7]
+[1 3 4 1 5 1 6]
+[1 7 2 1 4 1 7]
+[1 7 3 1 4 1 6]
+Mejor Soluci�n 
+[1 6 3 1 4 1 7]
+Max Ganancia 
+1705
+================== 
+population size: 500 
+ generations: 1000 
+ mutation %: 0.8 
+ selection %: 0.4 
+Execution time: 150.01970100402832 seconds
+Execution time: 149.87273788452148 seconds
+Execution time: 150.0407121181488 seconds
+Execution time: 149.82049369812012 seconds
+Execution time: 149.71280527114868 seconds
+Execution time: 149.13363432884216 seconds
+Execution time: 150.42429041862488 seconds
+Execution time: 149.66405606269836 seconds
+Execution time: 149.7217936515808 seconds
+Execution time: 150.9987757205963 seconds
+Ganancias 
+1701
+1701
+1705
+1655
+1664
+1664
+1705
+1705
+1705
+1705
+Cantidad de objetos 
+Combinaciones 
+[1 2 4 1 5 1 7]
+[1 2 4 1 5 1 7]
+[1 6 3 1 4 1 7]
+[1 5 3 1 4 1 7]
+[1 7 3 1 4 1 6]
+[1 7 3 1 4 1 6]
+[1 6 3 1 4 1 7]
+[1 6 3 1 4 1 7]
+[1 6 3 1 4 1 7]
+[1 6 3 1 4 1 7]
+Mejor Soluci�n 
+[1 6 3 1 4 1 7]
+Max Ganancia 
+1705
+================== 
+population size: 500 
+ generations: 1000 
+ mutation %: 0.8 
+ selection %: 0.5 
+Execution time: 150.44939947128296 seconds
+Execution time: 150.71211671829224 seconds
+Execution time: 149.693598985672 seconds
+Execution time: 150.9406394958496 seconds
+Execution time: 149.57400226593018 seconds
+Execution time: 149.51445484161377 seconds
+Execution time: 149.56514716148376 seconds
+Execution time: 149.7534041404724 seconds
+Execution time: 149.96115517616272 seconds
+Execution time: 150.32782220840454 seconds
+Ganancias 
+1664
+1705
+1664
+1664
+1705
+1705
+1701
+1651
+1705
+1701
+Cantidad de objetos 
+Combinaciones 
+[1 7 3 1 4 1 6]
+[1 6 3 1 4 1 7]
+[1 7 3 1 4 1 6]
+[1 7 3 1 4 1 6]
+[1 6 3 1 4 1 7]
+[1 6 3 1 4 1 7]
+[1 2 4 1 5 1 7]
+[1 1 4 1 5 1 7]
+[1 6 3 1 4 1 7]
+[1 2 4 1 5 1 7]
+Mejor Soluci�n 
+[1 6 3 1 4 1 7]
+Max Ganancia 
+1705
+================== 
+population size: 500 
+ generations: 1000 
+ mutation %: 0.8 
+ selection %: 0.6000000000000001 
+Execution time: 150.66115140914917 seconds
+Execution time: 150.0676393508911 seconds
+Execution time: 150.15269541740417 seconds
+Execution time: 149.7446150779724 seconds
+Execution time: 150.34562182426453 seconds
+Execution time: 150.03441548347473 seconds
+Execution time: 150.02030682563782 seconds
+Execution time: 150.2433066368103 seconds
+Execution time: 150.62765502929688 seconds
+Execution time: 149.88988995552063 seconds
+Ganancias 
+1705
+1701
+1701
+1659.8800000000003
+1705
+1705
+1664
+1701
+1641
+1701
+Cantidad de objetos 
+Combinaciones 
+[1 6 3 1 4 1 7]
+[1 2 4 1 5 1 7]
+[1 2 4 1 5 1 7]
+[1 7 2 1 4 1 7]
+[1 6 3 1 4 1 7]
+[1 6 3 1 4 1 7]
+[1 7 3 1 4 1 6]
+[1 2 4 1 5 1 7]
+[1 2 3 1 5 2 7]
+[1 2 4 1 5 1 7]
+Mejor Soluci�n 
+[1 6 3 1 4 1 7]
+Max Ganancia 
+1705
+================== 
+population size: 500 
+ generations: 1000 
+ mutation %: 0.8 
+ selection %: 0.7000000000000001 
+Execution time: 154.66602849960327 seconds
+Execution time: 153.0596570968628 seconds
+Execution time: 150.56793236732483 seconds
+Execution time: 151.3788046836853 seconds
+Execution time: 150.9930603504181 seconds
+Execution time: 150.22973251342773 seconds
+Execution time: 150.9070324897766 seconds
+Execution time: 150.87668347358704 seconds
+Execution time: 150.9302577972412 seconds
+Execution time: 151.77901101112366 seconds
+Ganancias 
+1701
+1664
+1705
+1705
+1705
+1705
+1664
+1705
+1705
+1664
+Cantidad de objetos 
+Combinaciones 
+[1 2 4 1 5 1 7]
+[1 7 3 1 4 1 6]
+[1 6 3 1 4 1 7]
+[1 6 3 1 4 1 7]
+[1 6 3 1 4 1 7]
+[1 6 3 1 4 1 7]
+[1 7 3 1 4 1 6]
+[1 6 3 1 4 1 7]
+[1 6 3 1 4 1 7]
+[1 7 3 1 4 1 6]
+Mejor Soluci�n 
+[1 6 3 1 4 1 7]
+Max Ganancia 
+1705
+================== 
+population size: 500 
+ generations: 1000 
+ mutation %: 0.8 
+ selection %: 0.8 
+Execution time: 151.02781438827515 seconds
+Execution time: 151.63280749320984 seconds
+Execution time: 150.6630504131317 seconds
+Execution time: 151.62686848640442 seconds
+Execution time: 150.58634114265442 seconds
+Execution time: 151.31212091445923 seconds
+Execution time: 150.97240495681763 seconds
+Execution time: 150.72027587890625 seconds
+Execution time: 151.7070450782776 seconds
+Execution time: 151.0811059474945 seconds
+Ganancias 
+1664
+1705
+1701
+1701
+1655
+1701
+1701
+1659.8800000000003
+1705
+1701
+Cantidad de objetos 
+Combinaciones 
+[1 7 3 1 4 1 6]
+[1 6 3 1 4 1 7]
+[1 2 4 1 5 1 7]
+[1 2 4 1 5 1 7]
+[1 5 3 1 4 1 7]
+[1 2 4 1 5 1 7]
+[1 2 4 1 5 1 7]
+[1 7 2 1 4 1 7]
+[1 6 3 1 4 1 7]
+[1 2 4 1 5 1 7]
+Mejor Soluci�n 
+[1 6 3 1 4 1 7]
+Max Ganancia 
+1705
+================== 
+population size: 500 
+ generations: 1000 
+ mutation %: 0.8 
+ selection %: 0.9 
+Execution time: 150.90867733955383 seconds
+Execution time: 152.16712427139282 seconds
+Execution time: 151.1527886390686 seconds
+Execution time: 152.11435198783875 seconds
+Execution time: 151.43228030204773 seconds
+Execution time: 151.68198442459106 seconds
+Execution time: 151.48155426979065 seconds
+Execution time: 151.43393659591675 seconds
+Execution time: 151.14319348335266 seconds
+Execution time: 152.3892376422882 seconds
+Ganancias 
+1664
+1655
+1664
+1664
+1659.8800000000003
+1664
+1705
+1705
+1705
+1701
+Cantidad de objetos 
+Combinaciones 
+[1 7 3 1 4 1 6]
+[1 5 3 1 4 1 7]
+[1 7 3 1 4 1 6]
+[1 7 3 1 4 1 6]
+[1 7 2 1 4 1 7]
+[1 7 3 1 4 1 6]
+[1 6 3 1 4 1 7]
+[1 6 3 1 4 1 7]
+[1 6 3 1 4 1 7]
+[1 2 4 1 5 1 7]
+Mejor Soluci�n 
+[1 6 3 1 4 1 7]
+Max Ganancia 
+1705
+================== 
+population size: 500 
+ generations: 1000 
+ mutation %: 0.9 
+ selection %: 0.1 
+Execution time: 149.08616542816162 seconds
+Execution time: 149.71973085403442 seconds
+Execution time: 148.47394371032715 seconds
+Execution time: 149.99256014823914 seconds
+Execution time: 148.13793277740479 seconds
+Execution time: 149.89987802505493 seconds
+Execution time: 149.58560371398926 seconds
+Execution time: 149.03469395637512 seconds
+Execution time: 149.13152813911438 seconds
+Execution time: 149.46803903579712 seconds
+Ganancias 
+1641
+1645
+1640.934
+1645
+1664
+1659.8800000000003
+1625
+1659.8800000000003
+1664
+1629
+Cantidad de objetos 
+Combinaciones 
+[1 2 3 1 5 1 7]
+[1 6 2 1 4 2 7]
+[1 4 4 1 4 1 7]
+[1 6 2 1 4 2 7]
+[1 7 3 1 4 1 6]
+[1 7 2 1 4 1 7]
+[1 1 3 2 5 1 7]
+[1 7 2 1 4 1 7]
+[1 7 3 1 4 1 6]
+[1 5 2 2 4 1 7]
+Mejor Soluci�n 
+[1 7 3 1 4 1 6]
+Max Ganancia 
+1664
+================== 
+population size: 500 
+ generations: 1000 
+ mutation %: 0.9 
+ selection %: 0.2 
+Execution time: 149.80166602134705 seconds
+Execution time: 149.31904220581055 seconds
+Execution time: 149.13632822036743 seconds
+Execution time: 149.4187479019165 seconds
+Execution time: 149.05825424194336 seconds
+Execution time: 149.38233613967896 seconds
+Execution time: 149.559143781662 seconds
+Execution time: 149.06945514678955 seconds
+Execution time: 150.07997369766235 seconds
+Execution time: 150.63621973991394 seconds
+Ganancias 
+1664
+1664
+1655
+1705
+1655
+1705
+1641.3613333333335
+1701
+1651
+1664
+Cantidad de objetos 
+Combinaciones 
+[1 7 3 1 4 1 6]
+[1 7 3 1 4 1 6]
+[1 5 3 1 4 1 7]
+[1 6 3 1 4 1 7]
+[1 5 3 1 4 1 7]
+[1 6 3 1 4 1 7]
+[1 3 4 1 5 1 7]
+[1 2 4 1 5 1 7]
+[1 1 4 1 5 1 7]
+[1 7 3 1 4 1 6]
+Mejor Soluci�n 
+[1 6 3 1 4 1 7]
+Max Ganancia 
+1705
+================== 
+population size: 500 
+ generations: 1000 
+ mutation %: 0.9 
+ selection %: 0.30000000000000004 
+Execution time: 149.81232810020447 seconds
+Execution time: 151.18222403526306 seconds
+Execution time: 149.2123339176178 seconds
+Execution time: 150.61738920211792 seconds
+Execution time: 149.35154604911804 seconds
+Execution time: 149.99493980407715 seconds
+Execution time: 149.74768614768982 seconds
+Execution time: 149.68114161491394 seconds
+Execution time: 149.89283800125122 seconds
+Execution time: 150.99740171432495 seconds
+Ganancias 
+1645
+1655
+1664
+1664
+1664
+1645
+1705
+1664
+1659.8800000000003
+1701
+Cantidad de objetos 
+Combinaciones 
+[1 6 2 1 4 2 7]
+[1 5 3 1 4 1 7]
+[1 7 3 1 4 1 6]
+[1 7 3 1 4 1 6]
+[1 7 3 1 4 1 6]
+[1 6 2 1 4 2 7]
+[1 6 3 1 4 1 7]
+[1 7 3 1 4 1 6]
+[1 7 2 1 4 1 7]
+[1 2 4 1 5 1 7]
+Mejor Soluci�n 
+[1 6 3 1 4 1 7]
+Max Ganancia 
+1705
+================== 
+population size: 500 
+ generations: 1000 
+ mutation %: 0.9 
+ selection %: 0.4 
+Execution time: 150.3220453262329 seconds
+Execution time: 150.80367851257324 seconds
+Execution time: 149.77943921089172 seconds
+Execution time: 150.50039100646973 seconds
+Execution time: 149.59368181228638 seconds
+Execution time: 149.52168774604797 seconds
+Execution time: 149.92052459716797 seconds
+Execution time: 149.69044375419617 seconds
+Execution time: 149.52070832252502 seconds
+Execution time: 149.71693396568298 seconds
+Ganancias 
+1645
+1705
+1659.8800000000003
+1701
+1645
+1705
+1701
+1705
+1646.8140000000003
+1705
+Cantidad de objetos 
+Combinaciones 
+[1 6 2 1 4 2 7]
+[1 6 3 1 4 1 7]
+[1 7 2 1 4 1 7]
+[1 2 4 1 5 1 7]
+[1 6 2 1 4 1 7]
+[1 6 3 1 4 1 7]
+[1 2 4 1 5 1 7]
+[1 6 3 1 4 1 7]
+[1 7 3 1 4 1 7]
+[1 6 3 1 4 1 7]
+Mejor Soluci�n 
+[1 6 3 1 4 1 7]
+Max Ganancia 
+1705
+================== 
+population size: 500 
+ generations: 1000 
+ mutation %: 0.9 
+ selection %: 0.5 
+Execution time: 150.64137530326843 seconds
+Execution time: 150.6299865245819 seconds
+Execution time: 150.55297565460205 seconds
+Execution time: 151.12746214866638 seconds
+Execution time: 150.30021691322327 seconds
+Execution time: 150.26014375686646 seconds
+Execution time: 150.4230182170868 seconds
+Execution time: 150.2833878993988 seconds
+Execution time: 150.53246760368347 seconds
+Execution time: 150.15943884849548 seconds
+Ganancias 
+1641.3613333333335
+1651
+1701
+1701
+1655
+1664
+1705
+1651
+1701
+1705
+Cantidad de objetos 
+Combinaciones 
+[1 3 4 1 5 1 7]
+[1 1 4 1 5 1 7]
+[1 2 4 1 5 1 7]
+[1 2 4 1 5 1 7]
+[1 5 3 1 4 1 7]
+[1 7 3 1 4 1 6]
+[1 6 3 1 4 1 7]
+[1 1 4 1 5 1 7]
+[1 2 4 1 5 1 7]
+[1 6 3 1 4 1 7]
+Mejor Soluci�n 
+[1 6 3 1 4 1 7]
+Max Ganancia 
+1705
+================== 
+population size: 500 
+ generations: 1000 
+ mutation %: 0.9 
+ selection %: 0.6000000000000001 
+Execution time: 150.78499937057495 seconds
+Execution time: 151.72005939483643 seconds
+Execution time: 150.33680534362793 seconds
+Execution time: 151.5711739063263 seconds
+Execution time: 151.09927654266357 seconds
+Execution time: 150.78055334091187 seconds
+Execution time: 150.5176718235016 seconds
+Execution time: 151.00853323936462 seconds
+Execution time: 150.9069812297821 seconds
+Execution time: 151.34707593917847 seconds
+Ganancias 
+1701
+1659.8800000000003
+1659.8800000000003
+1705
+1664
+1701
+1705
+1701
+1659.8800000000003
+1646.8140000000003
+Cantidad de objetos 
+Combinaciones 
+[1 2 4 1 5 1 7]
+[1 7 2 1 4 1 7]
+[1 7 2 1 4 1 7]
+[1 6 3 1 4 1 7]
+[1 7 3 1 4 1 6]
+[1 2 4 1 5 1 7]
+[1 6 3 1 4 1 7]
+[1 2 4 1 5 1 7]
+[1 7 2 1 4 1 7]
+[1 7 3 1 4 1 7]
+Mejor Soluci�n 
+[1 6 3 1 4 1 7]
+Max Ganancia 
+1705
+================== 
+population size: 500 
+ generations: 1000 
+ mutation %: 0.9 
+ selection %: 0.7000000000000001 
+Execution time: 151.69364619255066 seconds
+Execution time: 151.4212245941162 seconds
+Execution time: 150.80391216278076 seconds
+Execution time: 151.16504740715027 seconds
+Execution time: 151.60661125183105 seconds
+Execution time: 150.62838459014893 seconds
+Execution time: 151.44285440444946 seconds
+Execution time: 150.97480392456055 seconds
+Execution time: 151.57269740104675 seconds
+Execution time: 152.2714192867279 seconds
+Ganancias 
+1659.8800000000003
+1705
+1645
+1705
+1701
+1664
+1705
+1659.8800000000003
+1645
+1659.8800000000003
+Cantidad de objetos 
+Combinaciones 
+[1 7 2 1 4 1 7]
+[1 6 3 1 4 1 7]
+[1 6 2 1 4 2 7]
+[1 6 3 1 4 1 7]
+[1 2 4 1 5 1 7]
+[1 7 3 1 4 1 6]
+[1 6 3 1 4 1 7]
+[1 7 2 1 4 1 7]
+[1 6 2 1 4 1 7]
+[1 7 2 1 4 1 7]
+Mejor Soluci�n 
+[1 6 3 1 4 1 7]
+Max Ganancia 
+1705
+================== 
+population size: 500 
+ generations: 1000 
+ mutation %: 0.9 
+ selection %: 0.8 
+Execution time: 151.49418759346008 seconds
+Execution time: 152.10042929649353 seconds
+Execution time: 151.03729820251465 seconds
+Execution time: 151.94176316261292 seconds
+Execution time: 153.01844763755798 seconds
+Execution time: 160.16016244888306 seconds
+Execution time: 162.71024227142334 seconds
+Execution time: 163.68701362609863 seconds
+Execution time: 168.12731385231018 seconds
+Execution time: 163.82623553276062 seconds
+Ganancias 
+1701
+1659.8800000000003
+1651
+1664
+1664
+1664
+1705
+1664
+1705
+1701
+Cantidad de objetos 
+Combinaciones 
+[1 2 4 1 5 1 7]
+[1 7 2 1 4 1 7]
+[1 1 4 1 5 1 7]
+[1 7 3 1 4 1 6]
+[1 7 3 1 4 1 6]
+[1 7 3 1 4 1 6]
+[1 6 3 1 4 1 7]
+[1 7 3 1 4 1 6]
+[1 6 3 1 4 1 7]
+[1 2 4 1 5 1 7]
+Mejor Soluci�n 
+[1 6 3 1 4 1 7]
+Max Ganancia 
+1705
+================== 
+population size: 500 
+ generations: 1000 
+ mutation %: 0.9 
+ selection %: 0.9 
+Execution time: 163.7427339553833 seconds
+Execution time: 166.30691981315613 seconds
+Execution time: 162.64506697654724 seconds
+Execution time: 157.93765926361084 seconds
+Execution time: 163.6875228881836 seconds
+Execution time: 172.7771806716919 seconds
+Execution time: 152.08686089515686 seconds
+Execution time: 155.59370350837708 seconds
+Execution time: 159.30162692070007 seconds
+Execution time: 170.79034996032715 seconds
+Ganancias 
+1701
+1705
+1701
+1701
+1701
+1664
+1701
+1701
+1664
+1705
+Cantidad de objetos 
+Combinaciones 
+[1 2 4 1 5 1 7]
+[1 6 3 1 4 1 7]
+[1 2 4 1 5 1 7]
+[1 2 4 1 5 1 7]
+[1 2 4 1 5 1 7]
+[1 7 3 1 4 1 6]
+[1 2 4 1 5 1 7]
+[1 2 4 1 5 1 7]
+[1 7 3 1 4 1 6]
+[1 6 3 1 4 1 7]
+Mejor Soluci�n 
+[1 6 3 1 4 1 7]
+Max Ganancia 
+1705
+

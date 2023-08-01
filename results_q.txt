@@ -1,0 +1,792 @@
+================== 
+population size: 250 
+ generations: 300 
+ mutation %: 0.3 
+ selection %: 0.7 
+Execution time: 23.1956684589386 seconds
+Execution time: 22.93157124519348 seconds
+Execution time: 22.684359073638916 seconds
+Execution time: 23.50846242904663 seconds
+Execution time: 22.81581139564514 seconds
+Execution time: 22.428659439086914 seconds
+Execution time: 22.817627906799316 seconds
+Execution time: 22.74396562576294 seconds
+Execution time: 22.84152865409851 seconds
+Execution time: 23.53191089630127 seconds
+Ganancias 
+1610
+1701
+1664
+1645
+1620
+1641
+1664
+1598
+1600
+1614
+Mejor Solución 
+[1 2 4 1 5 1 7]
+Max Ganancia 
+1701
+================== 
+population size: 250 
+ generations: 600 
+ mutation %: 0.3 
+ selection %: 0.7 
+Execution time: 44.75826930999756 seconds
+Execution time: 46.01274919509888 seconds
+Execution time: 45.01779079437256 seconds
+Execution time: 45.3429388999939 seconds
+Execution time: 44.78078627586365 seconds
+Execution time: 44.895474672317505 seconds
+Execution time: 44.52847909927368 seconds
+Execution time: 44.702884912490845 seconds
+Execution time: 44.99329495429993 seconds
+Execution time: 44.72795486450195 seconds
+Ganancias 
+1664
+1629
+1610
+1645
+1645
+1639
+1701
+1614
+1655
+1645
+Mejor Solución 
+[1 2 4 1 5 1 7]
+Max Ganancia 
+1701
+================== 
+population size: 250 
+ generations: 900 
+ mutation %: 0.3 
+ selection %: 0.7 
+Execution time: 68.02917098999023 seconds
+Execution time: 67.78896379470825 seconds
+Execution time: 67.01205134391785 seconds
+Execution time: 67.88463640213013 seconds
+Execution time: 67.11685371398926 seconds
+Execution time: 67.5928955078125 seconds
+Execution time: 67.66235637664795 seconds
+Execution time: 68.01944637298584 seconds
+Execution time: 67.7972502708435 seconds
+Execution time: 68.78056240081787 seconds
+Ganancias 
+1651
+1664
+1645
+1605
+1581
+1664
+1705
+1619
+1639
+1645
+Mejor Solución 
+[1 6 3 1 4 1 7]
+Max Ganancia 
+1705
+================== 
+population size: 300 
+ generations: 300 
+ mutation %: 0.3 
+ selection %: 0.7 
+Execution time: 26.902024745941162 seconds
+Execution time: 27.701152324676514 seconds
+Execution time: 28.08603310585022 seconds
+Execution time: 28.3831307888031 seconds
+Execution time: 28.75210952758789 seconds
+Execution time: 27.688232898712158 seconds
+Execution time: 29.44082474708557 seconds
+Execution time: 28.287512063980103 seconds
+Execution time: 28.74204158782959 seconds
+Execution time: 27.825392723083496 seconds
+Ganancias 
+1651
+1655
+1705
+1645
+1645
+1639
+1620
+1594
+1645
+1645
+Mejor Solución 
+[1 6 3 1 4 1 7]
+Max Ganancia 
+1705
+================== 
+population size: 300 
+ generations: 600 
+ mutation %: 0.3 
+ selection %: 0.7 
+Execution time: 57.74780750274658 seconds
+Execution time: 57.05939054489136 seconds
+Execution time: 55.1022469997406 seconds
+Execution time: 57.23433518409729 seconds
+Execution time: 57.86222314834595 seconds
+Execution time: 57.56633257865906 seconds
+Execution time: 57.24016284942627 seconds
+Execution time: 56.6699435710907 seconds
+Execution time: 56.38859701156616 seconds
+Execution time: 57.00829768180847 seconds
+Ganancias 
+1641
+1645
+1641
+1651
+1655
+1705
+1645
+1641
+1651
+1651
+Mejor Solución 
+[1 6 3 1 4 1 7]
+Max Ganancia 
+1705
+================== 
+population size: 300 
+ generations: 900 
+ mutation %: 0.3 
+ selection %: 0.7 
+Execution time: 86.12147951126099 seconds
+Execution time: 87.79727959632874 seconds
+Execution time: 90.65021514892578 seconds
+Execution time: 89.46151566505432 seconds
+Execution time: 86.03897976875305 seconds
+Execution time: 83.64483690261841 seconds
+Execution time: 83.59470725059509 seconds
+Execution time: 86.83799338340759 seconds
+Execution time: 83.47501921653748 seconds
+Execution time: 88.26176142692566 seconds
+Ganancias 
+1614
+1610
+1705
+1651
+1705
+1705
+1615
+1705
+1664
+1629
+Mejor Solución 
+[1 6 3 1 4 1 7]
+Max Ganancia 
+1705
+================== 
+population size: 350 
+ generations: 300 
+ mutation %: 0.3 
+ selection %: 0.7 
+Execution time: 31.947092056274414 seconds
+Execution time: 34.83297324180603 seconds
+Execution time: 33.11945724487305 seconds
+Execution time: 32.8661835193634 seconds
+Execution time: 32.19009256362915 seconds
+Execution time: 32.97610378265381 seconds
+Execution time: 32.05382537841797 seconds
+Execution time: 32.81453227996826 seconds
+Execution time: 31.162986993789673 seconds
+Execution time: 34.37672781944275 seconds
+Ganancias 
+1610
+1585
+1701
+1641
+1705
+1664
+1701
+1641
+1598
+1615
+Mejor Solución 
+[1 6 3 1 4 1 7]
+Max Ganancia 
+1705
+================== 
+population size: 350 
+ generations: 600 
+ mutation %: 0.3 
+ selection %: 0.7 
+Execution time: 66.1771605014801 seconds
+Execution time: 64.501882314682 seconds
+Execution time: 64.14681124687195 seconds
+Execution time: 68.3428692817688 seconds
+Execution time: 64.57011079788208 seconds
+Execution time: 65.84119820594788 seconds
+Execution time: 64.70616722106934 seconds
+Execution time: 66.75089859962463 seconds
+Execution time: 65.6924180984497 seconds
+Execution time: 64.58584094047546 seconds
+Ganancias 
+1645
+1701
+1645
+1620
+1610
+1701
+1600
+1705
+1645
+1615
+Mejor Solución 
+[1 6 3 1 4 1 7]
+Max Ganancia 
+1705
+================== 
+population size: 350 
+ generations: 900 
+ mutation %: 0.3 
+ selection %: 0.7 
+Execution time: 98.23964405059814 seconds
+Execution time: 96.56679582595825 seconds
+Execution time: 96.39756107330322 seconds
+Execution time: 98.60058498382568 seconds
+Execution time: 95.51465630531311 seconds
+Execution time: 96.46767997741699 seconds
+Execution time: 96.12120723724365 seconds
+Execution time: 97.91246485710144 seconds
+Execution time: 99.4284462928772 seconds
+Execution time: 98.83816456794739 seconds
+Ganancias 
+1664
+1639
+1629
+1645
+1701
+1620
+1651
+1615
+1645
+1645
+Mejor Solución 
+[1 2 4 1 5 1 7]
+Max Ganancia 
+1701
+================== 
+population size: 400 
+ generations: 300 
+ mutation %: 0.3 
+ selection %: 0.7 
+Execution time: 36.990304708480835 seconds
+Execution time: 37.097893953323364 seconds
+Execution time: 36.84000205993652 seconds
+Execution time: 38.90096378326416 seconds
+Execution time: 37.29204440116882 seconds
+Execution time: 37.18075680732727 seconds
+Execution time: 37.707072496414185 seconds
+Execution time: 40.63871192932129 seconds
+Execution time: 36.80937170982361 seconds
+Execution time: 37.20391488075256 seconds
+Ganancias 
+1664
+1629
+1605
+1651
+1610
+1664
+1620
+1655
+1701
+1629
+Mejor Solución 
+[1 2 4 1 5 1 7]
+Max Ganancia 
+1701
+================== 
+population size: 400 
+ generations: 600 
+ mutation %: 0.3 
+ selection %: 0.7 
+Execution time: 71.0216372013092 seconds
+Execution time: 79.42632484436035 seconds
+Execution time: 71.84789085388184 seconds
+Execution time: 71.25053453445435 seconds
+Execution time: 70.94978332519531 seconds
+Execution time: 70.88748979568481 seconds
+Execution time: 70.80718111991882 seconds
+Execution time: 70.6984179019928 seconds
+Execution time: 70.9090690612793 seconds
+Execution time: 71.40652775764465 seconds
+Ganancias 
+1655
+1651
+1705
+1641
+1600
+1645
+1705
+1664
+1701
+1705
+Mejor Solución 
+[1 6 3 1 4 1 7]
+Max Ganancia 
+1705
+================== 
+population size: 400 
+ generations: 900 
+ mutation %: 0.3 
+ selection %: 0.7 
+Execution time: 106.62547039985657 seconds
+Execution time: 106.47899413108826 seconds
+Execution time: 106.25091981887817 seconds
+Execution time: 106.8126220703125 seconds
+Execution time: 106.38209509849548 seconds
+Execution time: 106.44470572471619 seconds
+Execution time: 105.9743013381958 seconds
+Execution time: 106.41891026496887 seconds
+Execution time: 106.03708505630493 seconds
+Execution time: 106.56050539016724 seconds
+Ganancias 
+1705
+1641
+1651
+1701
+1641
+1645
+1701
+1705
+1701
+1705
+Mejor Solución 
+[1 6 3 1 4 1 7]
+Max Ganancia 
+1705
+================== 
+population size: 450 
+ generations: 300 
+ mutation %: 0.3 
+ selection %: 0.7 
+Execution time: 40.05094599723816 seconds
+Execution time: 40.096646308898926 seconds
+Execution time: 40.06061935424805 seconds
+Execution time: 40.28099608421326 seconds
+Execution time: 39.94535803794861 seconds
+Execution time: 40.1892991065979 seconds
+Execution time: 39.93654489517212 seconds
+Execution time: 40.37251853942871 seconds
+Execution time: 39.8754448890686 seconds
+Execution time: 40.094335079193115 seconds
+Ganancias 
+1641
+1651
+1701
+1641
+1645
+1651
+1655
+1701
+1664
+1615
+Mejor Solución 
+[1 2 4 1 5 1 7]
+Max Ganancia 
+1701
+================== 
+population size: 450 
+ generations: 600 
+ mutation %: 0.3 
+ selection %: 0.7 
+Execution time: 79.56585788726807 seconds
+Execution time: 80.52592062950134 seconds
+Execution time: 79.62524223327637 seconds
+Execution time: 80.11891913414001 seconds
+Execution time: 79.85473704338074 seconds
+Execution time: 79.87333750724792 seconds
+Execution time: 79.54227662086487 seconds
+Execution time: 79.62807583808899 seconds
+Execution time: 79.48155641555786 seconds
+Execution time: 80.3640809059143 seconds
+Ganancias 
+1701
+1701
+1701
+1705
+1625
+1620
+1701
+1641
+1705
+1664
+Mejor Solución 
+[1 6 3 1 4 1 7]
+Max Ganancia 
+1705
+================== 
+population size: 450 
+ generations: 900 
+ mutation %: 0.3 
+ selection %: 0.7 
+Execution time: 119.6175696849823 seconds
+Execution time: 120.73344874382019 seconds
+Execution time: 119.27422404289246 seconds
+Execution time: 120.10270071029663 seconds
+Execution time: 119.5394606590271 seconds
+Execution time: 120.52819037437439 seconds
+Execution time: 129.12770628929138 seconds
+Execution time: 125.62231087684631 seconds
+Execution time: 119.94910430908203 seconds
+Execution time: 120.40301418304443 seconds
+Ganancias 
+1664
+1701
+1705
+1641
+1705
+1664
+1701
+1664
+1705
+1701
+Mejor Solución 
+[1 6 3 1 4 1 7]
+Max Ganancia 
+1705
+================== 
+population size: 500 
+ generations: 300 
+ mutation %: 0.3 
+ selection %: 0.7 
+Execution time: 44.35716390609741 seconds
+Execution time: 44.92285394668579 seconds
+Execution time: 44.460505962371826 seconds
+Execution time: 44.67243552207947 seconds
+Execution time: 44.645466327667236 seconds
+Execution time: 44.558510541915894 seconds
+Execution time: 44.402312994003296 seconds
+Execution time: 44.82854199409485 seconds
+Execution time: 44.577157735824585 seconds
+Execution time: 44.57188057899475 seconds
+Ganancias 
+1651
+1705
+1614
+1600
+1651
+1651
+1664
+1620
+1641
+1641
+Mejor Solución 
+[1 6 3 1 4 1 7]
+Max Ganancia 
+1705
+================== 
+population size: 500 
+ generations: 600 
+ mutation %: 0.3 
+ selection %: 0.7 
+Execution time: 88.73375940322876 seconds
+Execution time: 88.73196005821228 seconds
+Execution time: 88.73156332969666 seconds
+Execution time: 89.31028199195862 seconds
+Execution time: 88.46890878677368 seconds
+Execution time: 88.99675464630127 seconds
+Execution time: 88.93269348144531 seconds
+Execution time: 88.84635210037231 seconds
+Execution time: 88.88573932647705 seconds
+Execution time: 89.3017909526825 seconds
+Ganancias 
+1655
+1645
+1705
+1645
+1664
+1705
+1613
+1641
+1651
+1664
+Mejor Solución 
+[1 6 3 1 4 1 7]
+Max Ganancia 
+1705
+================== 
+population size: 500 
+ generations: 900 
+ mutation %: 0.3 
+ selection %: 0.7 
+Execution time: 132.86395478248596 seconds
+Execution time: 133.36061191558838 seconds
+Execution time: 132.87993264198303 seconds
+Execution time: 133.17426562309265 seconds
+Execution time: 132.9324882030487 seconds
+Execution time: 132.79470777511597 seconds
+Execution time: 132.88270092010498 seconds
+Execution time: 133.1609013080597 seconds
+Execution time: 132.90909838676453 seconds
+Execution time: 134.82914400100708 seconds
+Ganancias 
+1620
+1615
+1705
+1664
+1651
+1651
+1701
+1701
+1651
+1705
+Mejor Solución 
+[1 6 3 1 4 1 7]
+Max Ganancia 
+1705
+================== 
+population size: 500 
+ generations: 1000 
+ mutation %: 0.3 
+ selection %: 0.7 
+Execution time: 154.33934688568115 seconds
+Execution time: 148.1202371120453 seconds
+Execution time: 164.10932803153992 seconds
+Execution time: 159.17531657218933 seconds
+Execution time: 157.9154987335205 seconds
+Execution time: 153.43622088432312 seconds
+Execution time: 154.53255319595337 seconds
+Execution time: 155.1258511543274 seconds
+Execution time: 164.5342903137207 seconds
+Execution time: 152.84775304794312 seconds
+Ganancias 
+1651
+1705
+1664
+1664
+1655
+1701
+1701
+1641
+1705
+1641
+Mejor Solución 
+[1 6 3 1 4 1 7]
+Max Ganancia 
+1705
+================== 
+population size: 500 
+ generations: 1100 
+ mutation %: 0.3 
+ selection %: 0.7 
+Execution time: 164.78335046768188 seconds
+Execution time: 164.108140707016 seconds
+Execution time: 169.36588978767395 seconds
+Execution time: 171.24113941192627 seconds
+Execution time: 172.61548805236816 seconds
+Execution time: 172.22914814949036 seconds
+Execution time: 172.5589635372162 seconds
+Execution time: 169.9036033153534 seconds
+Execution time: 169.50790357589722 seconds
+Execution time: 168.56634497642517 seconds
+Ganancias 
+1701
+1641
+1705
+1651
+1705
+1645
+1645
+1705
+1655
+1651
+Mejor Solución 
+[1 6 3 1 4 1 7]
+Max Ganancia 
+1705
+================== 
+population size: 500 
+ generations: 1200 
+ mutation %: 0.3 
+ selection %: 0.7 
+Execution time: 183.7666199207306 seconds
+Execution time: 187.04746270179749 seconds
+Execution time: 184.2067186832428 seconds
+Execution time: 184.5800280570984 seconds
+Execution time: 183.82565760612488 seconds
+Execution time: 185.34444952011108 seconds
+Execution time: 186.1541543006897 seconds
+Execution time: 189.06233096122742 seconds
+Execution time: 189.1826102733612 seconds
+Execution time: 189.31949162483215 seconds
+Ganancias 
+1664
+1701
+1651
+1705
+1651
+1705
+1705
+1701
+1620
+1701
+Mejor Solución 
+[1 6 3 1 4 1 7]
+Max Ganancia 
+1705
+================== 
+population size: 500 
+ generations: 1300 
+ mutation %: 0.3 
+ selection %: 0.7 
+Execution time: 203.91659927368164 seconds
+Execution time: 202.7934854030609 seconds
+Execution time: 201.45449590682983 seconds
+Execution time: 201.43681979179382 seconds
+Execution time: 200.4452133178711 seconds
+Execution time: 198.8497371673584 seconds
+Execution time: 199.52745294570923 seconds
+Execution time: 200.19197821617126 seconds
+Execution time: 200.21541833877563 seconds
+Execution time: 200.9993851184845 seconds
+Ganancias 
+1705
+1619
+1705
+1655
+1655
+1701
+1701
+1664
+1705
+1705
+Mejor Solución 
+[1 6 3 1 4 1 7]
+Max Ganancia 
+1705
+================== 
+population size: 500 
+ generations: 1400 
+ mutation %: 0.3 
+ selection %: 0.7 
+Execution time: 215.25591921806335 seconds
+Execution time: 215.52141499519348 seconds
+Execution time: 214.65938687324524 seconds
+Execution time: 217.3052499294281 seconds
+Execution time: 220.40505361557007 seconds
+Execution time: 219.56093192100525 seconds
+Execution time: 219.75479984283447 seconds
+Execution time: 221.3887279033661 seconds
+Execution time: 219.75845098495483 seconds
+Execution time: 223.0757133960724 seconds
+Ganancias 
+1705
+1701
+1705
+1705
+1701
+1645
+1705
+1664
+1651
+1655
+Mejor Solución 
+[1 6 3 1 4 1 7]
+Max Ganancia 
+1705
+================== 
+population size: 500 
+ generations: 1500 
+ mutation %: 0.3 
+ selection %: 0.7 
+Execution time: 246.39004182815552 seconds
+Execution time: 234.46716904640198 seconds
+Execution time: 235.95573139190674 seconds
+Execution time: 231.48247909545898 seconds
+Execution time: 230.05654382705688 seconds
+Execution time: 225.32775497436523 seconds
+Execution time: 225.25973916053772 seconds
+Execution time: 224.95077848434448 seconds
+Execution time: 225.14428544044495 seconds
+Execution time: 226.54633045196533 seconds
+Ganancias 
+1705
+1705
+1641
+1651
+1705
+1664
+1705
+1705
+1705
+1651
+Mejor Solución 
+[1 6 3 1 4 1 7]
+Max Ganancia 
+1705
+================== 
+population size: 550 
+ generations: 1000 
+ mutation %: 0.3 
+ selection %: 0.7 
+Execution time: 164.45412349700928 seconds
+Execution time: 165.91523098945618 seconds
+Execution time: 165.1699662208557 seconds
+Execution time: 165.0862684249878 seconds
+Execution time: 164.72866344451904 seconds
+Execution time: 165.04798197746277 seconds
+Execution time: 173.45197129249573 seconds
+Execution time: 168.86689496040344 seconds
+Execution time: 164.59065079689026 seconds
+Execution time: 164.25966954231262 seconds
+Ganancias 
+1701
+1701
+1705
+1641
+1701
+1645
+1664
+1639
+1705
+1701
+Mejor Solución 
+[1 6 3 1 4 1 7]
+Max Ganancia 
+1705
+================== 
+population size: 550 
+ generations: 1100 
+ mutation %: 0.3 
+ selection %: 0.7 
+Execution time: 180.78775787353516 seconds
+Execution time: 182.16564869880676 seconds
+Execution time: 180.95871210098267 seconds
+Execution time: 181.6241545677185 seconds
+Execution time: 181.21543717384338 seconds
+Execution time: 180.29963159561157 seconds
+Execution time: 181.2219762802124 seconds
+Execution time: 180.740873336792 seconds
+Execution time: 180.84378695487976 seconds
+Execution time: 180.1550271511078 seconds
+Ganancias 
+1701
+1664
+1664
+1705
+1705
+1651
+1705
+1655
+1705
+1705
+Mejor Solución 
+[1 6 3 1 4 1 7]
+Max Ganancia 
+1705
+================== 
+population size: 550 
+ generations: 1200 
+ mutation %: 0.3 
+ selection %: 0.7 
+Execution time: 197.61052227020264 seconds
+Execution time: 198.42710709571838 seconds
+Execution time: 197.89981031417847 seconds
+Execution time: 198.44331169128418 seconds
+Execution time: 196.47620177268982 seconds
+Execution time: 195.6935465335846 seconds
+Execution time: 196.9762487411499 seconds

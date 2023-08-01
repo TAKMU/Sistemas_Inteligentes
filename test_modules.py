@@ -110,7 +110,6 @@ def gen_algorithm():
 print(PRODUCTS)
 
 
-
 n_p = 50
 n_g = 500
 p_mutate = 0.1
@@ -142,7 +141,6 @@ for i in range(1, 21):
             f.write("Max Ganancia \n")
             f.write(str(max(ran1)) + "\n")
 
-
 n_pop = 500
 n_generations = 1000
 p_m = 0.1
@@ -150,7 +148,9 @@ p_s = 0.1
 for i in range(1, 11):
     p_mutate = p_m * i
     for j in range(1, 11):
-        per_selection = p_s * i
+        if i == 1 and j == 1:
+            break
+        per_selection = p_s * j
         with open('results.txt', 'a') as f:
             f.write("================== \n")
             f.write("population size: {0} \n generations: {1} \n mutation %: {2} \n selection %: {3} \n". format(n_pop, n_generations, p_mutate, per_selection))
