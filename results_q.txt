@@ -790,3 +790,111 @@ Execution time: 198.44331169128418 seconds
 Execution time: 196.47620177268982 seconds
 Execution time: 195.6935465335846 seconds
 Execution time: 196.9762487411499 seconds
+Execution time: 212.57390451431274 seconds
+Execution time: 208.2857620716095 seconds
+Execution time: 206.293288230896 seconds
+Ganancias 
+1664
+1705
+1705
+1701
+1701
+1705
+1701
+1701
+1705
+1645
+Mejor Solución 
+[1 6 3 1 4 1 7]
+Max Ganancia 
+1705
+================== 
+population size: 550 
+ generations: 1300 
+ mutation %: 0.3 
+ selection %: 0.7 
+Execution time: 246.27672243118286 seconds
+Execution time: 256.7255790233612 seconds
+Execution time: 258.38293194770813 seconds
+Execution time: 253.8277726173401 seconds
+Execution time: 246.5245065689087 seconds
+Execution time: 260.1628050804138 seconds
+Execution time: 263.28587007522583 seconds
+Execution time: 261.2833504676819 seconds
+Execution time: 255.1748080253601 seconds
+Execution time: 263.30038046836853 seconds
+Ganancias 
+1705
+1651
+1705
+1655
+1705
+1655
+1655
+1651
+1701
+1664
+Mejor Solución 
+[1 6 3 1 4 1 7]
+Max Ganancia 
+1705
+================== 
+population size: 550 
+ generations: 1400 
+ mutation %: 0.3 
+ selection %: 0.7 
+Execution time: 272.15407633781433 seconds
+Execution time: 278.2292995452881 seconds
+Execution time: 261.6420011520386 seconds
+Execution time: 255.78628206253052 seconds
+Execution time: 249.07677149772644 seconds
+Execution time: 262.5704553127289 seconds
+Execution time: 237.66371297836304 seconds
+Execution time: 240.9455690383911 seconds
+Execution time: 237.14053654670715 seconds
+Execution time: 237.20476937294006 seconds
+Ganancias 
+1705
+1701
+1701
+1705
+1701
+1664
+1701
+1664
+1701
+1705
+Mejor Solución 
+[1 6 3 1 4 1 7]
+Max Ganancia 
+1705
+================== 
+population size: 550 
+ generations: 1500 
+ mutation %: 0.3 
+ selection %: 0.7 
+Execution time: 256.9005925655365 seconds
+Execution time: 255.76893854141235 seconds
+Execution time: 256.31919407844543 seconds
+Execution time: 256.1632628440857 seconds
+Execution time: 257.0790078639984 seconds
+Execution time: 259.9495770931244 seconds
+Execution time: 254.6251926422119 seconds
+Execution time: 248.62660884857178 seconds
+Execution time: 246.4391586780548 seconds
+Execution time: 248.1523609161377 seconds
+Ganancias 
+1651
+1705
+1705
+1701
+1651
+1701
+1701
+1701
+1701
+1701
+Mejor Solución 
+[1 6 3 1 4 1 7]
+Max Ganancia 
+1705
