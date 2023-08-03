@@ -4,29 +4,20 @@ import numpy as np
 import random
 import math
 
-PRODUCTS = pd.DataFrame({
-    'Names' : ["Dubalin", "Chocolate", "Sabritas", "Gansitos", "Bubaloo", "Panditas", "Kranky"],
-    'Weight' : [.6, .5, .1, .6, 2, .2, .3],
-    'Buy_Price': [60, 30, 80, 66, 34, 76, 33],
-    'Sale_Price' : [70, 80, 140, 100, 170, 76, 124]
-    })
-
-n_product = len(PRODUCTS.index)
-max_value = 7
-min_value = 1
 
 
 def init_population(n):
     """Return a population of n random solutions. Each solution is 
-    a 4x3 list, with each element being a selection of 3 distinct
-    random barrels.
+    a nx7 list, with each being a combination of products with the elements containing 
+    a value from 1 to 7
     """
     global n_product
     new_population = np.random.randint(low=min_value, high=max_value, size=(n, n_product))
     return new_population
 
 def fitness(candidate):
-    """Give the score of the revenue obtain, and penalize the score when
+    """
+    Give the score of the revenue obtain, and penalize the score when
     it doesn't comply with the restrictions (not 0 or negative numbers from the start)
     """
     weight_limit = 15
@@ -42,7 +33,6 @@ def fitness(candidate):
         negative = negative + (buy_limit - result_buy) * (score / buy_limit)
     if result_weight > weight_limit or result_buy > buy_limit:
         return score + negative
-    score = result_sale - result_buy
     return score
 
 def evaluation(population):
@@ -117,7 +107,6 @@ def gen_algorithm():
     """
     pop = init_population(n_pop)
     ranking = evaluation(pop)
-    best_score = 0
     for i in range(n_generations):
         parents = selection(ranking, per_selection)
         children = crossover(parents)
@@ -126,9 +115,6 @@ def gen_algorithm():
         new_pop[:children.shape[0]] = children
         new_pop[children.shape[0]:] = pop[:(n_pop-children.shape[0])]
         pop = evaluation(new_pop)
-        best_score = fitness(pop[0])
-        with open('results_m43.txt', 'a') as f:
-            f.write(str(best_score) + '\n')
     r_sol = []
     for com in pop:
         is_sol = is_solution(com)
@@ -139,14 +125,23 @@ def gen_algorithm():
     return solution
 
 
+if __name__ == "__main__":
+    PRODUCTS = pd.DataFrame({
+    'Names' : ["Dubalin", "Chocolate", "Sabritas", "Gansitos", "Bubaloo", "Panditas", "Kranky"],
+    'Weight' : [.6, .5, .1, .6, 2, .2, .3],
+    'Buy_Price': [60, 30, 80, 66, 34, 76, 33],
+    'Sale_Price' : [70, 80, 140, 100, 170, 76, 124]
+    })
+    n_product = len(PRODUCTS.index)
+    max_value = 7
+    min_value = 1
+    n_pop = 500
+    n_generations = 1000
+    p_mutate = 0.40
+    per_selection = 0.70
+    print("==================")
+    print("population size: {0} \n generations: {1} \n mutation %: {2} \n selection %: {3}". format(n_pop, n_generations, p_mutate, per_selection))
+    solution = gen_algorithm()
+    print(solution)
+    print(fitness(solution))
 
-
-n_pop = 500
-n_generations = 1000
-p_mutate = 0.40
-per_selection = 0.70
-print("==================")
-print("population size: {0} \n generations: {1} \n mutation %: {2} \n selection %: {3}". format(n_pop, n_generations, p_mutate, per_selection))
-solution = gen_algorithm()
-print(solution)
-print(fitness(solution))
